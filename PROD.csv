@@ -360,818 +360,614 @@ Monat,Sektor,Produktivitätsindex,Einheit,series,adj_factor
 2014-12-01,Herstellung von Waren,100.07346938775511,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9387755102040818
 2014-12-01,Gesamt,107.27461706783369,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9518599562363238
 2015-01-01,Bau,82.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-01-01,Energieversorgung,125.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-01-01,Herstellung von Waren,90.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-01-01,Gesamt,92,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-01-01,Bau,71.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-01-01,Energieversorgung,120.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-01-01,Herstellung von Waren,87.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-01-01,Gesamt,87,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-02-01,Bau,82.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-02-01,Energieversorgung,109.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-02-01,Herstellung von Waren,93,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-02-01,Gesamt,92.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-02-01,Bau,78.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-02-01,Energieversorgung,110.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-02-01,Herstellung von Waren,93.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-02-01,Gesamt,91.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-03-01,Bau,91.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-03-01,Energieversorgung,99.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-03-01,Herstellung von Waren,101.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-03-01,Gesamt,98.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-03-01,Bau,93.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-03-01,Energieversorgung,109.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-03-01,Herstellung von Waren,108.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-03-01,Gesamt,105.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-04-01,Bau,87.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-04-01,Energieversorgung,97.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-04-01,Herstellung von Waren,95.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-04-01,Gesamt,94.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-04-01,Bau,90.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-04-01,Energieversorgung,101.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-04-01,Herstellung von Waren,99,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-04-01,Gesamt,97.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-05-01,Bau,92.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-05-01,Energieversorgung,102.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-05-01,Herstellung von Waren,99.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-05-01,Gesamt,97.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-05-01,Bau,93.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-05-01,Energieversorgung,92.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-05-01,Herstellung von Waren,98.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-05-01,Gesamt,96.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-06-01,Bau,98.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-06-01,Energieversorgung,86.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-06-01,Herstellung von Waren,105.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-06-01,Gesamt,101.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-06-01,Bau,102.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-06-01,Energieversorgung,86.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-06-01,Herstellung von Waren,105,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-06-01,Gesamt,102.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-07-01,Bau,100.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-07-01,Energieversorgung,84.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-07-01,Herstellung von Waren,101.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-07-01,Gesamt,100.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-07-01,Bau,104.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-07-01,Energieversorgung,87.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-07-01,Herstellung von Waren,100.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-07-01,Gesamt,100,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-08-01,Bau,98.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-08-01,Energieversorgung,92.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-08-01,Herstellung von Waren,96.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-08-01,Gesamt,96.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-08-01,Bau,96.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-08-01,Energieversorgung,85.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-08-01,Herstellung von Waren,89.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-08-01,Gesamt,90.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-09-01,Bau,101.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-09-01,Energieversorgung,87.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-09-01,Herstellung von Waren,105,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-09-01,Gesamt,102.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-09-01,Bau,108.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-09-01,Energieversorgung,90.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-09-01,Herstellung von Waren,106.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-09-01,Gesamt,105.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-10-01,Bau,103.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-10-01,Energieversorgung,95.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-10-01,Herstellung von Waren,100.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-10-01,Gesamt,100.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-10-01,Bau,111.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-10-01,Energieversorgung,100.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-10-01,Herstellung von Waren,106,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-10-01,Gesamt,107,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-11-01,Bau,111,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-11-01,Energieversorgung,91,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-11-01,Herstellung von Waren,101.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-11-01,Gesamt,103.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-11-01,Bau,120.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-11-01,Energieversorgung,100.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-11-01,Herstellung von Waren,107.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-11-01,Gesamt,109.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2015-12-01,Bau,150.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2015-12-01,Energieversorgung,129,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2015-12-01,Herstellung von Waren,110.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2015-12-01,Gesamt,120.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2015-12-01,Bau,130.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2015-12-01,Energieversorgung,115,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2015-12-01,Herstellung von Waren,98.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2015-12-01,Gesamt,106.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-01-01,Bau,80.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-01-01,Energieversorgung,119.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-01-01,Herstellung von Waren,93.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-01-01,Gesamt,94,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-01-01,Bau,69.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-01-01,Energieversorgung,109.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-01-01,Herstellung von Waren,90.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-01-01,Gesamt,88.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-02-01,Bau,84.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-02-01,Energieversorgung,100.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-02-01,Herstellung von Waren,95.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-02-01,Gesamt,94.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-02-01,Bau,79.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-02-01,Energieversorgung,106,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-02-01,Herstellung von Waren,95.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-02-01,Gesamt,93.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-03-01,Bau,95.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-03-01,Energieversorgung,101.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-03-01,Herstellung von Waren,104.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-03-01,Gesamt,102.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-03-01,Bau,97.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-03-01,Energieversorgung,109.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-03-01,Herstellung von Waren,110.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-03-01,Gesamt,107.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-04-01,Bau,87.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-04-01,Energieversorgung,81.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-04-01,Herstellung von Waren,97.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-04-01,Gesamt,94.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-04-01,Bau,91.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-04-01,Energieversorgung,88.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-04-01,Herstellung von Waren,101.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-04-01,Gesamt,99,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-05-01,Bau,96.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-05-01,Energieversorgung,93.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-05-01,Herstellung von Waren,101.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-05-01,Gesamt,99.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-05-01,Bau,95.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-05-01,Energieversorgung,86.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-05-01,Herstellung von Waren,100.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-05-01,Gesamt,97.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-06-01,Bau,98.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-06-01,Energieversorgung,82.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-06-01,Herstellung von Waren,106,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-06-01,Gesamt,102.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-06-01,Bau,102.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-06-01,Energieversorgung,88,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-06-01,Herstellung von Waren,104.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-06-01,Gesamt,102.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-07-01,Bau,100.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-07-01,Energieversorgung,88.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-07-01,Herstellung von Waren,99.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-07-01,Gesamt,99.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-07-01,Bau,106.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-07-01,Energieversorgung,83.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-07-01,Herstellung von Waren,100.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-07-01,Gesamt,101,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-08-01,Bau,102.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-08-01,Energieversorgung,93.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-08-01,Herstellung von Waren,100.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-08-01,Gesamt,100.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-08-01,Bau,99.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-08-01,Energieversorgung,86.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-08-01,Herstellung von Waren,90.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-08-01,Gesamt,92.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-09-01,Bau,106.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-09-01,Energieversorgung,85.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-09-01,Herstellung von Waren,106.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-09-01,Gesamt,104.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-09-01,Bau,113.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-09-01,Energieversorgung,88.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-09-01,Herstellung von Waren,107.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-09-01,Gesamt,107.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-10-01,Bau,105.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-10-01,Energieversorgung,105.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-10-01,Herstellung von Waren,101.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-10-01,Gesamt,103.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-10-01,Bau,113.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-10-01,Energieversorgung,104.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-10-01,Herstellung von Waren,107.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-10-01,Gesamt,108.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-11-01,Bau,113.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-11-01,Energieversorgung,106.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-11-01,Herstellung von Waren,105.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-11-01,Gesamt,107,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-11-01,Bau,121.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-11-01,Energieversorgung,114.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-11-01,Herstellung von Waren,110.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-11-01,Gesamt,112.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2016-12-01,Bau,153.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2016-12-01,Energieversorgung,143.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2016-12-01,Herstellung von Waren,115.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2016-12-01,Gesamt,125,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2016-12-01,Bau,133.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2016-12-01,Energieversorgung,130.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2016-12-01,Herstellung von Waren,102.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2016-12-01,Gesamt,111.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-01-01,Bau,81.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-01-01,Energieversorgung,134.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-01-01,Herstellung von Waren,93,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-01-01,Gesamt,94.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-01-01,Bau,67.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-01-01,Energieversorgung,132.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-01-01,Herstellung von Waren,89.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-01-01,Gesamt,88.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-02-01,Bau,86.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-02-01,Energieversorgung,118.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-02-01,Herstellung von Waren,96.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-02-01,Gesamt,95.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-02-01,Bau,80.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-02-01,Energieversorgung,118.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-02-01,Herstellung von Waren,97,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-02-01,Gesamt,95,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-03-01,Bau,92.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-03-01,Energieversorgung,104.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-03-01,Herstellung von Waren,106.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-03-01,Gesamt,102.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-03-01,Bau,95.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-03-01,Energieversorgung,119.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-03-01,Herstellung von Waren,113.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-03-01,Gesamt,109.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-04-01,Bau,89.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-04-01,Energieversorgung,105.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-04-01,Herstellung von Waren,98.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-04-01,Gesamt,96.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-04-01,Bau,93.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-04-01,Energieversorgung,101.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-04-01,Herstellung von Waren,103.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-04-01,Gesamt,101,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-05-01,Bau,98.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-05-01,Energieversorgung,93.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-05-01,Herstellung von Waren,104.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-05-01,Gesamt,101.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-05-01,Bau,100.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-05-01,Energieversorgung,95.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-05-01,Herstellung von Waren,102.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-05-01,Gesamt,100.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-06-01,Bau,105.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-06-01,Energieversorgung,101,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-06-01,Herstellung von Waren,110.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-06-01,Gesamt,107.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-06-01,Bau,108.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-06-01,Energieversorgung,94.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-06-01,Herstellung von Waren,109.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-06-01,Gesamt,107.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-07-01,Bau,105.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-07-01,Energieversorgung,100.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-07-01,Herstellung von Waren,106.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-07-01,Gesamt,104.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-07-01,Bau,110.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-07-01,Energieversorgung,96.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-07-01,Herstellung von Waren,106.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-07-01,Gesamt,105.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-08-01,Bau,105.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-08-01,Energieversorgung,105.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-08-01,Herstellung von Waren,104.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-08-01,Gesamt,103.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-08-01,Bau,101.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-08-01,Energieversorgung,97.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-08-01,Herstellung von Waren,94.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-08-01,Gesamt,95.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-09-01,Bau,110,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-09-01,Energieversorgung,105.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-09-01,Herstellung von Waren,110.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-09-01,Gesamt,108.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-09-01,Bau,115.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-09-01,Energieversorgung,106.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-09-01,Herstellung von Waren,112.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-09-01,Gesamt,111.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-10-01,Bau,112,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-10-01,Energieversorgung,103.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-10-01,Herstellung von Waren,105.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-10-01,Gesamt,106.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-10-01,Bau,121,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-10-01,Energieversorgung,108.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-10-01,Herstellung von Waren,110.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-10-01,Gesamt,112.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-11-01,Bau,120.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-11-01,Energieversorgung,114.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-11-01,Herstellung von Waren,110,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-11-01,Gesamt,111.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-11-01,Bau,127.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-11-01,Energieversorgung,124,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-11-01,Herstellung von Waren,114.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-11-01,Gesamt,117.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2017-12-01,Bau,158.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2017-12-01,Energieversorgung,161.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2017-12-01,Herstellung von Waren,115.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2017-12-01,Gesamt,127.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2017-12-01,Bau,145.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2017-12-01,Energieversorgung,136.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2017-12-01,Herstellung von Waren,107.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2017-12-01,Gesamt,117.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-01-01,Bau,84,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-01-01,Energieversorgung,131.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-01-01,Herstellung von Waren,97,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-01-01,Gesamt,97.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-01-01,Bau,69.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-01-01,Energieversorgung,134.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-01-01,Herstellung von Waren,92.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-01-01,Gesamt,90.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-02-01,Bau,89.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-02-01,Energieversorgung,123.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-02-01,Herstellung von Waren,99.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-02-01,Gesamt,99.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-02-01,Bau,84.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-02-01,Energieversorgung,122.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-02-01,Herstellung von Waren,100.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-02-01,Gesamt,98.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-03-01,Bau,96.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-03-01,Energieversorgung,123.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-03-01,Herstellung von Waren,108.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-03-01,Gesamt,106,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-03-01,Bau,95.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-03-01,Energieversorgung,132.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-03-01,Herstellung von Waren,114.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-03-01,Gesamt,110.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-04-01,Bau,90.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-04-01,Energieversorgung,107.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-04-01,Herstellung von Waren,101.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-04-01,Gesamt,98.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-04-01,Bau,94.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-04-01,Energieversorgung,108,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-04-01,Herstellung von Waren,104.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-04-01,Gesamt,102.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-05-01,Bau,103.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-05-01,Energieversorgung,114.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-05-01,Herstellung von Waren,109.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-05-01,Gesamt,107,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-05-01,Bau,103.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-05-01,Energieversorgung,103.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-05-01,Herstellung von Waren,106.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-05-01,Gesamt,104.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-06-01,Bau,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-06-01,Energieversorgung,106.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-06-01,Herstellung von Waren,111.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-06-01,Gesamt,109.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-06-01,Bau,112.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-06-01,Energieversorgung,106.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-06-01,Herstellung von Waren,110.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-06-01,Gesamt,109.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-07-01,Bau,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-07-01,Energieversorgung,100.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-07-01,Herstellung von Waren,106.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-07-01,Gesamt,105.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-07-01,Bau,115,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-07-01,Energieversorgung,100.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-07-01,Herstellung von Waren,105.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-07-01,Gesamt,106.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-08-01,Bau,106.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-08-01,Energieversorgung,110.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-08-01,Herstellung von Waren,102.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-08-01,Gesamt,103.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-08-01,Bau,102.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-08-01,Energieversorgung,100.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-08-01,Herstellung von Waren,93.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-08-01,Gesamt,95.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-09-01,Bau,110.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-09-01,Energieversorgung,116.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-09-01,Herstellung von Waren,108.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-09-01,Gesamt,108.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-09-01,Bau,118.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-09-01,Energieversorgung,113.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-09-01,Herstellung von Waren,111.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-09-01,Gesamt,112.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-10-01,Bau,114.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-10-01,Energieversorgung,114,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-10-01,Herstellung von Waren,107.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-10-01,Gesamt,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-10-01,Bau,124.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-10-01,Energieversorgung,127.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-10-01,Herstellung von Waren,112.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-10-01,Gesamt,115.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-11-01,Bau,119.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-11-01,Energieversorgung,129.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-11-01,Herstellung von Waren,110.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-11-01,Gesamt,112.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-11-01,Bau,124.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-11-01,Energieversorgung,135.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-11-01,Herstellung von Waren,113.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-11-01,Gesamt,116.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2018-12-01,Bau,162.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2018-12-01,Energieversorgung,185.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2018-12-01,Herstellung von Waren,116.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2018-12-01,Gesamt,130.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2018-12-01,Bau,151.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2018-12-01,Energieversorgung,154.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2018-12-01,Herstellung von Waren,106.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2018-12-01,Gesamt,119.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-01-01,Bau,88,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-01-01,Energieversorgung,141.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-01-01,Herstellung von Waren,100.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-01-01,Gesamt,101.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-01-01,Bau,73.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-01-01,Energieversorgung,147.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-01-01,Herstellung von Waren,95.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-01-01,Gesamt,94.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-02-01,Bau,87.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-02-01,Energieversorgung,130.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-02-01,Herstellung von Waren,102.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-02-01,Gesamt,100.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-02-01,Bau,83.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-02-01,Energieversorgung,130.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-02-01,Herstellung von Waren,102.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-02-01,Gesamt,99.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-03-01,Bau,96.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-03-01,Energieversorgung,125.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-03-01,Herstellung von Waren,110.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-03-01,Gesamt,107.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-03-01,Bau,100.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-03-01,Energieversorgung,132.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-03-01,Herstellung von Waren,117.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-03-01,Gesamt,113.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-04-01,Bau,94.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-04-01,Energieversorgung,105.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-04-01,Herstellung von Waren,102.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-04-01,Gesamt,100.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-04-01,Bau,96.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-04-01,Energieversorgung,108.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-04-01,Herstellung von Waren,104.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-04-01,Gesamt,102.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-05-01,Bau,104.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-05-01,Energieversorgung,103.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-05-01,Herstellung von Waren,106.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-05-01,Gesamt,105.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-05-01,Bau,101.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-05-01,Energieversorgung,103.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-05-01,Herstellung von Waren,103.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-05-01,Gesamt,102.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-06-01,Bau,111.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-06-01,Energieversorgung,126.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-06-01,Herstellung von Waren,110.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-06-01,Gesamt,110.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-06-01,Bau,115.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-06-01,Energieversorgung,109.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-06-01,Herstellung von Waren,109.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-06-01,Gesamt,109.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-07-01,Bau,111.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-07-01,Energieversorgung,97.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-07-01,Herstellung von Waren,107.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-07-01,Gesamt,107.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-07-01,Bau,116.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-07-01,Energieversorgung,101.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-07-01,Herstellung von Waren,104.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-07-01,Gesamt,106.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-08-01,Bau,109.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-08-01,Energieversorgung,114.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-08-01,Herstellung von Waren,100.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-08-01,Gesamt,103,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-08-01,Bau,104.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-08-01,Energieversorgung,99.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-08-01,Herstellung von Waren,91,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-08-01,Gesamt,94.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-09-01,Bau,109.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-09-01,Energieversorgung,110,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-09-01,Herstellung von Waren,109,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-09-01,Gesamt,108.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-09-01,Bau,115.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-09-01,Energieversorgung,110.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-09-01,Herstellung von Waren,109.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-09-01,Gesamt,110.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-10-01,Bau,115.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-10-01,Energieversorgung,98.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-10-01,Herstellung von Waren,105.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-10-01,Gesamt,107.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-10-01,Bau,124.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-10-01,Energieversorgung,112,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-10-01,Herstellung von Waren,108.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-10-01,Gesamt,111.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-11-01,Bau,122.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-11-01,Energieversorgung,117.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-11-01,Herstellung von Waren,104.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-11-01,Gesamt,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-11-01,Bau,130.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-11-01,Energieversorgung,121.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-11-01,Herstellung von Waren,108.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-11-01,Gesamt,113.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2019-12-01,Bau,160.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2019-12-01,Energieversorgung,164.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2019-12-01,Herstellung von Waren,113.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2019-12-01,Gesamt,127.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2019-12-01,Bau,144,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2019-12-01,Energieversorgung,139.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2019-12-01,Herstellung von Waren,101,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2019-12-01,Gesamt,113.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-01-01,Bau,86.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-01-01,Energieversorgung,152.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-01-01,Herstellung von Waren,99,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-01-01,Gesamt,100.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-01-01,Bau,73.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-01-01,Energieversorgung,148.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-01-01,Herstellung von Waren,93.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-01-01,Gesamt,93.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-02-01,Bau,91,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-02-01,Energieversorgung,136.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-02-01,Herstellung von Waren,99.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-02-01,Gesamt,100.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-02-01,Bau,85.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-02-01,Energieversorgung,135.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-02-01,Herstellung von Waren,98.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-02-01,Gesamt,97.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-03-01,Bau,107.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-03-01,Energieversorgung,128.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-03-01,Herstellung von Waren,105.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-03-01,Gesamt,108,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-03-01,Bau,96.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-03-01,Energieversorgung,137,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-03-01,Herstellung von Waren,104.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-03-01,Gesamt,104.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-04-01,Bau,92.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-04-01,Energieversorgung,109.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-04-01,Herstellung von Waren,93.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-04-01,Gesamt,95.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-04-01,Bau,79.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-04-01,Energieversorgung,103.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-04-01,Herstellung von Waren,79.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-04-01,Gesamt,81.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-05-01,Bau,98.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-05-01,Energieversorgung,109.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-05-01,Herstellung von Waren,101.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-05-01,Gesamt,101.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-05-01,Bau,93.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-05-01,Energieversorgung,100.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-05-01,Herstellung von Waren,86.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-05-01,Gesamt,89.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-06-01,Bau,106.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-06-01,Energieversorgung,110.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-06-01,Herstellung von Waren,110.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-06-01,Gesamt,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-06-01,Bau,104.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-06-01,Energieversorgung,103.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-06-01,Herstellung von Waren,98.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-06-01,Gesamt,100.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-07-01,Bau,103.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-07-01,Energieversorgung,102.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-07-01,Herstellung von Waren,108.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-07-01,Gesamt,106.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-07-01,Bau,108.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-07-01,Energieversorgung,105.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-07-01,Herstellung von Waren,100.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-07-01,Gesamt,103.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-08-01,Bau,101.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-08-01,Energieversorgung,115.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-08-01,Herstellung von Waren,100.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-08-01,Gesamt,101.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-08-01,Bau,98.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-08-01,Energieversorgung,103.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-08-01,Herstellung von Waren,88.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-08-01,Gesamt,91.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-09-01,Bau,109.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-09-01,Energieversorgung,112.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-09-01,Herstellung von Waren,113.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-09-01,Gesamt,111.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-09-01,Bau,113.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-09-01,Energieversorgung,117,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-09-01,Herstellung von Waren,108,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-09-01,Gesamt,109.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-10-01,Bau,112.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-10-01,Energieversorgung,121.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-10-01,Herstellung von Waren,108.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-10-01,Gesamt,110.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-10-01,Bau,118,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-10-01,Energieversorgung,126.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-10-01,Herstellung von Waren,110.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-10-01,Gesamt,112.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-11-01,Bau,117.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-11-01,Energieversorgung,116.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-11-01,Herstellung von Waren,108.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-11-01,Gesamt,111.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-11-01,Bau,125.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-11-01,Energieversorgung,128,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-11-01,Herstellung von Waren,110.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-11-01,Gesamt,115.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2020-12-01,Bau,157.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2020-12-01,Energieversorgung,169,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2020-12-01,Herstellung von Waren,118.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2020-12-01,Gesamt,130.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2020-12-01,Bau,133,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2020-12-01,Energieversorgung,145.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2020-12-01,Herstellung von Waren,101.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2020-12-01,Gesamt,111.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-01-01,Bau,85,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-01-01,Energieversorgung,151.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-01-01,Herstellung von Waren,96.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-01-01,Gesamt,98.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-01-01,Bau,71.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-01-01,Energieversorgung,141.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-01-01,Herstellung von Waren,92.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-01-01,Gesamt,90.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-02-01,Bau,87.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-02-01,Energieversorgung,124.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-02-01,Herstellung von Waren,100.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-02-01,Gesamt,98.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-02-01,Bau,85.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-02-01,Energieversorgung,130,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-02-01,Herstellung von Waren,100.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-02-01,Gesamt,98.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-03-01,Bau,99.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-03-01,Energieversorgung,114,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-03-01,Herstellung von Waren,113.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-03-01,Gesamt,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-03-01,Bau,105.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-03-01,Energieversorgung,134.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-03-01,Herstellung von Waren,119.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-03-01,Gesamt,115.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-04-01,Bau,96.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-04-01,Energieversorgung,110.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-04-01,Herstellung von Waren,107.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-04-01,Gesamt,104.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-04-01,Bau,99.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-04-01,Energieversorgung,116.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-04-01,Herstellung von Waren,109.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-04-01,Gesamt,106.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-05-01,Bau,103.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-05-01,Energieversorgung,122.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-05-01,Herstellung von Waren,109.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-05-01,Gesamt,107.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-05-01,Bau,104.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-05-01,Energieversorgung,117.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-05-01,Herstellung von Waren,107.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-05-01,Gesamt,105.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-06-01,Bau,107.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-06-01,Energieversorgung,117,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-06-01,Herstellung von Waren,115.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-06-01,Gesamt,112.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-06-01,Bau,111.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-06-01,Energieversorgung,118.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-06-01,Herstellung von Waren,112.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-06-01,Gesamt,111.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-07-01,Bau,105.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-07-01,Energieversorgung,129,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-07-01,Herstellung von Waren,112.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-07-01,Gesamt,110.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-07-01,Bau,110.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-07-01,Energieversorgung,124.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-07-01,Herstellung von Waren,110,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-07-01,Gesamt,110.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-08-01,Bau,104.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-08-01,Energieversorgung,135.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-08-01,Herstellung von Waren,107.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-08-01,Gesamt,107.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-08-01,Bau,99.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-08-01,Energieversorgung,125.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-08-01,Herstellung von Waren,95.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-08-01,Gesamt,97.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-09-01,Bau,107.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-09-01,Energieversorgung,130.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-09-01,Herstellung von Waren,114.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-09-01,Gesamt,112.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-09-01,Bau,113.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-09-01,Energieversorgung,134.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-09-01,Herstellung von Waren,112.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-09-01,Gesamt,113.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-10-01,Bau,110.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-10-01,Energieversorgung,157.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-10-01,Herstellung von Waren,111.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-10-01,Gesamt,113.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-10-01,Bau,115.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-10-01,Energieversorgung,151.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-10-01,Herstellung von Waren,114.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-10-01,Gesamt,116.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-11-01,Bau,118.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-11-01,Energieversorgung,158.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-11-01,Herstellung von Waren,117.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-11-01,Gesamt,119.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-11-01,Bau,124.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-11-01,Energieversorgung,167.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-11-01,Herstellung von Waren,117.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-11-01,Gesamt,122,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2021-12-01,Bau,160.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2021-12-01,Energieversorgung,206.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2021-12-01,Herstellung von Waren,127.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2021-12-01,Gesamt,139.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2021-12-01,Bau,135.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2021-12-01,Energieversorgung,187,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2021-12-01,Herstellung von Waren,109.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2021-12-01,Gesamt,120.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-01-01,Bau,85.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-01-01,Energieversorgung,194.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-01-01,Herstellung von Waren,106.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-01-01,Gesamt,108.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-01-01,Bau,72.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-01-01,Energieversorgung,182.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-01-01,Herstellung von Waren,101.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-01-01,Gesamt,100.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-02-01,Bau,88.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-02-01,Energieversorgung,160.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-02-01,Herstellung von Waren,109.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-02-01,Gesamt,107.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-02-01,Bau,85.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-02-01,Energieversorgung,160.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-02-01,Herstellung von Waren,108.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-02-01,Gesamt,105.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-03-01,Bau,100.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-03-01,Energieversorgung,168.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-03-01,Herstellung von Waren,119.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-03-01,Gesamt,117.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-03-01,Bau,105,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-03-01,Energieversorgung,188.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-03-01,Herstellung von Waren,122.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-03-01,Gesamt,121.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-04-01,Bau,96.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-04-01,Energieversorgung,144,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-04-01,Herstellung von Waren,111.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-04-01,Gesamt,108.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-04-01,Bau,98.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-04-01,Energieversorgung,139.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-04-01,Herstellung von Waren,112.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-04-01,Gesamt,110.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-05-01,Bau,105,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-05-01,Energieversorgung,134.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-05-01,Herstellung von Waren,118.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-05-01,Gesamt,114.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-05-01,Bau,107.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-05-01,Energieversorgung,138.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-05-01,Herstellung von Waren,114,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-05-01,Gesamt,112.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-06-01,Bau,111,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-06-01,Energieversorgung,144.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-06-01,Herstellung von Waren,124.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-06-01,Gesamt,120.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-06-01,Bau,112.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-06-01,Energieversorgung,134.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-06-01,Herstellung von Waren,120.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-06-01,Gesamt,118,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-07-01,Bau,104.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-07-01,Energieversorgung,138.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-07-01,Herstellung von Waren,114.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-07-01,Gesamt,112.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-07-01,Bau,109.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-07-01,Energieversorgung,126.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-07-01,Herstellung von Waren,111.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-07-01,Gesamt,111.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-08-01,Bau,109.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-08-01,Energieversorgung,153.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-08-01,Herstellung von Waren,111.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-08-01,Gesamt,113.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-08-01,Bau,101.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-08-01,Energieversorgung,139.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-08-01,Herstellung von Waren,98.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-08-01,Gesamt,101.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-09-01,Bau,109.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-09-01,Energieversorgung,138.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-09-01,Herstellung von Waren,120.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-09-01,Gesamt,117.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-09-01,Bau,113.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-09-01,Energieversorgung,140.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-09-01,Herstellung von Waren,117.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-09-01,Gesamt,117.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-10-01,Bau,110.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-10-01,Energieversorgung,160.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-10-01,Herstellung von Waren,115.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-10-01,Gesamt,116.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-10-01,Bau,116.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-10-01,Energieversorgung,155.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-10-01,Herstellung von Waren,117.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-10-01,Gesamt,119.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-11-01,Bau,122.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-11-01,Energieversorgung,144.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-11-01,Herstellung von Waren,118.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-11-01,Gesamt,120.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-11-01,Bau,128.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-11-01,Energieversorgung,154.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-11-01,Herstellung von Waren,120.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-11-01,Gesamt,123.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2022-12-01,Bau,162,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2022-12-01,Energieversorgung,199.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2022-12-01,Herstellung von Waren,129.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2022-12-01,Gesamt,140.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2022-12-01,Bau,136.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2022-12-01,Energieversorgung,172.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2022-12-01,Herstellung von Waren,109.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2022-12-01,Gesamt,119.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2023-01-01,Bau,92,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2023-01-01,Energieversorgung,180.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2023-01-01,Herstellung von Waren,105.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2023-01-01,Gesamt,109,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2023-01-01,Bau,78,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2023-01-01,Energieversorgung,180.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2023-01-01,Herstellung von Waren,99.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2023-01-01,Gesamt,100.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2023-02-01,Bau,100.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2023-02-01,Energieversorgung,168.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2023-02-01,Herstellung von Waren,107.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2023-02-01,Gesamt,110.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2023-02-01,Bau,97.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2023-02-01,Energieversorgung,168.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2023-02-01,Herstellung von Waren,107.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2023-02-01,Gesamt,109.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2023-03-01,Bau,100.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2023-03-01,Energieversorgung,147.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2023-03-01,Herstellung von Waren,117.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2023-03-01,Gesamt,114.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2023-03-01,Bau,105.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2023-03-01,Energieversorgung,166.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2023-03-01,Herstellung von Waren,123,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2023-03-01,Gesamt,120.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2023-04-01,Bau,99.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2023-04-01,Energieversorgung,158.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2023-04-01,Herstellung von Waren,109,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2023-04-01,Gesamt,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2023-04-01,Bau,102.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2023-04-01,Energieversorgung,150.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2023-04-01,Herstellung von Waren,111.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2023-04-01,Gesamt,111.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2023-05-01,Bau,104.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2023-05-01,Energieversorgung,150.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2023-05-01,Herstellung von Waren,117.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2023-05-01,Gesamt,115.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2023-05-01,Bau,101.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2023-05-01,Energieversorgung,142,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2023-05-01,Herstellung von Waren,110.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2023-05-01,Gesamt,109.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
 2023-06-01,Bau,107.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9775413711583926
-2023-06-01,Energieversorgung,140.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,NA
 2023-06-01,Herstellung von Waren,120.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9298245614035087
 2023-06-01,Gesamt,117.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9406952965235174
 2023-06-01,Bau,110.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9753424657534246
-2023-06-01,Energieversorgung,137.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,NA
 2023-06-01,Herstellung von Waren,115.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9387755102040818
 2023-06-01,Gesamt,115.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9518599562363238
