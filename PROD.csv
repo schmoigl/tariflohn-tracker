@@ -1,0 +1,645 @@
+Monat,Sektor,Produktivitätsindex,Einheit,series,adj_factor
+2010-01-01,Herstellung von Waren,79.19792915887531,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-01-01,Gesamt,83.38873262079848,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-01-01,Herstellung von Waren,76.60801749482435,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-01-01,Gesamt,78.35255682348219,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-02-01,Herstellung von Waren,83.38583375599562,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-02-01,Gesamt,86.22187189443828,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-02-01,Herstellung von Waren,84.04294793965373,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-02-01,Gesamt,85.51022035790506,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-03-01,Herstellung von Waren,92.22696568324962,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-03-01,Gesamt,91.13264663541396,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-03-01,Herstellung von Waren,98.72458274210165,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-03-01,Gesamt,96.86704649918931,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-04-01,Herstellung von Waren,85.71244742106246,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-04-01,Gesamt,85.37193011234635,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-04-01,Herstellung von Waren,89.97206968679615,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-04-01,Gesamt,89.32764090959724,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-05-01,Herstellung von Waren,91.29632021722288,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-05-01,Gesamt,90.94377068383797,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-05-01,Herstellung von Waren,93.5483653438027,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-05-01,Gesamt,93.52680351645866,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-06-01,Herstellung von Waren,97.34551574639667,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-06-01,Gesamt,96.98780113426957,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-06-01,Herstellung von Waren,98.6304696984962,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-06-01,Gesamt,99.06206331641232,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-07-01,Herstellung von Waren,94.18132116190579,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-07-01,Gesamt,94.15466186062977,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-07-01,Herstellung von Waren,94.39538273625162,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-07-01,Gesamt,95.62638481988937,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-08-01,Herstellung von Waren,92.50615932305766,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-08-01,Gesamt,93.30472007853781,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-08-01,Herstellung von Waren,85.45464359373526,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-08-01,Gesamt,87.99154371650498,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-09-01,Herstellung von Waren,100.7889039706956,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-09-01,Gesamt,98.30993279530148,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-09-01,Herstellung von Waren,103.99491318400602,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-09-01,Gesamt,102.97491938189683,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-10-01,Herstellung von Waren,94.27438570850845,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-10-01,Gesamt,96.7044872069056,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-10-01,Herstellung von Waren,102.1126523118973,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-10-01,Gesamt,104.21558106119679,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-11-01,Herstellung von Waren,99.3929357716555,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-11-01,Gesamt,100.38756826263734,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-11-01,Herstellung von Waren,105.12426970727124,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-11-01,Gesamt,106.69690441979671,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2010-12-01,Herstellung von Waren,106.65197040666405,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2010-12-01,Gesamt,116.25314819502029,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2010-12-01,Herstellung von Waren,97.0305479572038,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2010-12-01,Gesamt,105.16993619911983,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-01-01,Herstellung von Waren,86.45696379388387,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-01-01,Gesamt,87.5440035554702,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-01-01,Herstellung von Waren,85.45464359373526,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-01-01,Gesamt,83.88781662343588,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-02-01,Herstellung von Waren,89.5280938317721,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-02-01,Gesamt,89.0550111680781,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-02-01,Herstellung von Waren,90.9132001228505,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-02-01,Gesamt,89.23220539580494,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-03-01,Herstellung von Waren,98.27616121242342,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-03-01,Gesamt,95.47679352166168,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-03-01,Herstellung von Waren,105.40660883808755,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-03-01,Gesamt,101.82969321638917,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-04-01,Herstellung von Waren,91.76164295023625,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-04-01,Gesamt,89.90495295017004,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-04-01,Herstellung von Waren,97.21877404441467,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-04-01,Gesamt,94.86290070955093,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-05-01,Herstellung von Waren,97.15938665319133,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-05-01,Gesamt,94.24909983641776,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-05-01,Herstellung von Waren,97.97167839325814,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-05-01,Gesamt,97.05791752677393,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-06-01,Herstellung von Waren,100.69583942409294,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-06-01,Gesamt,99.15987457739344,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-06-01,Herstellung von Waren,102.39499144271362,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-06-01,Gesamt,101.16164461984303,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-07-01,Herstellung von Waren,96.69406392017797,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-07-01,Gesamt,96.13785935217763,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-07-01,Herstellung von Waren,97.50111317523097,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-07-01,Gesamt,97.43965958194315,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-08-01,Herstellung von Waren,94.36745025511112,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-08-01,Gesamt,94.06022388484176,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-08-01,Herstellung von Waren,87.24279142223854,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-08-01,Gesamt,88.85046334063571,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-09-01,Herstellung von Waren,101.81261398332502,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-09-01,Gesamt,99.34875052896942,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-09-01,Herstellung von Waren,105.0301566636658,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-09-01,Gesamt,103.83383900602756,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-10-01,Herstellung von Waren,95.57728936094588,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-10-01,Gesamt,97.36555303742155,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-10-01,Herstellung von Waren,102.48910448631905,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-10-01,Gesamt,104.21558106119679,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-11-01,Herstellung von Waren,99.02067758524481,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-11-01,Gesamt,100.95419611736531,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-11-01,Herstellung von Waren,104.84193057645494,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-11-01,Gesamt,107.84213058530436,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2011-12-01,Herstellung von Waren,106.55890586006137,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2011-12-01,Gesamt,117.48084188026422,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2011-12-01,Herstellung von Waren,97.31288708802012,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2011-12-01,Gesamt,107.07864647496594,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-01-01,Herstellung von Waren,85.34018923465177,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-01-01,Gesamt,87.6384415312582,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-01-01,Herstellung von Waren,83.19593054720482,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-01-01,Gesamt,83.31520354068205,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-02-01,Herstellung von Waren,87.66680289971862,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-02-01,Gesamt,89.90495295017004,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-02-01,Herstellung von Waren,87.61924359666027,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-02-01,Gesamt,88.1824147440896,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-03-01,Herstellung von Waren,95.67035390754856,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-03-01,Gesamt,95.0990416185097,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-03-01,Herstellung von Waren,103.43023492237342,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-03-01,Gesamt,101.63882218880455,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-04-01,Herstellung von Waren,91.11019112401755,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-04-01,Gesamt,90.84933270804999,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-04-01,Herstellung von Waren,95.4306262159114,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-04-01,Gesamt,94.67202968196631,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-05-01,Herstellung von Waren,97.43858029299936,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-05-01,Gesamt,96.5156112553296,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-05-01,Herstellung von Waren,97.21877404441467,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-05-01,Gesamt,97.43965958194315,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-06-01,Herstellung von Waren,99.67212941146352,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-06-01,Gesamt,99.06543660160544,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-06-01,Herstellung von Waren,101.45386100665927,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-06-01,Gesamt,101.06620910605074,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-07-01,Herstellung von Waren,96.2287411871646,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-07-01,Gesamt,97.17667708584557,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-07-01,Herstellung von Waren,96.37175665196577,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-07-01,Gesamt,98.96662780262002,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-08-01,Herstellung von Waren,96.2287411871646,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-08-01,Gesamt,97.83774291636152,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-08-01,Herstellung von Waren,87.61924359666027,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-08-01,Gesamt,91.04548015785873,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-09-01,Herstellung von Waren,99.29987122505283,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-09-01,Gesamt,100.48200623842536,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-09-01,Herstellung von Waren,103.24200883516254,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-09-01,Gesamt,104.7881941439506,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-10-01,Herstellung von Waren,96.973257559986,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-10-01,Gesamt,99.72650243212139,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-10-01,Herstellung von Waren,102.48910448631905,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-10-01,Gesamt,106.79233993358902,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-11-01,Herstellung von Waren,98.09003211921808,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-11-01,Gesamt,101.89857587524526,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-11-01,Herstellung von Waren,102.58321752992448,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-11-01,Gesamt,107.07864647496594,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2012-12-01,Herstellung von Waren,102.37100126294106,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2012-12-01,Gesamt,115.21433046135236,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2012-12-01,Herstellung von Waren,95.99530447754401,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2012-12-01,Gesamt,106.60146890600441,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-01-01,Herstellung von Waren,87.29454471330791,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-01-01,Gesamt,89.24388711965409,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-01-01,Herstellung von Waren,83.85472185244285,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-01-01,Gesamt,83.98325213722818,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-02-01,Herstellung von Waren,87.85293199292397,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-02-01,Gesamt,89.71607699859406,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-02-01,Herstellung von Waren,88.18392185829289,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-02-01,Gesamt,88.75502782684342,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-03-01,Herstellung von Waren,96.50793482697262,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-03-01,Gesamt,95.94898340060163,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-03-01,Herstellung von Waren,103.80668709679514,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-03-01,Gesamt,101.25708013363533,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-04-01,Herstellung von Waren,93.15761114927636,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-04-01,Gesamt,91.79371246592993,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-04-01,Herstellung von Waren,97.31288708802012,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-04-01,Gesamt,96.10356238885089,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-05-01,Herstellung von Waren,98.46229030562877,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-05-01,Gesamt,97.55442898899753,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-05-01,Herstellung von Waren,97.12466100080924,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-05-01,Gesamt,96.58073995781241,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-06-01,Herstellung von Waren,99.3929357716555,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-06-01,Gesamt,99.06543660160544,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-06-01,Herstellung von Waren,100.60684361421035,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-06-01,Gesamt,100.87533807846613,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-07-01,Herstellung von Waren,97.43858029299936,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-07-01,Gesamt,97.93218089214952,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-07-01,Herstellung von Waren,96.7482088263875,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-07-01,Gesamt,99.34836985778924,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-08-01,Herstellung von Waren,94.27438570850845,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-08-01,Gesamt,96.4211732795416,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-08-01,Herstellung von Waren,87.71335664026572,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-08-01,Gesamt,90.75917361648182,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-09-01,Herstellung von Waren,101.71954943672235,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-09-01,Gesamt,101.80413789945726,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-09-01,Herstellung von Waren,105.59483492529841,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-09-01,Gesamt,106.50603339221209,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-10-01,Herstellung von Waren,97.43858029299936,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-10-01,Gesamt,99.34875052896942,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-10-01,Herstellung von Waren,102.01853926829187,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-10-01,Gesamt,106.3151623646275,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-11-01,Herstellung von Waren,97.81083847941005,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-11-01,Gesamt,101.04863409315331,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-11-01,Herstellung von Waren,104.37136535842777,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-11-01,Gesamt,107.84213058530436,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2013-12-01,Herstellung von Waren,106.00051858044534,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2013-12-01,Gesamt,117.9530317592042,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2013-12-01,Herstellung von Waren,97.50111317523097,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2013-12-01,Gesamt,107.65125955771975,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-01-01,Herstellung von Waren,89.5280938317721,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-01-01,Gesamt,91.60483651435393,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-01-01,Herstellung von Waren,87.4310175094494,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-01-01,Gesamt,87.32349511995885,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-02-01,Herstellung von Waren,91.01712657741487,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-02-01,Gesamt,90.75489473226199,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-02-01,Herstellung von Waren,92.79546099495921,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-02-01,Gesamt,91.52265772682026,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-03-01,Herstellung von Waren,96.973257559986,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-03-01,Gesamt,95.85454542481365,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-03-01,Herstellung von Waren,105.68894796890385,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-03-01,Gesamt,102.97491938189683,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-04-01,Herstellung von Waren,95.29809572113787,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-04-01,Gesamt,93.4935960301138,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-04-01,Herstellung von Waren,98.72458274210165,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-04-01,Gesamt,97.24878855435854,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-05-01,Herstellung von Waren,96.8801930133833,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-05-01,Gesamt,96.04342137638965,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-05-01,Herstellung von Waren,96.46586969557119,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-05-01,Gesamt,95.91269136126627,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-06-01,Herstellung von Waren,104.69761492800791,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-06-01,Gesamt,102.46520372997321,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-06-01,Herstellung von Waren,105.59483492529841,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-06-01,Gesamt,103.64296797844295,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-07-01,Herstellung von Waren,99.48600031825818,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-07-01,Gesamt,98.30993279530148,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-07-01,Herstellung von Waren,97.7834523060473,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-07-01,Gesamt,98.68032126124312,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-08-01,Herstellung von Waren,93.62293388228973,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-08-01,Gesamt,94.81572769114572,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-08-01,Herstellung von Waren,87.05456533502766,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-08-01,Gesamt,89.13676988201264,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-09-01,Herstellung von Waren,103.58084036877581,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-09-01,Gesamt,101.80413789945726,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-09-01,Herstellung von Waren,105.0301566636658,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-09-01,Gesamt,104.597323116366,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-10-01,Herstellung von Waren,97.43858029299936,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-10-01,Gesamt,98.59324672266547,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-10-01,Herstellung von Waren,101.92442622468644,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-10-01,Gesamt,104.5018876025737,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-11-01,Herstellung von Waren,97.34551574639667,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-11-01,Gesamt,100.00981635948538,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-11-01,Herstellung von Waren,103.14789579155709,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-11-01,Gesamt,106.3151623646275,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2014-12-01,Herstellung von Waren,111.67745592320843,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9306454660267369
+2014-12-01,Gesamt,120.03066722654005,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2010,0.9443797578799374
+2014-12-01,Herstellung von Waren,100.32450448339404,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9411304360543531
+2014-12-01,Gesamt,107.55582404392746,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2010,0.9543551379230475
+2015-01-01,Herstellung von Waren,90.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-01-01,Gesamt,92,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-01-01,Herstellung von Waren,87.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-01-01,Gesamt,87,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-02-01,Herstellung von Waren,93,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-02-01,Gesamt,92.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-02-01,Herstellung von Waren,93.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-02-01,Gesamt,91.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-03-01,Herstellung von Waren,101.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-03-01,Gesamt,98.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-03-01,Herstellung von Waren,108.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-03-01,Gesamt,105.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-04-01,Herstellung von Waren,95.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-04-01,Gesamt,94.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-04-01,Herstellung von Waren,99,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-04-01,Gesamt,97.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-05-01,Herstellung von Waren,99.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-05-01,Gesamt,97.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-05-01,Herstellung von Waren,98.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-05-01,Gesamt,96.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-06-01,Herstellung von Waren,105.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-06-01,Gesamt,101.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-06-01,Herstellung von Waren,105,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-06-01,Gesamt,102.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-07-01,Herstellung von Waren,101.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-07-01,Gesamt,100.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-07-01,Herstellung von Waren,100.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-07-01,Gesamt,100.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-08-01,Herstellung von Waren,96.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-08-01,Gesamt,96.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-08-01,Herstellung von Waren,89.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-08-01,Gesamt,90.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-09-01,Herstellung von Waren,105,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-09-01,Gesamt,102.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-09-01,Herstellung von Waren,106.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-09-01,Gesamt,105.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-10-01,Herstellung von Waren,100.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-10-01,Gesamt,100.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-10-01,Herstellung von Waren,106,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-10-01,Gesamt,107,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-11-01,Herstellung von Waren,101.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-11-01,Gesamt,103.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-11-01,Herstellung von Waren,107.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-11-01,Gesamt,109.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2015-12-01,Herstellung von Waren,110.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2015-12-01,Gesamt,120.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2015-12-01,Herstellung von Waren,98.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2015-12-01,Gesamt,106.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-01-01,Herstellung von Waren,93.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-01-01,Gesamt,94,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-01-01,Herstellung von Waren,90.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-01-01,Gesamt,88.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-02-01,Herstellung von Waren,95.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-02-01,Gesamt,94.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-02-01,Herstellung von Waren,95.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-02-01,Gesamt,93.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-03-01,Herstellung von Waren,104.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-03-01,Gesamt,102.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-03-01,Herstellung von Waren,110.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-03-01,Gesamt,107.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-04-01,Herstellung von Waren,97.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-04-01,Gesamt,94.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-04-01,Herstellung von Waren,101.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-04-01,Gesamt,99,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-05-01,Herstellung von Waren,101.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-05-01,Gesamt,99.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-05-01,Herstellung von Waren,100.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-05-01,Gesamt,97.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-06-01,Herstellung von Waren,106,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-06-01,Gesamt,102.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-06-01,Herstellung von Waren,104.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-06-01,Gesamt,102.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-07-01,Herstellung von Waren,99.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-07-01,Gesamt,99.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-07-01,Herstellung von Waren,100.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-07-01,Gesamt,101,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-08-01,Herstellung von Waren,100.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-08-01,Gesamt,100.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-08-01,Herstellung von Waren,90.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-08-01,Gesamt,92.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-09-01,Herstellung von Waren,106.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-09-01,Gesamt,104.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-09-01,Herstellung von Waren,107.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-09-01,Gesamt,107.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-10-01,Herstellung von Waren,101.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-10-01,Gesamt,103.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-10-01,Herstellung von Waren,107.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-10-01,Gesamt,108.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-11-01,Herstellung von Waren,105.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-11-01,Gesamt,107,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-11-01,Herstellung von Waren,110.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-11-01,Gesamt,112.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2016-12-01,Herstellung von Waren,115.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2016-12-01,Gesamt,125,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2016-12-01,Herstellung von Waren,103,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2016-12-01,Gesamt,111.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-01-01,Herstellung von Waren,93,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-01-01,Gesamt,94.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-01-01,Herstellung von Waren,89.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-01-01,Gesamt,88.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-02-01,Herstellung von Waren,96.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-02-01,Gesamt,95.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-02-01,Herstellung von Waren,97,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-02-01,Gesamt,95,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-03-01,Herstellung von Waren,106.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-03-01,Gesamt,102.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-03-01,Herstellung von Waren,113.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-03-01,Gesamt,109.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-04-01,Herstellung von Waren,98.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-04-01,Gesamt,96.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-04-01,Herstellung von Waren,103.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-04-01,Gesamt,100.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-05-01,Herstellung von Waren,104.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-05-01,Gesamt,101.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-05-01,Herstellung von Waren,102.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-05-01,Gesamt,100.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-06-01,Herstellung von Waren,110.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-06-01,Gesamt,107.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-06-01,Herstellung von Waren,109.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-06-01,Gesamt,107.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-07-01,Herstellung von Waren,106.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-07-01,Gesamt,104.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-07-01,Herstellung von Waren,106.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-07-01,Gesamt,105.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-08-01,Herstellung von Waren,104.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-08-01,Gesamt,103.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-08-01,Herstellung von Waren,94.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-08-01,Gesamt,95.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-09-01,Herstellung von Waren,110.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-09-01,Gesamt,108.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-09-01,Herstellung von Waren,112.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-09-01,Gesamt,111.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-10-01,Herstellung von Waren,105.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-10-01,Gesamt,106.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-10-01,Herstellung von Waren,110.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-10-01,Gesamt,112.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-11-01,Herstellung von Waren,110,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-11-01,Gesamt,111.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-11-01,Herstellung von Waren,114.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-11-01,Gesamt,117.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2017-12-01,Herstellung von Waren,115.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2017-12-01,Gesamt,127.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2017-12-01,Herstellung von Waren,107.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2017-12-01,Gesamt,117.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-01-01,Herstellung von Waren,97,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-01-01,Gesamt,97.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-01-01,Herstellung von Waren,92.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-01-01,Gesamt,90.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-02-01,Herstellung von Waren,99.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-02-01,Gesamt,99.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-02-01,Herstellung von Waren,100.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-02-01,Gesamt,98.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-03-01,Herstellung von Waren,108.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-03-01,Gesamt,106,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-03-01,Herstellung von Waren,114.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-03-01,Gesamt,110.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-04-01,Herstellung von Waren,101.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-04-01,Gesamt,98.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-04-01,Herstellung von Waren,104.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-04-01,Gesamt,102.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-05-01,Herstellung von Waren,109.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-05-01,Gesamt,107,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-05-01,Herstellung von Waren,106.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-05-01,Gesamt,104.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-06-01,Herstellung von Waren,111.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-06-01,Gesamt,109.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-06-01,Herstellung von Waren,110.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-06-01,Gesamt,109.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-07-01,Herstellung von Waren,106.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-07-01,Gesamt,105.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-07-01,Herstellung von Waren,105.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-07-01,Gesamt,106.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-08-01,Herstellung von Waren,102.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-08-01,Gesamt,103.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-08-01,Herstellung von Waren,93.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-08-01,Gesamt,95.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-09-01,Herstellung von Waren,108.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-09-01,Gesamt,108.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-09-01,Herstellung von Waren,111.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-09-01,Gesamt,112.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-10-01,Herstellung von Waren,107.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-10-01,Gesamt,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-10-01,Herstellung von Waren,112.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-10-01,Gesamt,115.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-11-01,Herstellung von Waren,110.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-11-01,Gesamt,112.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-11-01,Herstellung von Waren,113.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-11-01,Gesamt,116.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2018-12-01,Herstellung von Waren,116.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2018-12-01,Gesamt,130.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2018-12-01,Herstellung von Waren,106.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2018-12-01,Gesamt,119.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-01-01,Herstellung von Waren,100.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-01-01,Gesamt,101.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-01-01,Herstellung von Waren,95.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-01-01,Gesamt,94.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-02-01,Herstellung von Waren,102.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-02-01,Gesamt,100.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-02-01,Herstellung von Waren,102.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-02-01,Gesamt,99.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-03-01,Herstellung von Waren,110.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-03-01,Gesamt,107.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-03-01,Herstellung von Waren,117.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-03-01,Gesamt,113.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-04-01,Herstellung von Waren,102.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-04-01,Gesamt,100.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-04-01,Herstellung von Waren,104.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-04-01,Gesamt,102.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-05-01,Herstellung von Waren,106.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-05-01,Gesamt,105.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-05-01,Herstellung von Waren,103.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-05-01,Gesamt,102.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-06-01,Herstellung von Waren,110.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-06-01,Gesamt,110.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-06-01,Herstellung von Waren,109.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-06-01,Gesamt,109.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-07-01,Herstellung von Waren,107.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-07-01,Gesamt,107.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-07-01,Herstellung von Waren,104.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-07-01,Gesamt,106.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-08-01,Herstellung von Waren,100.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-08-01,Gesamt,103,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-08-01,Herstellung von Waren,91.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-08-01,Gesamt,94.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-09-01,Herstellung von Waren,109,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-09-01,Gesamt,108.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-09-01,Herstellung von Waren,109.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-09-01,Gesamt,110.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-10-01,Herstellung von Waren,105.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-10-01,Gesamt,107.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-10-01,Herstellung von Waren,108.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-10-01,Gesamt,111.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-11-01,Herstellung von Waren,104.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-11-01,Gesamt,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-11-01,Herstellung von Waren,108.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-11-01,Gesamt,113.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2019-12-01,Herstellung von Waren,113.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2019-12-01,Gesamt,127.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2019-12-01,Herstellung von Waren,101,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2019-12-01,Gesamt,113.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-01-01,Herstellung von Waren,99,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-01-01,Gesamt,100.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-01-01,Herstellung von Waren,93.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-01-01,Gesamt,93.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-02-01,Herstellung von Waren,99.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-02-01,Gesamt,100.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-02-01,Herstellung von Waren,98.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-02-01,Gesamt,97.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-03-01,Herstellung von Waren,105.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-03-01,Gesamt,108,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-03-01,Herstellung von Waren,104.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-03-01,Gesamt,104.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-04-01,Herstellung von Waren,93.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-04-01,Gesamt,95.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-04-01,Herstellung von Waren,79.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-04-01,Gesamt,81.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-05-01,Herstellung von Waren,101.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-05-01,Gesamt,101.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-05-01,Herstellung von Waren,86.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-05-01,Gesamt,89.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-06-01,Herstellung von Waren,110.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-06-01,Gesamt,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-06-01,Herstellung von Waren,98.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-06-01,Gesamt,100.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-07-01,Herstellung von Waren,108.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-07-01,Gesamt,106.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-07-01,Herstellung von Waren,100.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-07-01,Gesamt,103.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-08-01,Herstellung von Waren,100.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-08-01,Gesamt,101.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-08-01,Herstellung von Waren,88.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-08-01,Gesamt,91.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-09-01,Herstellung von Waren,113.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-09-01,Gesamt,111.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-09-01,Herstellung von Waren,108,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-09-01,Gesamt,109.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-10-01,Herstellung von Waren,108.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-10-01,Gesamt,110.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-10-01,Herstellung von Waren,110.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-10-01,Gesamt,112.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-11-01,Herstellung von Waren,108.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-11-01,Gesamt,111.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-11-01,Herstellung von Waren,110.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-11-01,Gesamt,115.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2020-12-01,Herstellung von Waren,118.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2020-12-01,Gesamt,130.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2020-12-01,Herstellung von Waren,101.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2020-12-01,Gesamt,111.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-01-01,Herstellung von Waren,96.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-01-01,Gesamt,98.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-01-01,Herstellung von Waren,92.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-01-01,Gesamt,90.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-02-01,Herstellung von Waren,100.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-02-01,Gesamt,98.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-02-01,Herstellung von Waren,100.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-02-01,Gesamt,98.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-03-01,Herstellung von Waren,113.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-03-01,Gesamt,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-03-01,Herstellung von Waren,119.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-03-01,Gesamt,115.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-04-01,Herstellung von Waren,107.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-04-01,Gesamt,104.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-04-01,Herstellung von Waren,109.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-04-01,Gesamt,106.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-05-01,Herstellung von Waren,109.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-05-01,Gesamt,107.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-05-01,Herstellung von Waren,107.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-05-01,Gesamt,105.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-06-01,Herstellung von Waren,115.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-06-01,Gesamt,112.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-06-01,Herstellung von Waren,112.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-06-01,Gesamt,111.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-07-01,Herstellung von Waren,112.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-07-01,Gesamt,110.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-07-01,Herstellung von Waren,110,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-07-01,Gesamt,110.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-08-01,Herstellung von Waren,107.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-08-01,Gesamt,107.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-08-01,Herstellung von Waren,95.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-08-01,Gesamt,97.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-09-01,Herstellung von Waren,114.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-09-01,Gesamt,112.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-09-01,Herstellung von Waren,112.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-09-01,Gesamt,113.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-10-01,Herstellung von Waren,111.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-10-01,Gesamt,113.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-10-01,Herstellung von Waren,114.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-10-01,Gesamt,116.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-11-01,Herstellung von Waren,117.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-11-01,Gesamt,119.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-11-01,Herstellung von Waren,117.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-11-01,Gesamt,122,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2021-12-01,Herstellung von Waren,127.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2021-12-01,Gesamt,139.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2021-12-01,Herstellung von Waren,109.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2021-12-01,Gesamt,120.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-01-01,Herstellung von Waren,106.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-01-01,Gesamt,108.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-01-01,Herstellung von Waren,101.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-01-01,Gesamt,100.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-02-01,Herstellung von Waren,109.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-02-01,Gesamt,107.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-02-01,Herstellung von Waren,108.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-02-01,Gesamt,105.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-03-01,Herstellung von Waren,119.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-03-01,Gesamt,117.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-03-01,Herstellung von Waren,122.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-03-01,Gesamt,121.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-04-01,Herstellung von Waren,111.5,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-04-01,Gesamt,108.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-04-01,Herstellung von Waren,112.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-04-01,Gesamt,110.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-05-01,Herstellung von Waren,118.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-05-01,Gesamt,114.4,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-05-01,Herstellung von Waren,114.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-05-01,Gesamt,112.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-06-01,Herstellung von Waren,124.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-06-01,Gesamt,120.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-06-01,Herstellung von Waren,120.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-06-01,Gesamt,118,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-07-01,Herstellung von Waren,114.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-07-01,Gesamt,112.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-07-01,Herstellung von Waren,111.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-07-01,Gesamt,111.2,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-08-01,Herstellung von Waren,111.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-08-01,Gesamt,113.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-08-01,Herstellung von Waren,98.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-08-01,Gesamt,101.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-09-01,Herstellung von Waren,120.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-09-01,Gesamt,117.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-09-01,Herstellung von Waren,117.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-09-01,Gesamt,117.5,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-10-01,Herstellung von Waren,115.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-10-01,Gesamt,116.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-10-01,Herstellung von Waren,117.4,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-10-01,Gesamt,119.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-11-01,Herstellung von Waren,118.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-11-01,Gesamt,120.6,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-11-01,Herstellung von Waren,120.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-11-01,Gesamt,123.9,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2022-12-01,Herstellung von Waren,129.1,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2022-12-01,Gesamt,140.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2022-12-01,Herstellung von Waren,109.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2022-12-01,Gesamt,119.8,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2023-01-01,Herstellung von Waren,105.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2023-01-01,Gesamt,109,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2023-01-01,Herstellung von Waren,99.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2023-01-01,Gesamt,100.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2023-02-01,Herstellung von Waren,107.9,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2023-02-01,Gesamt,110.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2023-02-01,Herstellung von Waren,107.6,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2023-02-01,Gesamt,109.3,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2023-03-01,Herstellung von Waren,117.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2023-03-01,Gesamt,114.8,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2023-03-01,Herstellung von Waren,123,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2023-03-01,Gesamt,121,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2023-04-01,Herstellung von Waren,109,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2023-04-01,Gesamt,109.2,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2023-04-01,Herstellung von Waren,111,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2023-04-01,Gesamt,111.1,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
+2023-05-01,Herstellung von Waren,117.7,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9306454660267369
+2023-05-01,Gesamt,115.3,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2015,0.9443797578799374
+2023-05-01,Herstellung von Waren,110.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9411304360543531
+2023-05-01,Gesamt,109.7,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2015,0.9543551379230475
