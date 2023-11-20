@@ -163,6 +163,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Insgesamt,158.19246666666666
 2023-07-01,Insgesamt,158.447
 2023-08-01,Insgesamt,158.57426666666666
+2023-09-01,Insgesamt,158.70153333333334
+2023-10-01,Insgesamt,158.70153333333334
 2010-01-01,GEWERBE UND HANDWERK,110.8
 2010-02-01,GEWERBE UND HANDWERK,110.8
 2010-03-01,GEWERBE UND HANDWERK,110.9
@@ -326,7 +328,9 @@ Monat,Sparte,Tariflohnindex
 2023-05-01,GEWERBE UND HANDWERK,163.25033333333332
 2023-06-01,GEWERBE UND HANDWERK,163.25033333333332
 2023-07-01,GEWERBE UND HANDWERK,163.50966666666665
-2023-08-01,GEWERBE UND HANDWERK,163.50966666666665
+2023-08-01,GEWERBE UND HANDWERK,163.63933333333333
+2023-09-01,GEWERBE UND HANDWERK,163.63933333333333
+2023-10-01,GEWERBE UND HANDWERK,163.63933333333333
 2010-01-01,Fachverband Bau,111.3
 2010-02-01,Fachverband Bau,111.3
 2010-03-01,Fachverband Bau,111.3
@@ -491,6 +495,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband Bau,169.334
 2023-07-01,Fachverband Bau,169.334
 2023-08-01,Fachverband Bau,169.334
+2023-09-01,Fachverband Bau,169.334
+2023-10-01,Fachverband Bau,169.334
 2010-01-01,"Fachverband der Dachdecker, Glaser und Spengler",111
 2010-02-01,"Fachverband der Dachdecker, Glaser und Spengler",111
 2010-03-01,"Fachverband der Dachdecker, Glaser und Spengler",111
@@ -655,6 +661,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband der Dachdecker, Glaser und Spengler",163.76553333333334
 2023-07-01,"Fachverband der Dachdecker, Glaser und Spengler",163.76553333333334
 2023-08-01,"Fachverband der Dachdecker, Glaser und Spengler",163.76553333333334
+2023-09-01,"Fachverband der Dachdecker, Glaser und Spengler",163.76553333333334
+2023-10-01,"Fachverband der Dachdecker, Glaser und Spengler",163.76553333333334
 2010-01-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",110.5
 2010-02-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",110.5
 2010-03-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",110.5
@@ -819,6 +827,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",162.88746666666668
 2023-07-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",162.88746666666668
 2023-08-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",162.88746666666668
+2023-09-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",162.88746666666668
+2023-10-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",162.88746666666668
 2010-01-01,Fachverband der Maler und Tapezierer,109.4
 2010-02-01,Fachverband der Maler und Tapezierer,109.4
 2010-03-01,Fachverband der Maler und Tapezierer,109.4
@@ -983,6 +993,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Maler und Tapezierer,163.8399
 2023-07-01,Fachverband der Maler und Tapezierer,163.8399
 2023-08-01,Fachverband der Maler und Tapezierer,163.8399
+2023-09-01,Fachverband der Maler und Tapezierer,163.8399
+2023-10-01,Fachverband der Maler und Tapezierer,163.8399
 2010-01-01,Fachverband der Bauhilfsgewerbe,110.4
 2010-02-01,Fachverband der Bauhilfsgewerbe,110.4
 2010-03-01,Fachverband der Bauhilfsgewerbe,110.4
@@ -1147,6 +1159,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Bauhilfsgewerbe,163.8364
 2023-07-01,Fachverband der Bauhilfsgewerbe,163.8364
 2023-08-01,Fachverband der Bauhilfsgewerbe,163.8364
+2023-09-01,Fachverband der Bauhilfsgewerbe,163.8364
+2023-10-01,Fachverband der Bauhilfsgewerbe,163.8364
 2010-01-01,Fachverband Holzbau,110.6
 2010-02-01,Fachverband Holzbau,110.6
 2010-03-01,Fachverband Holzbau,110.6
@@ -1311,6 +1325,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband Holzbau,164.46740000000003
 2023-07-01,Fachverband Holzbau,164.46740000000003
 2023-08-01,Fachverband Holzbau,164.46740000000003
+2023-09-01,Fachverband Holzbau,164.46740000000003
+2023-10-01,Fachverband Holzbau,164.46740000000003
 2010-01-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,109.1
 2010-02-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,109.1
 2010-03-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,109.1
@@ -1475,6 +1491,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,164.12400000000002
 2023-07-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,164.12400000000002
 2023-08-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,164.12400000000002
+2023-09-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,164.12400000000002
+2023-10-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,164.12400000000002
 2010-01-01,Fachverband der Metalltechniker ,111.8
 2010-02-01,Fachverband der Metalltechniker ,111.8
 2010-03-01,Fachverband der Metalltechniker ,111.8
@@ -1639,6 +1657,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Metalltechniker ,164.26829999999998
 2023-07-01,Fachverband der Metalltechniker ,164.26829999999998
 2023-08-01,Fachverband der Metalltechniker ,164.26829999999998
+2023-09-01,Fachverband der Metalltechniker ,164.26829999999998
+2023-10-01,Fachverband der Metalltechniker ,164.26829999999998
 2010-01-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",111.8
 2010-02-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",111.8
 2010-03-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",111.8
@@ -1803,6 +1823,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",164.26829999999998
 2023-07-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",164.26829999999998
 2023-08-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",164.26829999999998
+2023-09-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",164.26829999999998
+2023-10-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",164.26829999999998
 2010-01-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",111.8
 2010-02-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",111.8
 2010-03-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",111.8
@@ -1967,6 +1989,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",163.88099999999997
 2023-07-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",163.88099999999997
 2023-08-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",163.88099999999997
+2023-09-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",163.88099999999997
+2023-10-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",163.88099999999997
 2010-01-01,Fachverband der Kunststoffverarbeiter,108.3
 2010-02-01,Fachverband der Kunststoffverarbeiter,108.3
 2010-03-01,Fachverband der Kunststoffverarbeiter,108.3
@@ -2131,6 +2155,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Kunststoffverarbeiter,162.732
 2023-07-01,Fachverband der Kunststoffverarbeiter,162.732
 2023-08-01,Fachverband der Kunststoffverarbeiter,162.732
+2023-09-01,Fachverband der Kunststoffverarbeiter,162.732
+2023-10-01,Fachverband der Kunststoffverarbeiter,162.732
 2010-01-01,Fachverband der Mechatroniker ,111.7
 2010-02-01,Fachverband der Mechatroniker ,111.7
 2010-03-01,Fachverband der Mechatroniker ,111.7
@@ -2295,6 +2321,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Mechatroniker ,162.9888
 2023-07-01,Fachverband der Mechatroniker ,162.9888
 2023-08-01,Fachverband der Mechatroniker ,162.9888
+2023-09-01,Fachverband der Mechatroniker ,162.9888
+2023-10-01,Fachverband der Mechatroniker ,162.9888
 2010-01-01,Fachverband der Fahrzeugtechnik,111.8
 2010-02-01,Fachverband der Fahrzeugtechnik,111.8
 2010-03-01,Fachverband der Fahrzeugtechnik,111.8
@@ -2459,6 +2487,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Fahrzeugtechnik,164.875
 2023-07-01,Fachverband der Fahrzeugtechnik,164.875
 2023-08-01,Fachverband der Fahrzeugtechnik,164.875
+2023-09-01,Fachverband der Fahrzeugtechnik,164.875
+2023-10-01,Fachverband der Fahrzeugtechnik,164.875
 2010-01-01,Fachverband der Gesundheitsberufe,109.6
 2010-02-01,Fachverband der Gesundheitsberufe,109.6
 2010-03-01,Fachverband der Gesundheitsberufe,109.6
@@ -2623,6 +2653,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Gesundheitsberufe,155.74880000000002
 2023-07-01,Fachverband der Gesundheitsberufe,155.74880000000002
 2023-08-01,Fachverband der Gesundheitsberufe,155.74880000000002
+2023-09-01,Fachverband der Gesundheitsberufe,155.74880000000002
+2023-10-01,Fachverband der Gesundheitsberufe,155.74880000000002
 2010-01-01,Fachverband der Lebensmittelgewerbe,108.9
 2010-02-01,Fachverband der Lebensmittelgewerbe,108.9
 2010-03-01,Fachverband der Lebensmittelgewerbe,108.9
@@ -2785,8 +2817,10 @@ Monat,Sparte,Tariflohnindex
 2023-04-01,Fachverband der Lebensmittelgewerbe,149.058
 2023-05-01,Fachverband der Lebensmittelgewerbe,149.562
 2023-06-01,Fachverband der Lebensmittelgewerbe,149.562
-2023-07-01,Fachverband der Lebensmittelgewerbe,154.09799999999998
-2023-08-01,Fachverband der Lebensmittelgewerbe,154.09799999999998
+2023-07-01,Fachverband der Lebensmittelgewerbe,155.862
+2023-08-01,Fachverband der Lebensmittelgewerbe,155.862
+2023-09-01,Fachverband der Lebensmittelgewerbe,155.862
+2023-10-01,Fachverband der Lebensmittelgewerbe,155.862
 2010-01-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",110.7
 2010-02-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",110.7
 2010-03-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",110.7
@@ -2951,6 +2985,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",160.5145
 2023-07-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",160.5145
 2023-08-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",160.5145
+2023-09-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",160.5145
+2023-10-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",160.5145
 2010-01-01,Fachverband der Friseure,109.5
 2010-02-01,Fachverband der Friseure,109.5
 2010-03-01,Fachverband der Friseure,110.8
@@ -3115,6 +3151,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Friseure,157.0008
 2023-07-01,Fachverband der Friseure,157.0008
 2023-08-01,Fachverband der Friseure,157.0008
+2023-09-01,Fachverband der Friseure,157.0008
+2023-10-01,Fachverband der Friseure,157.0008
 2010-01-01,Fachverband der gewerblichen Dienstleister,111.1
 2010-02-01,Fachverband der gewerblichen Dienstleister,111.1
 2010-03-01,Fachverband der gewerblichen Dienstleister,111.1
@@ -3279,6 +3317,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der gewerblichen Dienstleister,163.2843
 2023-07-01,Fachverband der gewerblichen Dienstleister,163.2843
 2023-08-01,Fachverband der gewerblichen Dienstleister,163.54410000000001
+2023-09-01,Fachverband der gewerblichen Dienstleister,163.54410000000001
+2023-10-01,Fachverband der gewerblichen Dienstleister,163.54410000000001
 2010-01-01,INDUSTRIE,110.6
 2010-02-01,INDUSTRIE,110.6
 2010-03-01,INDUSTRIE,110.7
@@ -3443,6 +3483,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,INDUSTRIE,163.7033
 2023-07-01,INDUSTRIE,164.4847
 2023-08-01,INDUSTRIE,164.61493333333337
+2023-09-01,INDUSTRIE,164.61493333333337
+2023-10-01,INDUSTRIE,164.61493333333337
 2010-01-01,Fachverband Bergwerke und Stahl,111.5
 2010-02-01,Fachverband Bergwerke und Stahl,111.5
 2010-03-01,Fachverband Bergwerke und Stahl,111.5
@@ -3607,6 +3649,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband Bergwerke und Stahl,161.3304
 2023-07-01,Fachverband Bergwerke und Stahl,161.3304
 2023-08-01,Fachverband Bergwerke und Stahl,161.3304
+2023-09-01,Fachverband Bergwerke und Stahl,161.3304
+2023-10-01,Fachverband Bergwerke und Stahl,161.3304
 2010-01-01,Fachverband der Mineralölindustrie,110.1
 2010-02-01,Fachverband der Mineralölindustrie,110.1
 2010-03-01,Fachverband der Mineralölindustrie,110.1
@@ -3771,6 +3815,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Mineralölindustrie,164.5425
 2023-07-01,Fachverband der Mineralölindustrie,164.5425
 2023-08-01,Fachverband der Mineralölindustrie,164.5425
+2023-09-01,Fachverband der Mineralölindustrie,164.5425
+2023-10-01,Fachverband der Mineralölindustrie,164.5425
 2010-01-01,Fachverband der Glasindustrie,108.8
 2010-02-01,Fachverband der Glasindustrie,108.8
 2010-03-01,Fachverband der Glasindustrie,108.8
@@ -3935,6 +3981,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Glasindustrie,166.595
 2023-07-01,Fachverband der Glasindustrie,166.595
 2023-08-01,Fachverband der Glasindustrie,166.595
+2023-09-01,Fachverband der Glasindustrie,166.595
+2023-10-01,Fachverband der Glasindustrie,166.595
 2010-01-01,Fachverband der chemischen Industrie,110.6
 2010-02-01,Fachverband der chemischen Industrie,110.6
 2010-03-01,Fachverband der chemischen Industrie,110.6
@@ -4099,6 +4147,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der chemischen Industrie,171.73899999999998
 2023-07-01,Fachverband der chemischen Industrie,171.73899999999998
 2023-08-01,Fachverband der chemischen Industrie,171.73899999999998
+2023-09-01,Fachverband der chemischen Industrie,171.73899999999998
+2023-10-01,Fachverband der chemischen Industrie,171.73899999999998
 2010-01-01,Fachverband der Papierindustrie,108.9
 2010-02-01,Fachverband der Papierindustrie,108.9
 2010-03-01,Fachverband der Papierindustrie,108.9
@@ -4263,6 +4313,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Papierindustrie,167.05
 2023-07-01,Fachverband der Papierindustrie,167.05
 2023-08-01,Fachverband der Papierindustrie,167.05
+2023-09-01,Fachverband der Papierindustrie,167.05
+2023-10-01,Fachverband der Papierindustrie,167.05
 2010-01-01,Fachverband der Bauindustrie,111.3
 2010-02-01,Fachverband der Bauindustrie,111.3
 2010-03-01,Fachverband der Bauindustrie,111.3
@@ -4427,6 +4479,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Bauindustrie,169.076
 2023-07-01,Fachverband der Bauindustrie,169.076
 2023-08-01,Fachverband der Bauindustrie,169.076
+2023-09-01,Fachverband der Bauindustrie,169.076
+2023-10-01,Fachverband der Bauindustrie,169.076
 2010-01-01,Fachverband der Holzindustrie,109.4
 2010-02-01,Fachverband der Holzindustrie,109.4
 2010-03-01,Fachverband der Holzindustrie,109.4
@@ -4591,6 +4645,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Holzindustrie,166.32383333333334
 2023-07-01,Fachverband der Holzindustrie,166.32383333333334
 2023-08-01,Fachverband der Holzindustrie,166.32383333333334
+2023-09-01,Fachverband der Holzindustrie,166.32383333333334
+2023-10-01,Fachverband der Holzindustrie,166.32383333333334
 2010-01-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),109.8
 2010-02-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),109.9
 2010-03-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),109.9
@@ -4755,6 +4811,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),148.96095833333334
 2023-07-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),160.79133333333334
 2023-08-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),163.84433333333334
+2023-09-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),163.84433333333334
+2023-10-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),163.84433333333334
 2010-01-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",108.8
 2010-02-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",108.8
 2010-03-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",108.8
@@ -4919,6 +4977,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",161.53340000000003
 2023-07-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",169.40688333333335
 2023-08-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",169.40688333333335
+2023-09-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",169.40688333333335
+2023-10-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",169.40688333333335
 2010-01-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",111.5
 2010-02-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",111.5
 2010-03-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",111.5
@@ -5083,6 +5143,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",161.99083333333337
 2023-07-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",161.99083333333337
 2023-08-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",161.99083333333337
+2023-09-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",161.99083333333337
+2023-10-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",161.99083333333337
 2010-01-01,Fachverband der Fahrzeugindustrie,111.5
 2010-02-01,Fachverband der Fahrzeugindustrie,111.5
 2010-03-01,Fachverband der Fahrzeugindustrie,111.5
@@ -5247,6 +5309,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Fahrzeugindustrie,161.18335000000002
 2023-07-01,Fachverband der Fahrzeugindustrie,161.18335000000002
 2023-08-01,Fachverband der Fahrzeugindustrie,161.18335000000002
+2023-09-01,Fachverband der Fahrzeugindustrie,161.18335000000002
+2023-10-01,Fachverband der Fahrzeugindustrie,161.18335000000002
 2010-01-01,HANDEL,111.3
 2010-02-01,HANDEL,111.3
 2010-03-01,HANDEL,111.3
@@ -5411,6 +5475,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,HANDEL,158.36369999999997
 2023-07-01,HANDEL,158.49339999999998
 2023-08-01,HANDEL,158.49339999999998
+2023-09-01,HANDEL,158.49339999999998
+2023-10-01,HANDEL,158.49339999999998
 2010-01-01,Fachverband des Lebensmittelhandels,111.4
 2010-02-01,Fachverband des Lebensmittelhandels,111.4
 2010-03-01,Fachverband des Lebensmittelhandels,111.4
@@ -5575,6 +5641,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband des Lebensmittelhandels,158.5664
 2023-07-01,Fachverband des Lebensmittelhandels,158.9576
 2023-08-01,Fachverband des Lebensmittelhandels,158.9576
+2023-09-01,Fachverband des Lebensmittelhandels,158.9576
+2023-10-01,Fachverband des Lebensmittelhandels,158.9576
 2010-01-01,Fachverband der Tabaktrafikanten,111.3
 2010-02-01,Fachverband der Tabaktrafikanten,111.3
 2010-03-01,Fachverband der Tabaktrafikanten,111.3
@@ -5739,6 +5807,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Tabaktrafikanten,157.6986
 2023-07-01,Fachverband der Tabaktrafikanten,157.6986
 2023-08-01,Fachverband der Tabaktrafikanten,157.6986
+2023-09-01,Fachverband der Tabaktrafikanten,157.6986
+2023-10-01,Fachverband der Tabaktrafikanten,157.6986
 2010-01-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",111.3
 2010-02-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",111.3
 2010-03-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",111.3
@@ -5903,6 +5973,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",158.09640000000002
 2023-07-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",158.09640000000002
 2023-08-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",158.09640000000002
+2023-09-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",158.09640000000002
+2023-10-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",158.09640000000002
 2010-01-01,Fachverband des Agrarhandels,111.2
 2010-02-01,Fachverband des Agrarhandels,111.2
 2010-03-01,Fachverband des Agrarhandels,111.2
@@ -6067,6 +6139,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband des Agrarhandels,159.315
 2023-07-01,Fachverband des Agrarhandels,159.315
 2023-08-01,Fachverband des Agrarhandels,159.315
+2023-09-01,Fachverband des Agrarhandels,159.315
+2023-10-01,Fachverband des Agrarhandels,159.315
 2010-01-01,Fachverband des Außenhandels,111.1
 2010-02-01,Fachverband des Außenhandels,111.1
 2010-03-01,Fachverband des Außenhandels,111.1
@@ -6231,6 +6305,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband des Außenhandels,156.7566
 2023-07-01,Fachverband des Außenhandels,156.7566
 2023-08-01,Fachverband des Außenhandels,156.7566
+2023-09-01,Fachverband des Außenhandels,156.7566
+2023-10-01,Fachverband des Außenhandels,156.7566
 2010-01-01,Fachverband des Handels mit Mode und Freizeitartikeln,111.4
 2010-02-01,Fachverband des Handels mit Mode und Freizeitartikeln,111.4
 2010-03-01,Fachverband des Handels mit Mode und Freizeitartikeln,111.4
@@ -6395,6 +6471,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband des Handels mit Mode und Freizeitartikeln,158.57510000000002
 2023-07-01,Fachverband des Handels mit Mode und Freizeitartikeln,158.57510000000002
 2023-08-01,Fachverband des Handels mit Mode und Freizeitartikeln,158.57510000000002
+2023-09-01,Fachverband des Handels mit Mode und Freizeitartikeln,158.57510000000002
+2023-10-01,Fachverband des Handels mit Mode und Freizeitartikeln,158.57510000000002
 2010-01-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",111.3
 2010-02-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",111.3
 2010-03-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",111.3
@@ -6559,6 +6637,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",158.1043
 2023-07-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",158.1043
 2023-08-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",158.1043
+2023-09-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",158.1043
+2023-10-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",158.1043
 2010-01-01,Fachverband des Fahrzeughandels,111.4
 2010-02-01,Fachverband des Fahrzeughandels,111.4
 2010-03-01,Fachverband des Fahrzeughandels,111.4
@@ -6723,6 +6803,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband des Fahrzeughandels,160.3152
 2023-07-01,Fachverband des Fahrzeughandels,160.3152
 2023-08-01,Fachverband des Fahrzeughandels,160.3152
+2023-09-01,Fachverband des Fahrzeughandels,160.3152
+2023-10-01,Fachverband des Fahrzeughandels,160.3152
 2010-01-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",110.7
 2010-02-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",110.7
 2010-03-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",110.7
@@ -6887,6 +6969,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",158.4757
 2023-07-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",158.4757
 2023-08-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",158.4757
+2023-09-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",158.4757
+2023-10-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",158.4757
 2010-01-01,Fachverband des Elektro- und Einrichtungsfachhandels,111.3
 2010-02-01,Fachverband des Elektro- und Einrichtungsfachhandels,111.3
 2010-03-01,Fachverband des Elektro- und Einrichtungsfachhandels,111.3
@@ -7051,6 +7135,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband des Elektro- und Einrichtungsfachhandels,157.98239999999998
 2023-07-01,Fachverband des Elektro- und Einrichtungsfachhandels,157.98239999999998
 2023-08-01,Fachverband des Elektro- und Einrichtungsfachhandels,157.98239999999998
+2023-09-01,Fachverband des Elektro- und Einrichtungsfachhandels,157.98239999999998
+2023-10-01,Fachverband des Elektro- und Einrichtungsfachhandels,157.98239999999998
 2010-01-01,BANK UND VERSICHERUNG,109.8
 2010-02-01,BANK UND VERSICHERUNG,110.4
 2010-03-01,BANK UND VERSICHERUNG,110.8
@@ -7215,6 +7301,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,BANK UND VERSICHERUNG,159.5748
 2023-07-01,BANK UND VERSICHERUNG,159.5748
 2023-08-01,BANK UND VERSICHERUNG,159.5748
+2023-09-01,BANK UND VERSICHERUNG,159.5748
+2023-10-01,BANK UND VERSICHERUNG,159.5748
 2010-01-01,Fachverband der Banken und Bankiers,110
 2010-02-01,Fachverband der Banken und Bankiers,110.8
 2010-03-01,Fachverband der Banken und Bankiers,110.8
@@ -7379,6 +7467,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Banken und Bankiers,157.904825
 2023-07-01,Fachverband der Banken und Bankiers,157.904825
 2023-08-01,Fachverband der Banken und Bankiers,157.904825
+2023-09-01,Fachverband der Banken und Bankiers,157.904825
+2023-10-01,Fachverband der Banken und Bankiers,157.904825
 2010-01-01,Fachverband der Sparkassen,110
 2010-02-01,Fachverband der Sparkassen,110.8
 2010-03-01,Fachverband der Sparkassen,110.8
@@ -7543,6 +7633,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Sparkassen,158.78887500000002
 2023-07-01,Fachverband der Sparkassen,158.78887500000002
 2023-08-01,Fachverband der Sparkassen,158.78887500000002
+2023-09-01,Fachverband der Sparkassen,158.78887500000002
+2023-10-01,Fachverband der Sparkassen,158.78887500000002
 2010-01-01,Fachverband der Volksbanken,110
 2010-02-01,Fachverband der Volksbanken,110.9
 2010-03-01,Fachverband der Volksbanken,110.9
@@ -7707,6 +7799,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Volksbanken,159.28935
 2023-07-01,Fachverband der Volksbanken,159.28935
 2023-08-01,Fachverband der Volksbanken,159.28935
+2023-09-01,Fachverband der Volksbanken,159.28935
+2023-10-01,Fachverband der Volksbanken,159.28935
 2010-01-01,Fachverband der Raiffeisenbanken,110.1
 2010-02-01,Fachverband der Raiffeisenbanken,110.9
 2010-03-01,Fachverband der Raiffeisenbanken,110.9
@@ -7871,6 +7965,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Raiffeisenbanken,159.7647
 2023-07-01,Fachverband der Raiffeisenbanken,159.7647
 2023-08-01,Fachverband der Raiffeisenbanken,159.7647
+2023-09-01,Fachverband der Raiffeisenbanken,159.7647
+2023-10-01,Fachverband der Raiffeisenbanken,159.7647
 2010-01-01,Fachverband der Versicherungsunternehmen,109
 2010-02-01,Fachverband der Versicherungsunternehmen,109
 2010-03-01,Fachverband der Versicherungsunternehmen,110.5
@@ -8035,6 +8131,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Versicherungsunternehmen,161.98469999999998
 2023-07-01,Fachverband der Versicherungsunternehmen,161.98469999999998
 2023-08-01,Fachverband der Versicherungsunternehmen,161.98469999999998
+2023-09-01,Fachverband der Versicherungsunternehmen,161.98469999999998
+2023-10-01,Fachverband der Versicherungsunternehmen,161.98469999999998
 2010-01-01,TRANSPORT UND VERKEHR,110.5
 2010-02-01,TRANSPORT UND VERKEHR,110.5
 2010-03-01,TRANSPORT UND VERKEHR,110.5
@@ -8199,6 +8297,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,TRANSPORT UND VERKEHR,158.7575
 2023-07-01,TRANSPORT UND VERKEHR,158.884
 2023-08-01,TRANSPORT UND VERKEHR,158.884
+2023-09-01,TRANSPORT UND VERKEHR,158.884
+2023-10-01,TRANSPORT UND VERKEHR,158.884
 2010-01-01,Fachverband der Schienenbahnen,109.5
 2010-02-01,Fachverband der Schienenbahnen,109.5
 2010-03-01,Fachverband der Schienenbahnen,109.5
@@ -8363,6 +8463,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Schienenbahnen,162.62295
 2023-07-01,Fachverband der Schienenbahnen,162.87685000000002
 2023-08-01,Fachverband der Schienenbahnen,162.87685000000002
+2023-09-01,Fachverband der Schienenbahnen,162.87685000000002
+2023-10-01,Fachverband der Schienenbahnen,162.87685000000002
 2010-01-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",109.6
 2010-02-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",109.6
 2010-03-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",109.6
@@ -8527,6 +8629,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",141.32213333333334
 2023-07-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",141.32213333333334
 2023-08-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",141.32213333333334
+2023-09-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",141.32213333333334
+2023-10-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",141.32213333333334
 2010-01-01,Fachverband der Seilbahnen,109.1
 2010-02-01,Fachverband der Seilbahnen,109.1
 2010-03-01,Fachverband der Seilbahnen,109.1
@@ -8691,6 +8795,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Seilbahnen,161.07226666666665
 2023-07-01,Fachverband der Seilbahnen,161.07226666666665
 2023-08-01,Fachverband der Seilbahnen,161.07226666666665
+2023-09-01,Fachverband der Seilbahnen,161.07226666666665
+2023-10-01,Fachverband der Seilbahnen,161.07226666666665
 2010-01-01,Fachverband der Spediteure,109.1
 2010-02-01,Fachverband der Spediteure,109.1
 2010-03-01,Fachverband der Spediteure,109.1
@@ -8855,6 +8961,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Spediteure,160.4133
 2023-07-01,Fachverband der Spediteure,160.4133
 2023-08-01,Fachverband der Spediteure,160.4133
+2023-09-01,Fachverband der Spediteure,160.4133
+2023-10-01,Fachverband der Spediteure,160.4133
 2010-01-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,113.2
 2010-02-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,113.2
 2010-03-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,113.2
@@ -9019,6 +9127,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,184.97
 2023-07-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,184.97
 2023-08-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,184.97
+2023-09-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,184.97
+2023-10-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,184.97
 2010-01-01,Fachverband für das Güterbeförderungsgewerbe,111.5
 2010-02-01,Fachverband für das Güterbeförderungsgewerbe,111.5
 2010-03-01,Fachverband für das Güterbeförderungsgewerbe,111.5
@@ -9183,6 +9293,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband für das Güterbeförderungsgewerbe,158.4552
 2023-07-01,Fachverband für das Güterbeförderungsgewerbe,158.4552
 2023-08-01,Fachverband für das Güterbeförderungsgewerbe,158.4552
+2023-09-01,Fachverband für das Güterbeförderungsgewerbe,158.4552
+2023-10-01,Fachverband für das Güterbeförderungsgewerbe,158.4552
 2010-01-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",108.6
 2010-02-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",109.8
 2010-03-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",109.8
@@ -9347,6 +9459,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",168.084
 2023-07-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",168.084
 2023-08-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",168.084
+2023-09-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",168.084
+2023-10-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",168.084
 2010-01-01,TOURISMUS UND FREIZEIT,109.8
 2010-02-01,TOURISMUS UND FREIZEIT,109.9
 2010-03-01,TOURISMUS UND FREIZEIT,109.9
@@ -9511,6 +9625,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,TOURISMUS UND FREIZEIT,163.91870000000003
 2023-07-01,TOURISMUS UND FREIZEIT,164.57228333333333
 2023-08-01,TOURISMUS UND FREIZEIT,164.57228333333333
+2023-09-01,TOURISMUS UND FREIZEIT,164.57228333333333
+2023-10-01,TOURISMUS UND FREIZEIT,164.703
 2010-01-01,Fachverband Gastronomie,109.4
 2010-02-01,Fachverband Gastronomie,109.4
 2010-03-01,Fachverband Gastronomie,109.4
@@ -9675,6 +9791,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband Gastronomie,164.012
 2023-07-01,Fachverband Gastronomie,164.012
 2023-08-01,Fachverband Gastronomie,164.012
+2023-09-01,Fachverband Gastronomie,164.012
+2023-10-01,Fachverband Gastronomie,164.012
 2010-01-01,Fachverband Hotellerie,109.4
 2010-02-01,Fachverband Hotellerie,109.4
 2010-03-01,Fachverband Hotellerie,109.4
@@ -9839,6 +9957,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband Hotellerie,164.3516
 2023-07-01,Fachverband Hotellerie,164.3516
 2023-08-01,Fachverband Hotellerie,164.3516
+2023-09-01,Fachverband Hotellerie,164.3516
+2023-10-01,Fachverband Hotellerie,164.3516
 2010-01-01,Fachverband der Gesundheitsbetriebe,114.5
 2010-02-01,Fachverband der Gesundheitsbetriebe,114.5
 2010-03-01,Fachverband der Gesundheitsbetriebe,114.5
@@ -10003,6 +10123,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Gesundheitsbetriebe,165.1125
 2023-07-01,Fachverband der Gesundheitsbetriebe,171.92666666666665
 2023-08-01,Fachverband der Gesundheitsbetriebe,171.92666666666665
+2023-09-01,Fachverband der Gesundheitsbetriebe,171.92666666666665
+2023-10-01,Fachverband der Gesundheitsbetriebe,174.154375
 2010-01-01,Fachverband der Reisebüros,108.8
 2010-02-01,Fachverband der Reisebüros,108.8
 2010-03-01,Fachverband der Reisebüros,108.8
@@ -10167,6 +10289,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Reisebüros,153.0708
 2023-07-01,Fachverband der Reisebüros,153.0708
 2023-08-01,Fachverband der Reisebüros,153.0708
+2023-09-01,Fachverband der Reisebüros,153.0708
+2023-10-01,Fachverband der Reisebüros,153.0708
 2010-01-01,Fachverband der Freizeit- und Sportbetriebe,109.4
 2010-02-01,Fachverband der Freizeit- und Sportbetriebe,109.4
 2010-03-01,Fachverband der Freizeit- und Sportbetriebe,109.4
@@ -10331,6 +10455,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Freizeit- und Sportbetriebe,168.71653333333336
 2023-07-01,Fachverband der Freizeit- und Sportbetriebe,168.71653333333336
 2023-08-01,Fachverband der Freizeit- und Sportbetriebe,168.71653333333336
+2023-09-01,Fachverband der Freizeit- und Sportbetriebe,168.71653333333336
+2023-10-01,Fachverband der Freizeit- und Sportbetriebe,168.71653333333336
 2010-01-01,INFORMATION UND CONSULTING,109.8
 2010-02-01,INFORMATION UND CONSULTING,109.8
 2010-03-01,INFORMATION UND CONSULTING,109.8
@@ -10495,6 +10621,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,INFORMATION UND CONSULTING,155.6457
 2023-07-01,INFORMATION UND CONSULTING,155.6457
 2023-08-01,INFORMATION UND CONSULTING,155.6457
+2023-09-01,INFORMATION UND CONSULTING,155.6457
+2023-10-01,INFORMATION UND CONSULTING,155.6457
 2010-01-01,Fachverband Entsorgungs- u. Ressourcenmanagement,111.7
 2010-02-01,Fachverband Entsorgungs- u. Ressourcenmanagement,111.7
 2010-03-01,Fachverband Entsorgungs- u. Ressourcenmanagement,111.7
@@ -10659,6 +10787,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband Entsorgungs- u. Ressourcenmanagement,162.688
 2023-07-01,Fachverband Entsorgungs- u. Ressourcenmanagement,162.688
 2023-08-01,Fachverband Entsorgungs- u. Ressourcenmanagement,162.688
+2023-09-01,Fachverband Entsorgungs- u. Ressourcenmanagement,162.688
+2023-10-01,Fachverband Entsorgungs- u. Ressourcenmanagement,162.688
 2010-01-01,Fachverband Werbung und Marktkommunikation,110.1
 2010-02-01,Fachverband Werbung und Marktkommunikation,110.1
 2010-03-01,Fachverband Werbung und Marktkommunikation,110.5
@@ -10823,6 +10953,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband Werbung und Marktkommunikation,155.15619999999998
 2023-07-01,Fachverband Werbung und Marktkommunikation,155.15619999999998
 2023-08-01,Fachverband Werbung und Marktkommunikation,155.15619999999998
+2023-09-01,Fachverband Werbung und Marktkommunikation,155.15619999999998
+2023-10-01,Fachverband Werbung und Marktkommunikation,155.15619999999998
 2010-01-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",110.7
 2010-02-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",110.7
 2010-03-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",110.7
@@ -10987,6 +11119,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",158.46810000000002
 2023-07-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",158.46810000000002
 2023-08-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",158.46810000000002
+2023-09-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",158.46810000000002
+2023-10-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",158.46810000000002
 2010-01-01,Fachverband Ingenieurbüros,110.2
 2010-02-01,Fachverband Ingenieurbüros,110.2
 2010-03-01,Fachverband Ingenieurbüros,110.2
@@ -11151,6 +11285,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband Ingenieurbüros,157.0882
 2023-07-01,Fachverband Ingenieurbüros,157.0882
 2023-08-01,Fachverband Ingenieurbüros,157.0882
+2023-09-01,Fachverband Ingenieurbüros,157.0882
+2023-10-01,Fachverband Ingenieurbüros,157.0882
 2010-01-01,Fachverband Druck,106.4
 2010-02-01,Fachverband Druck,106.4
 2010-03-01,Fachverband Druck,106.4
@@ -11315,6 +11451,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband Druck,152.8842
 2023-07-01,Fachverband Druck,152.8842
 2023-08-01,Fachverband Druck,152.8842
+2023-09-01,Fachverband Druck,152.8842
+2023-10-01,Fachverband Druck,152.8842
 2010-01-01,Fachverband der Immobilien- und Vermögenstreuhänder,110.2
 2010-02-01,Fachverband der Immobilien- und Vermögenstreuhänder,110.2
 2010-03-01,Fachverband der Immobilien- und Vermögenstreuhänder,110.2
@@ -11479,6 +11617,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Immobilien- und Vermögenstreuhänder,159.66899999999998
 2023-07-01,Fachverband der Immobilien- und Vermögenstreuhänder,159.66899999999998
 2023-08-01,Fachverband der Immobilien- und Vermögenstreuhänder,159.66899999999998
+2023-09-01,Fachverband der Immobilien- und Vermögenstreuhänder,159.66899999999998
+2023-10-01,Fachverband der Immobilien- und Vermögenstreuhänder,159.66899999999998
 2010-01-01,Fachverband der Buch- und Medienwirtschaft,111
 2010-02-01,Fachverband der Buch- und Medienwirtschaft,111
 2010-03-01,Fachverband der Buch- und Medienwirtschaft,111
@@ -11643,6 +11783,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Buch- und Medienwirtschaft,150.386625
 2023-07-01,Fachverband der Buch- und Medienwirtschaft,150.386625
 2023-08-01,Fachverband der Buch- und Medienwirtschaft,150.386625
+2023-09-01,Fachverband der Buch- und Medienwirtschaft,150.386625
+2023-10-01,Fachverband der Buch- und Medienwirtschaft,150.386625
 2010-01-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,108.4
 2010-02-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,108.4
 2010-03-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,108.4
@@ -11807,6 +11949,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,147.224
 2023-07-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,147.224
 2023-08-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,147.224
+2023-09-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,147.224
+2023-10-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,147.224
 2010-01-01,Angestellte bei Architekten und Ingenieurkonsulenten,110.2
 2010-02-01,Angestellte bei Architekten und Ingenieurkonsulenten,110.2
 2010-03-01,Angestellte bei Architekten und Ingenieurkonsulenten,110.2
@@ -11971,6 +12115,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Angestellte bei Architekten und Ingenieurkonsulenten,15510.880000000001
 2023-07-01,Angestellte bei Architekten und Ingenieurkonsulenten,15510.880000000001
 2023-08-01,Angestellte bei Architekten und Ingenieurkonsulenten,15510.880000000001
+2023-09-01,Angestellte bei Architekten und Ingenieurkonsulenten,15510.880000000001
+2023-10-01,Angestellte bei Architekten und Ingenieurkonsulenten,15510.880000000001
 2010-01-01,Arbeitskräfteüberlasser,111.8
 2010-02-01,Arbeitskräfteüberlasser,111.8
 2010-03-01,Arbeitskräfteüberlasser,111.8
@@ -12135,6 +12281,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Arbeitskräfteüberlasser,16741.47
 2023-07-01,Arbeitskräfteüberlasser,16741.47
 2023-08-01,Arbeitskräfteüberlasser,16741.47
+2023-09-01,Arbeitskräfteüberlasser,16741.47
+2023-10-01,Arbeitskräfteüberlasser,16741.47
 2010-01-01,Arbeitsmarktservice Österreich,110.1
 2010-02-01,Arbeitsmarktservice Österreich,110.1
 2010-03-01,Arbeitsmarktservice Österreich,110.1
@@ -12299,6 +12447,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Arbeitsmarktservice Österreich,14820.96
 2023-07-01,Arbeitsmarktservice Österreich,14820.96
 2023-08-01,Arbeitsmarktservice Österreich,14820.96
+2023-09-01,Arbeitsmarktservice Österreich,14820.96
+2023-10-01,Arbeitsmarktservice Österreich,14820.96
 2010-01-01,BABE Private Bildungseinrichtungen,110.3
 2010-02-01,BABE Private Bildungseinrichtungen,110.3
 2010-03-01,BABE Private Bildungseinrichtungen,110.3
@@ -12463,6 +12613,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,BABE Private Bildungseinrichtungen,14956.266666666666
 2023-07-01,BABE Private Bildungseinrichtungen,14956.266666666666
 2023-08-01,BABE Private Bildungseinrichtungen,16490.573333333334
+2023-09-01,BABE Private Bildungseinrichtungen,16490.573333333334
+2023-10-01,BABE Private Bildungseinrichtungen,16490.573333333334
 2010-01-01,Bäcker,108.7
 2010-02-01,Bäcker,108.7
 2010-03-01,Bäcker,108.7
@@ -12627,6 +12779,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bäcker,14863.886875
 2023-07-01,Bäcker,14863.886875
 2023-08-01,Bäcker,14863.886875
+2023-09-01,Bäcker,14863.886875
+2023-10-01,Bäcker,14863.886875
 2010-01-01,Banken und Bankiers,110
 2010-02-01,Banken und Bankiers,110.8
 2010-03-01,Banken und Bankiers,110.8
@@ -12791,6 +12945,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Banken und Bankiers,15803.125
 2023-07-01,Banken und Bankiers,15803.125
 2023-08-01,Banken und Bankiers,15803.125
+2023-09-01,Banken und Bankiers,15803.125
+2023-10-01,Banken und Bankiers,15803.125
 2010-01-01,Bauhilfsgewerbe,110.6
 2010-02-01,Bauhilfsgewerbe,110.6
 2010-03-01,Bauhilfsgewerbe,110.6
@@ -12955,6 +13111,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bauhilfsgewerbe,16826.413333333334
 2023-07-01,Bauhilfsgewerbe,16826.413333333334
 2023-08-01,Bauhilfsgewerbe,16826.413333333334
+2023-09-01,Bauhilfsgewerbe,16826.413333333334
+2023-10-01,Bauhilfsgewerbe,16826.413333333334
 2010-01-01,Bauindustrie und Baugewerbe,111.25
 2010-02-01,Bauindustrie und Baugewerbe,111.25
 2010-03-01,Bauindustrie und Baugewerbe,111.25
@@ -13119,6 +13277,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bauindustrie und Baugewerbe,16916.586666666666
 2023-07-01,Bauindustrie und Baugewerbe,16916.586666666666
 2023-08-01,Bauindustrie und Baugewerbe,16916.586666666666
+2023-09-01,Bauindustrie und Baugewerbe,16916.586666666666
+2023-10-01,Bauindustrie und Baugewerbe,16916.586666666666
 2010-01-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,109
 2010-02-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,109
 2010-03-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,109
@@ -13283,6 +13443,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,14757.679999999998
 2023-07-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,16311.784999999998
 2023-08-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,16311.784999999998
+2023-09-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,16311.784999999998
+2023-10-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,16311.784999999998
 2010-01-01,Bergwerke und Stahl - Eisenhüttenwerke,111.5
 2010-02-01,Bergwerke und Stahl - Eisenhüttenwerke,111.5
 2010-03-01,Bergwerke und Stahl - Eisenhüttenwerke,111.5
@@ -13447,6 +13609,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bergwerke und Stahl - Eisenhüttenwerke,16126.492499999998
 2023-07-01,Bergwerke und Stahl - Eisenhüttenwerke,16126.492499999998
 2023-08-01,Bergwerke und Stahl - Eisenhüttenwerke,16126.492499999998
+2023-09-01,Bergwerke und Stahl - Eisenhüttenwerke,16126.492499999998
+2023-10-01,Bergwerke und Stahl - Eisenhüttenwerke,16126.492499999998
 2010-01-01,Blumenbinder u. -händler,108.7
 2010-02-01,Blumenbinder u. -händler,109.8
 2010-03-01,Blumenbinder u. -händler,109.8
@@ -13611,6 +13775,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Blumenbinder u. -händler,16916.204166666666
 2023-07-01,Blumenbinder u. -händler,16916.204166666666
 2023-08-01,Blumenbinder u. -händler,16916.204166666666
+2023-09-01,Blumenbinder u. -händler,16916.204166666666
+2023-10-01,Blumenbinder u. -händler,16916.204166666666
 2010-01-01,Bundesforste,110.9
 2010-02-01,Bundesforste,110.9
 2010-03-01,Bundesforste,110.9
@@ -13775,6 +13941,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bundesforste,15797.83333333333
 2023-07-01,Bundesforste,15797.83333333333
 2023-08-01,Bundesforste,15797.83333333333
+2023-09-01,Bundesforste,15797.83333333333
+2023-10-01,Bundesforste,15797.83333333333
 2010-01-01,Eisen- und metallverarbeitendes Gewerbe,111.8
 2010-02-01,Eisen- und metallverarbeitendes Gewerbe,111.8
 2010-03-01,Eisen- und metallverarbeitendes Gewerbe,111.8
@@ -13939,6 +14107,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Eisen- und metallverarbeitendes Gewerbe,16543.800000000003
 2023-07-01,Eisen- und metallverarbeitendes Gewerbe,16543.800000000003
 2023-08-01,Eisen- und metallverarbeitendes Gewerbe,16543.800000000003
+2023-09-01,Eisen- und metallverarbeitendes Gewerbe,16543.800000000003
+2023-10-01,Eisen- und metallverarbeitendes Gewerbe,16543.800000000003
 2010-01-01,Metallgewerbe,111.8
 2010-02-01,Metallgewerbe,111.8
 2010-03-01,Metallgewerbe,111.8
@@ -14103,6 +14273,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Metallgewerbe,16270.87
 2023-07-01,Metallgewerbe,16270.87
 2023-08-01,Metallgewerbe,16270.87
+2023-09-01,Metallgewerbe,16270.87
+2023-10-01,Metallgewerbe,16270.87
 2010-01-01,Chemische Industrie,110.6
 2010-02-01,Chemische Industrie,110.6
 2010-03-01,Chemische Industrie,110.6
@@ -14267,6 +14439,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Chemische Industrie,17173.899999999998
 2023-07-01,Chemische Industrie,17173.899999999998
 2023-08-01,Chemische Industrie,17173.899999999998
+2023-09-01,Chemische Industrie,17173.899999999998
+2023-10-01,Chemische Industrie,17173.899999999998
 2010-01-01,"Denkmal-, Fassaden-, Gebäudereiniger",110.8
 2010-02-01,"Denkmal-, Fassaden-, Gebäudereiniger",110.8
 2010-03-01,"Denkmal-, Fassaden-, Gebäudereiniger",110.8
@@ -14431,6 +14605,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Denkmal-, Fassaden-, Gebäudereiniger",16166.22
 2023-07-01,"Denkmal-, Fassaden-, Gebäudereiniger",16166.22
 2023-08-01,"Denkmal-, Fassaden-, Gebäudereiniger",16166.22
+2023-09-01,"Denkmal-, Fassaden-, Gebäudereiniger",16166.22
+2023-10-01,"Denkmal-, Fassaden-, Gebäudereiniger",16166.22
 2010-01-01,Elektrizitätsversorgungsunternehmungen,110.6
 2010-02-01,Elektrizitätsversorgungsunternehmungen,112.3
 2010-03-01,Elektrizitätsversorgungsunternehmungen,112.3
@@ -14595,6 +14771,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Elektrizitätsversorgungsunternehmungen,16801.375
 2023-07-01,Elektrizitätsversorgungsunternehmungen,16801.375
 2023-08-01,Elektrizitätsversorgungsunternehmungen,16801.375
+2023-09-01,Elektrizitätsversorgungsunternehmungen,16801.375
+2023-10-01,Elektrizitätsversorgungsunternehmungen,16801.375
 2010-01-01,Elektro- u. Elektronikindustrie,109.6
 2010-02-01,Elektro- u. Elektronikindustrie,109.6
 2010-03-01,Elektro- u. Elektronikindustrie,109.6
@@ -14759,6 +14937,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Elektro- u. Elektronikindustrie,16925.920000000002
 2023-07-01,Elektro- u. Elektronikindustrie,16925.920000000002
 2023-08-01,Elektro- u. Elektronikindustrie,16925.920000000002
+2023-09-01,Elektro- u. Elektronikindustrie,16925.920000000002
+2023-10-01,Elektro- u. Elektronikindustrie,16925.920000000002
 2010-01-01,Fleischergewerbe,108.7
 2010-02-01,Fleischergewerbe,108.7
 2010-03-01,Fleischergewerbe,108.7
@@ -14921,8 +15101,10 @@ Monat,Sparte,Tariflohnindex
 2023-04-01,Fleischergewerbe,14913.032500000001
 2023-05-01,Fleischergewerbe,14913.032500000001
 2023-06-01,Fleischergewerbe,14913.032500000001
-2023-07-01,Fleischergewerbe,14913.032500000001
-2023-08-01,Fleischergewerbe,14913.032500000001
+2023-07-01,Fleischergewerbe,16405.59
+2023-08-01,Fleischergewerbe,16405.59
+2023-09-01,Fleischergewerbe,16405.59
+2023-10-01,Fleischergewerbe,16405.59
 2010-01-01,Fleischwarenindustrie,108.6
 2010-02-01,Fleischwarenindustrie,108.6
 2010-03-01,Fleischwarenindustrie,108.6
@@ -15087,6 +15269,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Fleischwarenindustrie,14585.800000000001
 2023-07-01,Fleischwarenindustrie,16038.119999999999
 2023-08-01,Fleischwarenindustrie,16038.119999999999
+2023-09-01,Fleischwarenindustrie,16038.119999999999
+2023-10-01,Fleischwarenindustrie,16038.119999999999
 2010-01-01,Flughafen,106.4
 2010-02-01,Flughafen,106.4
 2010-03-01,Flughafen,106.4
@@ -15251,6 +15435,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Flughafen,15470.833333333334
 2023-07-01,Flughafen,15470.833333333334
 2023-08-01,Flughafen,15470.833333333334
+2023-09-01,Flughafen,15470.833333333334
+2023-10-01,Flughafen,15470.833333333334
 2010-01-01,Forstarbeiter Privatwirtschaft,110.5
 2010-02-01,Forstarbeiter Privatwirtschaft,110.5
 2010-03-01,Forstarbeiter Privatwirtschaft,110.5
@@ -15415,6 +15601,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Forstarbeiter Privatwirtschaft,15641.009999999998
 2023-07-01,Forstarbeiter Privatwirtschaft,15641.009999999998
 2023-08-01,Forstarbeiter Privatwirtschaft,15641.009999999998
+2023-09-01,Forstarbeiter Privatwirtschaft,15641.009999999998
+2023-10-01,Forstarbeiter Privatwirtschaft,15641.009999999998
 2010-01-01,FriseurInnen,109.4
 2010-02-01,FriseurInnen,109.4
 2010-03-01,FriseurInnen,110.8
@@ -15579,6 +15767,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,FriseurInnen,15709.42
 2023-07-01,FriseurInnen,15709.42
 2023-08-01,FriseurInnen,15709.42
+2023-09-01,FriseurInnen,15709.42
+2023-10-01,FriseurInnen,15709.42
 2010-01-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",107.7
 2010-02-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",109.3
 2010-03-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",109.3
@@ -15743,6 +15933,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",17014.25
 2023-07-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",17014.25
 2023-08-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",17014.25
+2023-09-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",17014.25
+2023-10-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",17014.25
 2010-01-01,Gas- und Wärmeversorgungsunternehmen,111.5
 2010-02-01,Gas- und Wärmeversorgungsunternehmen,111.5
 2010-03-01,Gas- und Wärmeversorgungsunternehmen,111.5
@@ -15907,6 +16099,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Gas- und Wärmeversorgungsunternehmen,16093.273333333334
 2023-07-01,Gas- und Wärmeversorgungsunternehmen,16093.273333333334
 2023-08-01,Gas- und Wärmeversorgungsunternehmen,16093.273333333334
+2023-09-01,Gas- und Wärmeversorgungsunternehmen,16093.273333333334
+2023-10-01,Gas- und Wärmeversorgungsunternehmen,16093.273333333334
 2010-01-01,Gewerbliche Kreditgenossenschaften,110
 2010-02-01,Gewerbliche Kreditgenossenschaften,110.9
 2010-03-01,Gewerbliche Kreditgenossenschaften,110.9
@@ -16071,6 +16265,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Gewerbliche Kreditgenossenschaften,15928.935000000001
 2023-07-01,Gewerbliche Kreditgenossenschaften,15928.935000000001
 2023-08-01,Gewerbliche Kreditgenossenschaften,15928.935000000001
+2023-09-01,Gewerbliche Kreditgenossenschaften,15928.935000000001
+2023-10-01,Gewerbliche Kreditgenossenschaften,15928.935000000001
 2010-01-01,Güterbeförderungsgewerbe,111.65
 2010-02-01,Güterbeförderungsgewerbe,111.65
 2010-03-01,Güterbeförderungsgewerbe,111.65
@@ -16235,6 +16431,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Güterbeförderungsgewerbe,16313.644999999999
 2023-07-01,Güterbeförderungsgewerbe,16313.644999999999
 2023-08-01,Güterbeförderungsgewerbe,16313.644999999999
+2023-09-01,Güterbeförderungsgewerbe,16313.644999999999
+2023-10-01,Güterbeförderungsgewerbe,16313.644999999999
 2010-01-01,"Hafner, Platten-, Fliesenleger und Keramiker",110.5
 2010-02-01,"Hafner, Platten-, Fliesenleger und Keramiker",110.5
 2010-03-01,"Hafner, Platten-, Fliesenleger und Keramiker",110.5
@@ -16399,6 +16597,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Hafner, Platten-, Fliesenleger und Keramiker",16533.06
 2023-07-01,"Hafner, Platten-, Fliesenleger und Keramiker",16533.06
 2023-08-01,"Hafner, Platten-, Fliesenleger und Keramiker",16533.06
+2023-09-01,"Hafner, Platten-, Fliesenleger und Keramiker",16533.06
+2023-10-01,"Hafner, Platten-, Fliesenleger und Keramiker",16533.06
 2010-01-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,111.3
 2010-02-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,111.3
 2010-03-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,111.3
@@ -16563,6 +16763,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,15745.58
 2023-07-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,15745.58
 2023-08-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,15745.58
+2023-09-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,15745.58
+2023-10-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,15745.58
 2010-01-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,111.6
 2010-02-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,111.6
 2010-03-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,111.6
@@ -16727,6 +16929,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,16019.15
 2023-07-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,16019.15
 2023-08-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,16019.15
+2023-09-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,16019.15
+2023-10-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,16019.15
 2010-01-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,110.1
 2010-02-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,110.1
 2010-03-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,110.1
@@ -16891,6 +17095,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,15683.36
 2023-07-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,15683.36
 2023-08-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,15683.36
+2023-09-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,15683.36
+2023-10-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,15683.36
 2010-01-01,Hotel- Gastgewerbe Kärnten,109.4
 2010-02-01,Hotel- Gastgewerbe Kärnten,109.4
 2010-03-01,Hotel- Gastgewerbe Kärnten,109.4
@@ -17055,6 +17261,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Hotel- Gastgewerbe Kärnten,16573.84
 2023-07-01,Hotel- Gastgewerbe Kärnten,16573.84
 2023-08-01,Hotel- Gastgewerbe Kärnten,16573.84
+2023-09-01,Hotel- Gastgewerbe Kärnten,16573.84
+2023-10-01,Hotel- Gastgewerbe Kärnten,16573.84
 2010-01-01,Hotel- Gastgewerbe Niederösterreich,109.4
 2010-02-01,Hotel- Gastgewerbe Niederösterreich,109.4
 2010-03-01,Hotel- Gastgewerbe Niederösterreich,109.4
@@ -17219,6 +17427,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Hotel- Gastgewerbe Niederösterreich,15866.24
 2023-07-01,Hotel- Gastgewerbe Niederösterreich,15866.24
 2023-08-01,Hotel- Gastgewerbe Niederösterreich,15866.24
+2023-09-01,Hotel- Gastgewerbe Niederösterreich,15866.24
+2023-10-01,Hotel- Gastgewerbe Niederösterreich,15866.24
 2010-01-01,Hotel- Gastgewerbe Oberösterreich,109.4
 2010-02-01,Hotel- Gastgewerbe Oberösterreich,109.4
 2010-03-01,Hotel- Gastgewerbe Oberösterreich,109.4
@@ -17383,6 +17593,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Hotel- Gastgewerbe Oberösterreich,16280.07
 2023-07-01,Hotel- Gastgewerbe Oberösterreich,16280.07
 2023-08-01,Hotel- Gastgewerbe Oberösterreich,16280.07
+2023-09-01,Hotel- Gastgewerbe Oberösterreich,16280.07
+2023-10-01,Hotel- Gastgewerbe Oberösterreich,16280.07
 2010-01-01,Hotel- Gastgewerbe Salzburg,109.35
 2010-02-01,Hotel- Gastgewerbe Salzburg,109.35
 2010-03-01,Hotel- Gastgewerbe Salzburg,109.35
@@ -17547,6 +17759,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Hotel- Gastgewerbe Salzburg,16292.444166666668
 2023-07-01,Hotel- Gastgewerbe Salzburg,16292.444166666668
 2023-08-01,Hotel- Gastgewerbe Salzburg,16292.444166666668
+2023-09-01,Hotel- Gastgewerbe Salzburg,16292.444166666668
+2023-10-01,Hotel- Gastgewerbe Salzburg,16292.444166666668
 2010-01-01,Hotel- Gastgewerbe Steiermark,109.4
 2010-02-01,Hotel- Gastgewerbe Steiermark,109.4
 2010-03-01,Hotel- Gastgewerbe Steiermark,109.4
@@ -17711,6 +17925,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Hotel- Gastgewerbe Steiermark,16823.803333333333
 2023-07-01,Hotel- Gastgewerbe Steiermark,16823.803333333333
 2023-08-01,Hotel- Gastgewerbe Steiermark,16823.803333333333
+2023-09-01,Hotel- Gastgewerbe Steiermark,16823.803333333333
+2023-10-01,Hotel- Gastgewerbe Steiermark,16823.803333333333
 2010-01-01,Hotel- Gastgewerbe Tirol,109.4
 2010-02-01,Hotel- Gastgewerbe Tirol,109.4
 2010-03-01,Hotel- Gastgewerbe Tirol,109.4
@@ -17875,6 +18091,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Hotel- Gastgewerbe Tirol,16118.345000000003
 2023-07-01,Hotel- Gastgewerbe Tirol,16118.345000000003
 2023-08-01,Hotel- Gastgewerbe Tirol,16118.345000000003
+2023-09-01,Hotel- Gastgewerbe Tirol,16118.345000000003
+2023-10-01,Hotel- Gastgewerbe Tirol,16118.345000000003
 2010-01-01,Hotel- Gastgewerbe Wien,109.4
 2010-02-01,Hotel- Gastgewerbe Wien,109.4
 2010-03-01,Hotel- Gastgewerbe Wien,109.4
@@ -18039,6 +18257,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Hotel- Gastgewerbe Wien,16611.75
 2023-07-01,Hotel- Gastgewerbe Wien,16611.75
 2023-08-01,Hotel- Gastgewerbe Wien,16611.75
+2023-09-01,Hotel- Gastgewerbe Wien,16611.75
+2023-10-01,Hotel- Gastgewerbe Wien,16611.75
 2010-01-01,Immobilienverwalter,109.1
 2010-02-01,Immobilienverwalter,109.1
 2010-03-01,Immobilienverwalter,109.1
@@ -18203,6 +18423,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Immobilienverwalter,15773.92
 2023-07-01,Immobilienverwalter,15773.92
 2023-08-01,Immobilienverwalter,15773.92
+2023-09-01,Immobilienverwalter,15773.92
+2023-10-01,Immobilienverwalter,15773.92
 2010-01-01,Kunststoffverarbeitendes Gewerbe,108.2
 2010-02-01,Kunststoffverarbeitendes Gewerbe,108.2
 2010-03-01,Kunststoffverarbeitendes Gewerbe,108.2
@@ -18367,6 +18589,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Kunststoffverarbeitendes Gewerbe,16088.765000000001
 2023-07-01,Kunststoffverarbeitendes Gewerbe,16088.765000000001
 2023-08-01,Kunststoffverarbeitendes Gewerbe,16088.765000000001
+2023-09-01,Kunststoffverarbeitendes Gewerbe,16088.765000000001
+2023-10-01,Kunststoffverarbeitendes Gewerbe,16088.765000000001
 2010-01-01,Karitative Einrichtungen der Katholischen Kirche,109.2
 2010-02-01,Karitative Einrichtungen der Katholischen Kirche,110.8
 2010-03-01,Karitative Einrichtungen der Katholischen Kirche,110.8
@@ -18531,6 +18755,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Karitative Einrichtungen der Katholischen Kirche,15473.599999999999
 2023-07-01,Karitative Einrichtungen der Katholischen Kirche,15473.599999999999
 2023-08-01,Karitative Einrichtungen der Katholischen Kirche,15473.599999999999
+2023-09-01,Karitative Einrichtungen der Katholischen Kirche,15473.599999999999
+2023-10-01,Karitative Einrichtungen der Katholischen Kirche,15473.599999999999
 2010-01-01,Landes-Hypothekenbanken,110.1
 2010-02-01,Landes-Hypothekenbanken,111
 2010-03-01,Landes-Hypothekenbanken,111
@@ -18695,6 +18921,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Landes-Hypothekenbanken,16001.25
 2023-07-01,Landes-Hypothekenbanken,16001.25
 2023-08-01,Landes-Hypothekenbanken,16001.25
+2023-09-01,Landes-Hypothekenbanken,16001.25
+2023-10-01,Landes-Hypothekenbanken,16001.25
 2010-01-01,Österreichische Bundesbahnen,109.4
 2010-02-01,Österreichische Bundesbahnen,109.4
 2010-03-01,Österreichische Bundesbahnen,109.4
@@ -18859,6 +19087,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Österreichische Bundesbahnen,15338.759999999998
 2023-07-01,Österreichische Bundesbahnen,15351.119999999999
 2023-08-01,Österreichische Bundesbahnen,15351.119999999999
+2023-09-01,Österreichische Bundesbahnen,15351.119999999999
+2023-10-01,Österreichische Bundesbahnen,15351.119999999999
 2010-01-01,Maler,108.8
 2010-02-01,Maler,108.8
 2010-03-01,Maler,108.8
@@ -19023,6 +19253,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Maler,16618.89333333333
 2023-07-01,Maler,16618.89333333333
 2023-08-01,Maler,16618.89333333333
+2023-09-01,Maler,16618.89333333333
+2023-10-01,Maler,16618.89333333333
 2010-01-01,Privatkrankenanstalten / konfessionelle Einrichtungen,113.9
 2010-02-01,Privatkrankenanstalten / konfessionelle Einrichtungen,113.9
 2010-03-01,Privatkrankenanstalten / konfessionelle Einrichtungen,113.9
@@ -19187,6 +19419,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Privatkrankenanstalten / konfessionelle Einrichtungen,17069.359999999997
 2023-07-01,Privatkrankenanstalten / konfessionelle Einrichtungen,18282.079999999994
 2023-08-01,Privatkrankenanstalten / konfessionelle Einrichtungen,18282.079999999994
+2023-09-01,Privatkrankenanstalten / konfessionelle Einrichtungen,18282.079999999994
+2023-10-01,Privatkrankenanstalten / konfessionelle Einrichtungen,18282.079999999994
 2010-01-01,Speditionen,109
 2010-02-01,Speditionen,109
 2010-03-01,Speditionen,109
@@ -19351,6 +19585,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Speditionen,15939.2625
 2023-07-01,Speditionen,15939.2625
 2023-08-01,Speditionen,15939.2625
+2023-09-01,Speditionen,15939.2625
+2023-10-01,Speditionen,15939.2625
 2010-01-01,Zahnarzt,108.8
 2010-02-01,Zahnarzt,108.8
 2010-03-01,Zahnarzt,108.8
@@ -19515,6 +19751,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Zahnarzt,15725
 2023-07-01,Zahnarzt,15725
 2023-08-01,Zahnarzt,15725
+2023-09-01,Zahnarzt,15725
+2023-10-01,Zahnarzt,15725
 2010-01-01,Wirtschaftstreuhänder,109.6
 2010-02-01,Wirtschaftstreuhänder,109.6
 2010-03-01,Wirtschaftstreuhänder,109.6
@@ -19679,6 +19917,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Wirtschaftstreuhänder,15825.599999999999
 2023-07-01,Wirtschaftstreuhänder,15825.599999999999
 2023-08-01,Wirtschaftstreuhänder,15825.599999999999
+2023-09-01,Wirtschaftstreuhänder,15825.599999999999
+2023-10-01,Wirtschaftstreuhänder,15825.599999999999
 2010-01-01,Werbung und Marktkommunikation,109.8
 2010-02-01,Werbung und Marktkommunikation,109.8
 2010-03-01,Werbung und Marktkommunikation,109.8
@@ -19843,6 +20083,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Werbung und Marktkommunikation,15244.96
 2023-07-01,Werbung und Marktkommunikation,15244.96
 2023-08-01,Werbung und Marktkommunikation,15244.96
+2023-09-01,Werbung und Marktkommunikation,15244.96
+2023-10-01,Werbung und Marktkommunikation,15244.96
 2010-01-01,Wachorgane Bewachungsgewerbe,111.9
 2010-02-01,Wachorgane Bewachungsgewerbe,111.9
 2010-03-01,Wachorgane Bewachungsgewerbe,111.9
@@ -20007,6 +20249,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Wachorgane Bewachungsgewerbe,16663.319999999996
 2023-07-01,Wachorgane Bewachungsgewerbe,16663.319999999996
 2023-08-01,Wachorgane Bewachungsgewerbe,16663.319999999996
+2023-09-01,Wachorgane Bewachungsgewerbe,16663.319999999996
+2023-10-01,Wachorgane Bewachungsgewerbe,16663.319999999996
 2010-01-01,Versicherungsunternehmungen/Aussendienst,106.2
 2010-02-01,Versicherungsunternehmungen/Aussendienst,106.2
 2010-03-01,Versicherungsunternehmungen/Aussendienst,107.8
@@ -20171,6 +20415,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Versicherungsunternehmungen/Aussendienst,16097.080000000002
 2023-07-01,Versicherungsunternehmungen/Aussendienst,16097.080000000002
 2023-08-01,Versicherungsunternehmungen/Aussendienst,16097.080000000002
+2023-09-01,Versicherungsunternehmungen/Aussendienst,16097.080000000002
+2023-10-01,Versicherungsunternehmungen/Aussendienst,16097.080000000002
 2010-01-01,Versicherungsunternehmungen/Innendienst,109.7
 2010-02-01,Versicherungsunternehmungen/Innendienst,109.7
 2010-03-01,Versicherungsunternehmungen/Innendienst,111.2
@@ -20335,6 +20581,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Versicherungsunternehmungen/Innendienst,16186.266666666668
 2023-07-01,Versicherungsunternehmungen/Innendienst,16186.266666666668
 2023-08-01,Versicherungsunternehmungen/Innendienst,16186.266666666668
+2023-09-01,Versicherungsunternehmungen/Innendienst,16186.266666666668
+2023-10-01,Versicherungsunternehmungen/Innendienst,16186.266666666668
 2010-01-01,Religiöse Einrichtungen,108.7
 2010-02-01,Religiöse Einrichtungen,109.9
 2010-03-01,Religiöse Einrichtungen,109.9
@@ -20499,6 +20747,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Religiöse Einrichtungen,149.341475
 2023-07-01,Religiöse Einrichtungen,149.341475
 2023-08-01,Religiöse Einrichtungen,149.341475
+2023-09-01,Religiöse Einrichtungen,149.341475
+2023-10-01,Religiöse Einrichtungen,149.341475
 2010-01-01,Freie Berufe,110
 2010-02-01,Freie Berufe,110
 2010-03-01,Freie Berufe,110
@@ -20663,6 +20913,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Freie Berufe,157.25
 2023-07-01,Freie Berufe,157.25
 2023-08-01,Freie Berufe,157.25
+2023-09-01,Freie Berufe,157.25
+2023-10-01,Freie Berufe,157.25
 2010-01-01,"Gesundheits-, Bildungs- und Sozialbereich",110.2
 2010-02-01,"Gesundheits-, Bildungs- und Sozialbereich",111.5
 2010-03-01,"Gesundheits-, Bildungs- und Sozialbereich",111.5
@@ -20827,6 +21079,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,"Gesundheits-, Bildungs- und Sozialbereich",157.07125
 2023-07-01,"Gesundheits-, Bildungs- und Sozialbereich",157.07125
 2023-08-01,"Gesundheits-, Bildungs- und Sozialbereich",158.23187500000003
+2023-09-01,"Gesundheits-, Bildungs- und Sozialbereich",158.23187500000003
+2023-10-01,"Gesundheits-, Bildungs- und Sozialbereich",158.23187500000003
 2010-01-01,Öffentliche Dienstleister,110.2
 2010-02-01,Öffentliche Dienstleister,110.2
 2010-03-01,Öffentliche Dienstleister,110.2
@@ -20991,6 +21245,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Öffentliche Dienstleister,148.697
 2023-07-01,Öffentliche Dienstleister,148.697
 2023-08-01,Öffentliche Dienstleister,148.697
+2023-09-01,Öffentliche Dienstleister,148.697
+2023-10-01,Öffentliche Dienstleister,148.697
 2010-01-01,Sozialversicherung,110.4
 2010-02-01,Sozialversicherung,110.4
 2010-03-01,Sozialversicherung,110.4
@@ -21155,6 +21411,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Sozialversicherung,155.37619999999998
 2023-07-01,Sozialversicherung,155.37619999999998
 2023-08-01,Sozialversicherung,155.37619999999998
+2023-09-01,Sozialversicherung,155.37619999999998
+2023-10-01,Sozialversicherung,155.37619999999998
 2010-01-01,Zeitungen/Tageszeitungen,111
 2010-02-01,Zeitungen/Tageszeitungen,111
 2010-03-01,Zeitungen/Tageszeitungen,111
@@ -21319,6 +21577,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Zeitungen/Tageszeitungen,132.3677
 2023-07-01,Zeitungen/Tageszeitungen,132.3677
 2023-08-01,Zeitungen/Tageszeitungen,132.3677
+2023-09-01,Zeitungen/Tageszeitungen,132.3677
+2023-10-01,Zeitungen/Tageszeitungen,132.3677
 2010-01-01,Bund/Länder/Gemeinden,110
 2010-02-01,Bund/Länder/Gemeinden,110
 2010-03-01,Bund/Länder/Gemeinden,110
@@ -21483,6 +21743,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bund/Länder/Gemeinden,149.4434
 2023-07-01,Bund/Länder/Gemeinden,149.8076
 2023-08-01,Bund/Länder/Gemeinden,149.8076
+2023-09-01,Bund/Länder/Gemeinden,149.8076
+2023-10-01,Bund/Länder/Gemeinden,149.8076
 2010-01-01,Bund (ohne Ausgliederung),110
 2010-02-01,Bund (ohne Ausgliederung),110
 2010-03-01,Bund (ohne Ausgliederung),110
@@ -21647,6 +21909,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bund (ohne Ausgliederung),147.245
 2023-07-01,Bund (ohne Ausgliederung),147.245
 2023-08-01,Bund (ohne Ausgliederung),147.245
+2023-09-01,Bund (ohne Ausgliederung),147.245
+2023-10-01,Bund (ohne Ausgliederung),147.245
 2010-01-01,Bund – Bildung,109.9
 2010-02-01,Bund – Bildung,109.9
 2010-03-01,Bund – Bildung,109.9
@@ -21811,6 +22075,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bund – Bildung,146.034
 2023-07-01,Bund – Bildung,146.034
 2023-08-01,Bund – Bildung,146.034
+2023-09-01,Bund – Bildung,146.034
+2023-10-01,Bund – Bildung,146.034
 2010-01-01,Bund – Verwaltung,110
 2010-02-01,Bund – Verwaltung,110
 2010-03-01,Bund – Verwaltung,110
@@ -21975,6 +22241,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bund – Verwaltung,147.8535
 2023-07-01,Bund – Verwaltung,147.8535
 2023-08-01,Bund – Verwaltung,147.8535
+2023-09-01,Bund – Verwaltung,147.8535
+2023-10-01,Bund – Verwaltung,147.8535
 2010-01-01,Bundesländer,110
 2010-02-01,Bundesländer,110
 2010-03-01,Bundesländer,110
@@ -22139,6 +22407,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bundesländer,148.5897
 2023-07-01,Bundesländer,149.4374
 2023-08-01,Bundesländer,149.4374
+2023-09-01,Bundesländer,149.4374
+2023-10-01,Bundesländer,149.4374
 2010-01-01,Bundesländer – Verwaltung,109.9
 2010-02-01,Bundesländer – Verwaltung,109.9
 2010-03-01,Bundesländer – Verwaltung,109.9
@@ -22303,6 +22573,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bundesländer – Verwaltung,149.3268
 2023-07-01,Bundesländer – Verwaltung,150.3012
 2023-08-01,Bundesländer – Verwaltung,150.3012
+2023-09-01,Bundesländer – Verwaltung,150.3012
+2023-10-01,Bundesländer – Verwaltung,150.3012
 2010-01-01,Bundesländer – Bildung,110
 2010-02-01,Bundesländer – Bildung,110
 2010-03-01,Bundesländer – Bildung,110
@@ -22467,6 +22739,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bundesländer – Bildung,146.156
 2023-07-01,Bundesländer – Bildung,146.3956
 2023-08-01,Bundesländer – Bildung,146.3956
+2023-09-01,Bundesländer – Bildung,146.3956
+2023-10-01,Bundesländer – Bildung,146.3956
 2010-01-01,Bundesländer – Krankenanstalten,110.1
 2010-02-01,Bundesländer – Krankenanstalten,110.1
 2010-03-01,Bundesländer – Krankenanstalten,110.1
@@ -22631,6 +22905,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Bundesländer – Krankenanstalten,153.62279999999998
 2023-07-01,Bundesländer – Krankenanstalten,153.62279999999998
 2023-08-01,Bundesländer – Krankenanstalten,153.62279999999998
+2023-09-01,Bundesländer – Krankenanstalten,153.62279999999998
+2023-10-01,Bundesländer – Krankenanstalten,153.62279999999998
 2010-01-01,Wien,110.3
 2010-02-01,Wien,110.3
 2010-03-01,Wien,110.3
@@ -22795,6 +23071,8 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Wien,154.7472
 2023-07-01,Wien,154.7472
 2023-08-01,Wien,154.7472
+2023-09-01,Wien,154.7472
+2023-10-01,Wien,154.7472
 2010-01-01,Gemeinden,110.1
 2010-02-01,Gemeinden,110.1
 2010-03-01,Gemeinden,110.1
@@ -22959,3 +23237,5 @@ Monat,Sparte,Tariflohnindex
 2023-06-01,Gemeinden,152.61180000000002
 2023-07-01,Gemeinden,152.61180000000002
 2023-08-01,Gemeinden,152.61180000000002
+2023-09-01,Gemeinden,152.61180000000002
+2023-10-01,Gemeinden,152.61180000000002
