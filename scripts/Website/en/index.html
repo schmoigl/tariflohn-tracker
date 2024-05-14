@@ -1,0 +1,170 @@
+<!doctype html>
+<html>
+<head>
+    <title>Tariflohn-Tracker</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <meta charset="utf-8">
+    <style>
+        body {
+            font-family: "Century Gothic";
+            font-size: 15px;
+            text-align: justify;
+            line-height: 22px
+        }
+        .footer {
+            height: 400px;
+        }
+        .container {
+            max-width: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .inner-div {
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 800px;
+        }
+        img {
+            display: block;
+            margin-left: auto;
+            width: 261px;
+        }
+        svg text {
+            font-family: "Century Gothic";
+        }
+        label {
+            font-family: "Century Gothic" !important;
+            font-size: 13px;
+            --label-width: 280px !important;
+        }
+        select, button, option, output, form {
+            font-family: "Century Gothic" !important;
+            font-size: 13px !important;
+            font-weight: normal;
+            margin: 2px 0px 2px 0px;
+            padding: 2px 4px 2px 4px;
+        }
+        input, select {
+            cursor: pointer;
+        }
+        button {
+            cursor: pointer;
+            background-color: transparent !important;
+            margin: 0px 10px 0px 10px;
+            padding: 2px 4px 2px 4px;
+            border: 1px solid black;
+            border-radius: 2px;
+        }
+        form {
+            width: 780px !important;
+            --input-width: 900px !important;
+            font-size: 13px;
+            font-weight: normal !important;
+        }
+        input {
+            width: 80px !important;
+            font-size: 13px;
+        }
+        /* tooltip:   */
+        table {
+            font-family: "Century Gothic";
+            font-Size: 13px;
+            margin: 0px 0px 0px 0px;
+        }
+        #vg-tooltip-element {
+            background-color: rgba(255,255,255,1);
+            font-Size: 13px;
+            border-radius: 0px;
+            border: 0px solid;
+        }
+    </style>
+</head>
+    <body>
+        <div class="container">
+            <a href="https://www.wifo.ac.at/">
+                <img src="https://www.wifo.ac.at/jart/prj3/wifo/resources/images/logo.png">
+            </a>
+            <h1>Collective Wage Tracker</h1>
+            <h2>The Interactive Tool To Understand Austrias Collective Bargaining </h2>
+
+            <p>
+                In the run-up to the autumn wage round 2023, WIFO's interactive wage tracker enables a comparison of productivity, collective wages and consumer prices. The explorative tool offers a variety of setting options. On the one hand, in addition to the development of collective wages as a whole, sectors and selected collective agreements can also be viewed individually. 
+            </p>
+
+            <p>
+                Secondly, under "Index" it is possible to select which indicators are to be displayed in the main panel. In addition to the indices mentioned, the "Benya index" or the real wage index can also be selected there. The former is the addition of the consumer price index and the productivity index, i.e., a hypothetical wage development in which both price increases and productivity gains would (always) completely determine the wage development. The real wage index merely reflects what remains of the collective wage increases after deducting inflation.
+            </p>
+
+            <p>
+                As the indices are subject to seasonal fluctuations, they are shown by default as a moving average over the last 12 months, but this can be switched off under the option "Smoothing". In this case it is easy to see, for example, for individual sectors and collective agreements, at which point in time the collective wage increases took place.
+            </p>
+
+            <p>
+                Furthermore, under "Index base" it can be determined whether the average values of the first 12 months of the selected period (starting year) or the first month shown (starting month) of the indices should be set to 100. Together with the selection of the observation period, it can thus be excluded that the choice of the index base influences the observed results. Under "Values" you can also set whether the development of the indices or their change compared to the same month of the previous year should be shown.
+                <!-- </p>
+
+            <p> -->
+                For those who are particularly keen to experiment, there is also the option below the graph to vary the productivity and consumer price index. 
+            </p>
+
+            <div class="inner-div" id="observablehq-viewof-Sparte-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-checkboxes-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Glättung-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Methode-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Index-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Zeit-54403721"></div>
+            <div class="inner-div" id="observablehq-display-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Einheit-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Sektor-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Produktgruppe-54403721"></div>
+
+            <p>
+                The "Metalworkers' Negotiations" scenario shows, by way of example, the development of the Collective Wage Index (TLI), the Consumer Price Index (CPI), the current real wages and the components of the Benya formula for the last two collective agreements in November of each of the years 2021 and 2022.
+            </p>
+
+            <p>
+                The index values for the TLI and the CPI show that the consumer price index has increased by 16.1 percent and the collectively agreed wage index by 9.6 percent since October 2021. Consumer prices are rising steadily over time. In contrast, collective agreement wages are only increased once a year, during the collective bargaining negotiations in November.
+            </p>
+
+            <p>
+                It follows from this in the graph on the bottom right that real wages (red line) will fall from March 2022, as wage increases were lower than price increases. The wage development is shown in the graph as a green area, the CPI price increases as a blue area. In October 2022, the real wage loss is –8.0 percent. Due to the wage negotiations in November, real wages rise again, but cannot catch up with the price increases. Since prices have continued to rise since November 2022 while wages have remained unchanged, the real wage has also continued to develop negatively. 
+            </p>
+
+            <div class="inner-div" id="observablehq-display-c0cb7c2b"></div>
+
+            <p>
+                The trade unions base their wage negotiations on the Benya formula, the development of which is shown in the graph on the left below. This is not based on the current inflation rate, but on the average of the last 12 monthly rates ("rolling inflation"). Added to this is the medium-term overall economic labour productivity – in our Collective Wage Monitor the average of the last 48 months. For the wage negotiations in November 2021, it is then shown that the wage increases are the sum of rolling inflation and half of productivity growth. In the November 2022 wage negotiations, on the other hand, only rolling inflation was compensated.
+            </p>
+
+            <p>
+                Please note: The wage development reflects the collectively agreed minimum wages and not the actual wages. Actual wages are wages that result when more is paid than agreed in the collective agreement. However, the graphs provide information on changes and not the level, i.e., the amount of wages. This is important because, by and large, actual wages grow at a similar rate as wages under collective agreements.
+            </p>
+
+            <script type="module">
+                import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+                import define from "https://api.observablehq.com/@wifo-viz/tarifloehne@latest.js?v=3";
+                new Runtime().module(define, name => {
+                if (name === "viewof checkboxes") return new Inspector(document.querySelector("#observablehq-viewof-checkboxes-54403721"));
+                if (name === "viewof Glättung") return new Inspector(document.querySelector("#observablehq-viewof-Glättung-54403721"));
+                if (name === "viewof Methode") return new Inspector(document.querySelector("#observablehq-viewof-Methode-54403721"));
+                if (name === "viewof Index") return new Inspector(document.querySelector("#observablehq-viewof-Index-54403721"));
+                if (name === "viewof Sparte") return new Inspector(document.querySelector("#observablehq-viewof-Sparte-54403721"));
+                if (name === "viewof Zeit") return new Inspector(document.querySelector("#observablehq-viewof-Zeit-54403721"));
+                if (name === "display") return new Inspector(document.querySelector("#observablehq-display-54403721"));
+                if (name === "viewof Einheit") return new Inspector(document.querySelector("#observablehq-viewof-Einheit-54403721"));
+                if (name === "viewof Sektor") return new Inspector(document.querySelector("#observablehq-viewof-Sektor-54403721"));
+                if (name === "viewof Produktgruppe") return new Inspector(document.querySelector("#observablehq-viewof-Produktgruppe-54403721"));
+                return ["checkboxesSzenario","makeLines","changeData","indexData","GlättungSzenario","vizData","flatChangeData","flatIndexData","MethodeSzenario","SparteSzenario","mergeData","endIndexDate","end","startIndexDate","start","ZeitSzenario"].includes(name);
+                });
+            </script>
+            <script type="module">
+                import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+                import define from "https://api.observablehq.com/d/662b7dbdbc98b5f9.js?v=3";
+                new Runtime().module(define, name => {
+                  if (name === "display") return new Inspector(document.querySelector("#observablehq-display-c0cb7c2b"));
+                });
+            </script>
+            <div class="footer"></div>
+        </div>
+    </body>
+</html>

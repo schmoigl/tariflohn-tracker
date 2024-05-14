@@ -1,0 +1,179 @@
+<!doctype html>
+<html>
+<head>
+    <title>Tariflohn-Tracker</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <meta charset="utf-8">
+    <style>
+        body {
+            font-family: "Century Gothic";
+            font-size: 15px;
+            text-align: justify;
+            line-height: 22px
+        }
+        .footer {
+            height: 400px;
+        }
+        .container {
+            max-width: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .inner-div {
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 800px;
+        }
+        img {
+            display: block;
+            margin-left: auto;
+            width: 261px;
+        }
+        svg text {
+            font-family: "Century Gothic";
+        }
+        label {
+            font-family: "Century Gothic" !important;
+            font-size: 13px;
+            --label-width: 280px !important;
+        }
+        select, button, option, output, form {
+            font-family: "Century Gothic" !important;
+            font-size: 13px !important;
+            font-weight: normal;
+            margin: 2px 0px 2px 0px;
+            padding: 2px 4px 2px 4px;
+        }
+        input, select {
+            cursor: pointer;
+        }
+        button {
+            cursor: pointer;
+            background-color: transparent !important;
+            margin: 0px 10px 0px 10px;
+            padding: 2px 4px 2px 4px;
+            border: 1px solid black;
+            border-radius: 2px;
+        }
+        form {
+            width: 780px !important;
+            --input-width: 900px !important;
+            font-size: 13px;
+            font-weight: normal !important;
+        }
+        input {
+            width: 80px !important;
+            font-size: 13px;
+        }
+        /* tooltip:   */
+        table {
+            font-family: "Century Gothic";
+            font-Size: 13px;
+            margin: 0px 0px 0px 0px;
+        }
+        #vg-tooltip-element {
+            background-color: rgba(255,255,255,1);
+            font-Size: 13px;
+            border-radius: 0px;
+            border: 0px solid;
+        }
+    </style>
+</head>
+    <body>
+        <div class="container">
+            <a href="https://www.wifo.ac.at/">
+                <img src="https://www.wifo.ac.at/jart/prj3/wifo/resources/images/logo.png">
+            </a>
+            <h1>Tariflohn-Tracker</h1>
+            <h2>Das interaktive Tool zur Herbstlohnrunde</h2>
+
+            <p>
+                Im Vorfeld der Herbstlohnrunde 2023 ermöglicht der interaktive Tariflohntracker des WIFO den Vergleich von Produktivität, Tariflöhnen und Verbraucherpreisen. Dabei bietet das explorative Tool eine Vielzahl von Einstellungsmöglichkeiten. Zum einen können neben der Entwicklung der Tariflöhne insgesamt auch Branchen und ausgewählte Kollektivverträge einzeln betrachtet werden.
+            </p>
+
+            <p>
+                Zum anderen kann unter "Index" ausgewählt werden, welche Indikatoren im Hauptpanel angezeigt werden sollen. Neben den genannten Indizes kann dort auch der "Benyaindex" oder der Reallohnindex ausgewählt werden. Bei ersterem handelt es sich um die Addition von Verbraucherpreisindex und Produktivitätsindex, also einer hypothetischen Tariflohnentwicklung, bei der sowohl Preissteigerungen als auch Produktivitätsgewinne die Tariflohnentwicklung (immer) vollständig bestimmen würden. Der Reallohnindex gibt lediglich wieder, was von den Tariflohnerhöhungen nach Abzug der Inflation übrig bleibt.
+            </p>
+
+            <p>
+                Da die Indizes saisonalen Schwankungen unterliegen, werden sie standardmäßig als gleitender Mittelwert über die letzten 12 Monate dargestellt, welcher aber unter der Option "Glättung" ausgeschaltet werden kann. In diesem Fall kann man z. B. für einzelne Branchen und Kollektivverträge gut erkennen, zu welchem Zeitpunkt die Tariflohnerhöhungen stattgefunden haben.
+            </p>
+
+            <p>
+                Darüber hinaus lässt sich unter "Indexbasis" bestimmen, ob die Durchschnittswerte der ersten 12 Monate des gewählten Zeitraums (Ausgangsjahr) oder der erste dargestellte Monat (Ausgangsmonat) der Indizes auf 100 gesetzt werden sollen. Gemeinsam mit der Auswahl des Betrachtungszeitraums kann so selbst ausgeschlossen werden, dass die Wahl der Indexbasis die beobachteten Ergebnisse beeinflusst. Unter "Werte" lässt sich außerdem einstellen, ob die Entwicklung der Indizes oder deren Veränderung gegenüber dem Vorjahresmonat gezeigt werden soll.
+            <!-- </p>
+
+            <p> -->
+                Für besonders Experimentierfreudige gibt es unterhalb der Grafik noch die Möglichkeit, auch Produktivitäts- und Verbraucherpreisindex zu variieren.
+            </p>
+
+            <div class="inner-div" id="observablehq-viewof-Sparte-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-checkboxes-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Glättung-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Methode-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Index-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Zeit-54403721"></div>
+            <div class="inner-div" id="observablehq-display-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Einheit-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Sektor-54403721"></div>
+            <div class="inner-div" id="observablehq-viewof-Produktgruppe-54403721"></div>
+
+            <p>
+                Das unten abgebildete Szenario "Metaller-Verhandlungen" zeigt beispielhaft die Entwicklung des Tariflohnindex (TLI), des Verbraucherpreisindex (VPI), der laufenden Reallöhne und die Komponenten der Benya-Formel für die beiden letzten Kollektivvertragsabschlüsse jeweils im November der Jahre 2021 und 2022.
+            </p>
+
+            <p>
+                Die Indexwerte für den TLI und den VPI zeigen, dass der Verbraucherpreisindex seit Oktober 2021 um 16,1% und der Tariflohnindex um 9,6% gestiegen ist. Die Verbraucherpreise steigen im Zeitverlauf kontinuierlich an. Im Gegensatz dazu werden die Kollektivvertragslöhne nur einmal jährlich, bei den Tarifverhandlungen im November, angehoben.
+            </p>
+
+            <p>
+                Daraus folgt in der Grafik rechts unten, dass die Reallöhne (rote Linie) ab März 2022 sinken, da die Lohnsteigerungen geringer waren als die Preissteigerungen. Die Lohnentwicklung ist in der Grafik als grüne Fläche dargestellt, die Preissteigerungen des VPI als blaue Fläche. Im Oktober 2022 beträgt der Reallohnverlust –8,0%. Aufgrund der Lohnverhandlungen im November steigen die Reallöhne wieder an, können aber die Preissteigerungen nicht aufholen. Da seit November 2022 die Preise bei gleichbleibenden Löhnen weiter gestiegen sind, hat sich auch der Reallohn weiter negativ entwickelt.
+            </p>
+
+            <div class="inner-div" id="observablehq-display-c0cb7c2b"></div>
+
+            <p>
+                Die Gewerkschaften orientieren sich bei den Lohnverhandlungen an der Benya-Formel, 
+                deren Entwicklung in der Grafik links unten dargestellt ist. Dabei wird nicht die aktuelle Inflationsrate zugrunde gelegt, 
+                sondern der Mittelwert der letzten 12 Monatsraten zugrunde gelegt ("rollierende Inflation"). 
+                Hinzu kommt die mittelfristige gesamtwirtschaftliche Arbeitsproduktivität  – in unserem Tariflohnmonitor wird „mittelfristig“ als der Durchschnitt der letzten 48 Monate dargestellt. 
+                <!-- Aus Gründen der Datenverfügbarkeit wird derzeit die gesamtwirtschaftliche Produktivität mit den ÖNACE_Sektoren B-F approximiert, was vermutlich eine Überschätzung der gesamtwirtschaftlichen Produktivitätsentwicklung ist. Genauere Daten zur gesamtwirtschaftlichen Produktivität gemäß VGR folgen demnächst. -->
+                Für die Lohnverhandlungen im November 2021 zeigt sich, dass die Lohnsteigerungen der Benya-Formel entsprechend und sich aus der Summe der rollierenden Inflation und dem Produktivitätswachstum ergeben. Bei den Lohnverhandlungen im November 2022 hingegen wurde nur die rollierende Inflation abgegolten.
+             </p>
+
+            <p>
+                Zu beachten ist: Die Lohnentwicklung gibt die kollektivvertraglichen Mindestlöhne und nicht die Ist-Löhne wieder. Ist-Löhne sind Löhne, die sich ergeben, wenn mehr als kollektivvertraglich vereinbart bezahlt wird. Allerdings geben die Grafiken Auskunft über Veränderungen und nicht das Niveau, also die Höhe der Löhne. Dies ist deshalb wichtig, da im Großen und Ganzen die Ist-Löhne in einem ähnlichen Ausmaß wie die Kollektivvertragslöhne wachsen.
+            </p>
+
+            <p>
+                <em>Anmerkung: Die Reihe Produktivitätsgewinne im Panel Benya-Formel wurde in der ursprünglichen Version vom 25.09.2023 falsch berechnet. Nach einer Änderung am 26.09.2023 (16:23 MEZ), wird sie nun korrekt dargestellt.</em>
+            </p>
+
+            <script type="module">
+                import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+                import define from "https://api.observablehq.com/@wifo-viz/tarifloehne@latest.js?v=3";
+                new Runtime().module(define, name => {
+                if (name === "viewof checkboxes") return new Inspector(document.querySelector("#observablehq-viewof-checkboxes-54403721"));
+                if (name === "viewof Glättung") return new Inspector(document.querySelector("#observablehq-viewof-Glättung-54403721"));
+                if (name === "viewof Methode") return new Inspector(document.querySelector("#observablehq-viewof-Methode-54403721"));
+                if (name === "viewof Index") return new Inspector(document.querySelector("#observablehq-viewof-Index-54403721"));
+                if (name === "viewof Sparte") return new Inspector(document.querySelector("#observablehq-viewof-Sparte-54403721"));
+                if (name === "viewof Zeit") return new Inspector(document.querySelector("#observablehq-viewof-Zeit-54403721"));
+                if (name === "display") return new Inspector(document.querySelector("#observablehq-display-54403721"));
+                if (name === "viewof Einheit") return new Inspector(document.querySelector("#observablehq-viewof-Einheit-54403721"));
+                if (name === "viewof Sektor") return new Inspector(document.querySelector("#observablehq-viewof-Sektor-54403721"));
+                if (name === "viewof Produktgruppe") return new Inspector(document.querySelector("#observablehq-viewof-Produktgruppe-54403721"));
+                return ["checkboxesSzenario","makeLines","changeData","indexData","GlättungSzenario","vizData","flatChangeData","flatIndexData","MethodeSzenario","SparteSzenario","mergeData","endIndexDate","end","startIndexDate","start","ZeitSzenario"].includes(name);
+                });
+            </script>
+            <script type="module">
+                import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+                import define from "https://api.observablehq.com/d/662b7dbdbc98b5f9.js?v=3";
+                new Runtime().module(define, name => {
+                  if (name === "display") return new Inspector(document.querySelector("#observablehq-display-c0cb7c2b"));
+                });
+            </script>
+            <div class="footer"></div>
+        </div>
+    </body>
+</html>
