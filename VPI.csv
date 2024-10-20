@@ -2298,7 +2298,7 @@ Monat,Verbraucherpreisindex,Produktgruppe
 2024-08-01,95.5,Bekleidung und Schuhe
 2024-08-01,116.1,Erziehung und Unterricht
 2024-08-01,118.7,Freizeit und Kultur
-2024-08-01,115.7,Gesundheitspflege
+2024-08-01,115.6,Gesundheitspflege
 2024-08-01,118.2,Hausrat und laufende Instandhaltung des Hauses
 2024-08-01,87.8,Nachrichtenübermittlung
 2024-08-01,126.9,Nahrungsmittel und alkoholfreie Getränke
@@ -2306,4 +2306,18 @@ Monat,Verbraucherpreisindex,Produktgruppe
 2024-08-01,127.2,Verkehr
 2024-08-01,118,Verschiedene Waren und Dienstleistungen
 2024-08-01,118.9,Wohnungsmieten
-2024-08-01,132.5,"Wohnung, Wasser, Energie"
+2024-08-01,132.4,"Wohnung, Wasser, Energie"
+2024-09-01,123.6,Gesamt
+2024-09-01,117.6,Alkoholische Getränke und Tabak
+2024-09-01,109.2,Bekleidung und Schuhe
+2024-09-01,116.8,Erziehung und Unterricht
+2024-09-01,116.7,Freizeit und Kultur
+2024-09-01,115.4,Gesundheitspflege
+2024-09-01,118.2,Hausrat und laufende Instandhaltung des Hauses
+2024-09-01,87,Nachrichtenübermittlung
+2024-09-01,127.2,Nahrungsmittel und alkoholfreie Getränke
+2024-09-01,135.5,Restaurants und Hotels
+2024-09-01,125.1,Verkehr
+2024-09-01,118.5,Verschiedene Waren und Dienstleistungen
+2024-09-01,119.2,Wohnungsmieten
+2024-09-01,132.5,"Wohnung, Wasser, Energie"
