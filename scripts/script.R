@@ -63,7 +63,7 @@ od_series <- names |>
   filter(names == "Tariflohnindex")
 TLI_KV <- NULL
 
-temp <- od_table("OGD_tli16wk15_TLI_107")
+temp <- od_table("OGD_tli16kv_TLI_108")
 temp <- temp$tabulate()
 
 months <- as.tibble(months)
