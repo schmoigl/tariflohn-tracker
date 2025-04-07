@@ -517,44 +517,44 @@ write_csv(TLI, "K:/Github/tariflohnmonitor/TLI.csv")
 
 # LYDIA ------------------------------------------------------------------------
 
-pathBase <- "//HFUSR/Nabu/Bereiche/FB2/Daten/Einkommen/Tariflohnindex/"
+# pathBase <- "//HFUSR/Nabu/Bereiche/FB2/Daten/Einkommen/Tariflohnindex/"
 
-tableToWifoStyle(
-  data = TLI |> 
-    spread(key = "Monat", value = "Tariflohnindex") |> 
-    data.table(),
-  filePath = paste0(
-    pathBase, 
-    "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_wide.xlsx"
-    )
-)
+# tableToWifoStyle(
+#   data = TLI |> 
+#     spread(key = "Monat", value = "Tariflohnindex") |> 
+#     data.table(),
+#   filePath = paste0(
+#     pathBase, 
+#     "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_wide.xlsx"
+#     )
+# )
 
-tableToWifoStyle(
-  data = TLI_GRU |> 
-    spread(key = "Monat", value = "Tariflohnindex") |> 
-    data.table(),
-  filePath = paste0(
-    pathBase, 
-    "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_GRU.xlsx"
-  )
-)
+# tableToWifoStyle(
+#   data = TLI_GRU |> 
+#     spread(key = "Monat", value = "Tariflohnindex") |> 
+#     data.table(),
+#   filePath = paste0(
+#     pathBase, 
+#     "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_GRU.xlsx"
+#   )
+# )
 
-tableToWifoStyle(
-  data = TLI_KV |> 
-    spread(key = "Monat", value = "Tariflohnindex") |> 
-    data.table(),
-  filePath = paste0(
-    pathBase, 
-    "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_KV.xlsx"
-  )
-)
+# tableToWifoStyle(
+#   data = TLI_KV |> 
+#     spread(key = "Monat", value = "Tariflohnindex") |> 
+#     data.table(),
+#   filePath = paste0(
+#     pathBase, 
+#     "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_KV.xlsx"
+#   )
+# )
 
-tableToWifoStyle(
-  data = TLI_WKO |> 
-    spread(key = "Monat", value = "Tariflohnindex") |> 
-    data.table(),
-  filePath = paste0(
-    pathBase, 
-    "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_WKO.xlsx"
-  )
-)
+# tableToWifoStyle(
+#   data = TLI_WKO |> 
+#     spread(key = "Monat", value = "Tariflohnindex") |> 
+#     data.table(),
+#   filePath = paste0(
+#     pathBase, 
+#     "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_WKO.xlsx"
+#   )
+# )
