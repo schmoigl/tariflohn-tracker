@@ -12,9 +12,9 @@ library(readxl)
 
 filter <- dplyr::filter
 
-setwd("K:/gitea/tariflohnmonitor/scripts/")
+setwd("K:/Github/tariflohnmonitor/scripts/")
 options(scipen = 99999)
-names <- read_excel("K:/gitea/tariflohnmonitor/scripts/names.xlsx")
+names <- read_excel("K:/Github/tariflohnmonitor/scripts/names.xlsx")
 
 months <- matrix(
   data = c(
@@ -510,9 +510,9 @@ TLI <- TLI |>
 
 # SAVE -------------------------------------------------------------------------
 
-write_csv(PROD, "K:/gitea/tariflohnmonitor/PROD.csv")
-write_csv(VPI, "K:/gitea/tariflohnmonitor/VPI.csv")
-write_csv(TLI, "K:/gitea/tariflohnmonitor/TLI.csv")
+write_csv(PROD, "K:/Github/tariflohnmonitor/PROD.csv")
+write_csv(VPI, "K:/Github/tariflohnmonitor/VPI.csv")
+write_csv(TLI, "K:/Github/tariflohnmonitor/TLI.csv")
 
 
 # LYDIA ------------------------------------------------------------------------
