@@ -1,4 +1,4 @@
-cd /k/gitea/tariflohnmonitor
+cd /k/Github/tariflohnmonitor
 git pull
 git add .
 timestamp() {
