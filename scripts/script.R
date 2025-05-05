@@ -529,6 +529,17 @@ write_csv(VPI, "K:/Github/tariflohnmonitor/VPI.csv")
 write_csv(TLI, "K:/Github/tariflohnmonitor/TLI.csv")
 
 
+# TEST -------------------------------------------------------------------------
+
+# library(writexl)
+
+# checkPROD <- PROD |> 
+#   select(-series) |>
+#   filter(Einheit == "Produktivitätsindex je geleisteter Arbeitsstunde") |>
+#   spread(key = "Sektor", value = "Produktivitätsindex") 
+  
+# write_xlsx(checkPROD, "check.xlsx")
+
 # LYDIA ------------------------------------------------------------------------
 
 # pathBase <- "//HFUSR/Nabu/Bereiche/FB2/Daten/Einkommen/Tariflohnindex/"
