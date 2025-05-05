@@ -298,11 +298,14 @@ TLI <- TLI_WKO |>
 
 l = od_list()
 
+check_new <- l |> filter(str_detect(id ,"OGD_prod")) |> filter(startsWith(label, "Produkt"))
+
 od_series <- names |> 
   filter(
     series %in% c(
       "Produktivitätsindex 2010", 
-      "Produktivitätsindex 2015"
+      "Produktivitätsindex 2015",
+      "Produktivitätsindex 2021"
       )
     )
 
@@ -318,6 +321,8 @@ for (i in 1:nrow(od_series)) {
   PROD <- rbind(PROD, temp)
 }
 
+check_names_new <- PROD |> select(Sektor, series) |> distinct()
+
 PROD <- PROD |>
   # filter(Sektor == "Productivity index per employed") |>
   arrange(Monat, Einheit, Sektor) |>
@@ -332,21 +337,30 @@ PROD <- PROD |>
     )
   )
 
-adj_factor <- PROD |>
+adj_factor_2015 <- PROD |>
   filter(startsWith(as.character(Monat), "2015")) |>
   spread(key = series, value = Produktivitätsindex) |>
   mutate(adj_factor = `Produktivitätsindex 2015`/`Produktivitätsindex 2010`) |>
   group_by(Sektor, Einheit) |>
-  summarize(adj_factor = mean(adj_factor))
+  summarize(adj_factor_2015 = mean(adj_factor))
+
+adj_factor_2021 <- PROD |>
+  filter(startsWith(as.character(Monat), "2021")) |>
+  spread(key = series, value = Produktivitätsindex) |>
+  mutate(adj_factor = `Produktivitätsindex 2021`/`Produktivitätsindex 2015`) |>
+  group_by(Sektor, Einheit) |>
+  summarize(adj_factor_2021 = mean(adj_factor))
 
 PROD <- PROD |>
-  left_join(adj_factor) |>
-  mutate(Produktivitätsindex = ifelse(
-    series == "Produktivitätsindex 2015", 
-    Produktivitätsindex / adj_factor, 
-    Produktivitätsindex
-    )) |>
-  filter(series == "Produktivitätsindex 2015" | Monat < "2015-01-01")
+  left_join(adj_factor_2015) |>
+  left_join(adj_factor_2021) |>
+  mutate(Produktivitätsindex = case_when(
+    series == "Produktivitätsindex 2015" ~ Produktivitätsindex / adj_factor_2015,
+    series == "Produktivitätsindex 2021" ~ Produktivitätsindex / adj_factor_2021 / adj_factor_2015,
+    TRUE ~ Produktivitätsindex
+  )) |>
+  filter(!(series == "Produktivitätsindex 2010" & Monat >= "2015-01-01")) |>
+  filter(!(series == "Produktivitätsindex 2015" & Monat >= "2021-01-01"))
 
 
 # PVGR -------------------------------------------------------------------------
