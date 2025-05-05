@@ -397,7 +397,7 @@ PVGR <- PVGR |>
   mutate(Sektor = "Gesamt (VGR-Daten; Alle Sektoren)") 
 
 PROD <- PROD |>
-  select(-adj_factor) |>
+  select(-adj_factor_2015, -adj_factor_2021) |>
   add_row(PVGR) 
 
 
