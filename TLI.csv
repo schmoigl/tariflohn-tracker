@@ -182,7 +182,8 @@ Monat,Sparte,Tariflohnindex
 2025-01-01,Insgesamt,176.64613333333335
 2025-02-01,Insgesamt,176.7734
 2025-03-01,Insgesamt,176.90066666666667
-2025-04-01,Insgesamt,177.02793333333332
+2025-04-01,Insgesamt,177.15519999999998
+2025-05-01,Insgesamt,177.9188
 2010-01-01,GEWERBE UND HANDWERK,110.8
 2010-02-01,GEWERBE UND HANDWERK,110.8
 2010-03-01,GEWERBE UND HANDWERK,110.9
@@ -367,6 +368,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,GEWERBE UND HANDWERK,181.53333333333333
 2025-03-01,GEWERBE UND HANDWERK,181.53333333333333
 2025-04-01,GEWERBE UND HANDWERK,181.79266666666663
+2025-05-01,GEWERBE UND HANDWERK,183.21900000000002
 2010-01-01,Fachverband Bau,111.3
 2010-02-01,Fachverband Bau,111.3
 2010-03-01,Fachverband Bau,111.3
@@ -551,6 +553,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband Bau,181.54180000000005
 2025-03-01,Fachverband Bau,181.54180000000005
 2025-04-01,Fachverband Bau,181.54180000000005
+2025-05-01,Fachverband Bau,186.2674
 2010-01-01,"Fachverband der Dachdecker, Glaser und Spengler",111
 2010-02-01,"Fachverband der Dachdecker, Glaser und Spengler",111
 2010-03-01,"Fachverband der Dachdecker, Glaser und Spengler",111
@@ -735,6 +738,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband der Dachdecker, Glaser und Spengler",182.45193333333333
 2025-03-01,"Fachverband der Dachdecker, Glaser und Spengler",182.45193333333333
 2025-04-01,"Fachverband der Dachdecker, Glaser und Spengler",182.45193333333333
+2025-05-01,"Fachverband der Dachdecker, Glaser und Spengler",183.74960000000002
 2010-01-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",110.5
 2010-02-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",110.5
 2010-03-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",110.5
@@ -919,6 +923,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",178.09373333333332
 2025-03-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",178.09373333333332
 2025-04-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",178.09373333333332
+2025-05-01,"Fachverband der Hafner, Platten- und Fliesenleger und Keramiker",181.57313333333335
 2010-01-01,Fachverband der Maler und Tapezierer,109.4
 2010-02-01,Fachverband der Maler und Tapezierer,109.4
 2010-03-01,Fachverband der Maler und Tapezierer,109.4
@@ -1103,6 +1108,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Maler und Tapezierer,178.57139999999998
 2025-03-01,Fachverband der Maler und Tapezierer,178.57139999999998
 2025-04-01,Fachverband der Maler und Tapezierer,178.57139999999998
+2025-05-01,Fachverband der Maler und Tapezierer,182.4144
 2010-01-01,Fachverband der Bauhilfsgewerbe,110.4
 2010-02-01,Fachverband der Bauhilfsgewerbe,110.4
 2010-03-01,Fachverband der Bauhilfsgewerbe,110.4
@@ -1287,6 +1293,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Bauhilfsgewerbe,178.8826
 2025-03-01,Fachverband der Bauhilfsgewerbe,178.8826
 2025-04-01,Fachverband der Bauhilfsgewerbe,178.8826
+2025-05-01,Fachverband der Bauhilfsgewerbe,182.09759999999997
 2010-01-01,Fachverband Holzbau,110.6
 2010-02-01,Fachverband Holzbau,110.6
 2010-03-01,Fachverband Holzbau,110.6
@@ -1471,6 +1478,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband Holzbau,178.96020000000004
 2025-03-01,Fachverband Holzbau,178.96020000000004
 2025-04-01,Fachverband Holzbau,178.96020000000004
+2025-05-01,Fachverband Holzbau,182.7128
 2010-01-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,109.1
 2010-02-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,109.1
 2010-03-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,109.1
@@ -1655,6 +1663,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,179.25600000000003
 2025-03-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,179.25600000000003
 2025-04-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,179.25600000000003
+2025-05-01,Fachverband der Tischler und der Holzgestaltenden Gewerbe,182.61866666666666
 2010-01-01,Fachverband der Metalltechniker ,111.8
 2010-02-01,Fachverband der Metalltechniker ,111.8
 2010-03-01,Fachverband der Metalltechniker ,111.8
@@ -1839,6 +1848,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Metalltechniker ,184.71990000000002
 2025-03-01,Fachverband der Metalltechniker ,184.71990000000002
 2025-04-01,Fachverband der Metalltechniker ,184.71990000000002
+2025-05-01,Fachverband der Metalltechniker ,184.71990000000002
 2010-01-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",111.8
 2010-02-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",111.8
 2010-03-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",111.8
@@ -2023,6 +2033,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",184.851
 2025-03-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",184.851
 2025-04-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",184.851
+2025-05-01,"Fachverband der Sanitär-, Heizungs- und Lüftungstechniker",184.851
 2010-01-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",111.8
 2010-02-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",111.8
 2010-03-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",111.8
@@ -2207,6 +2218,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",184.31699999999998
 2025-03-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",184.31699999999998
 2025-04-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",184.31699999999998
+2025-05-01,"Fachverband der Elektro-, Gebäude-, Alarm- und Kommunikationstechniker",184.31699999999998
 2010-01-01,Fachverband der Kunststoffverarbeiter,108.3
 2010-02-01,Fachverband der Kunststoffverarbeiter,108.3
 2010-03-01,Fachverband der Kunststoffverarbeiter,108.3
@@ -2391,6 +2403,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Kunststoffverarbeiter,174.8286666666667
 2025-03-01,Fachverband der Kunststoffverarbeiter,174.8286666666667
 2025-04-01,Fachverband der Kunststoffverarbeiter,174.8286666666667
+2025-05-01,Fachverband der Kunststoffverarbeiter,180.17666666666665
 2010-01-01,Fachverband der Mechatroniker ,111.7
 2010-02-01,Fachverband der Mechatroniker ,111.7
 2010-03-01,Fachverband der Mechatroniker ,111.7
@@ -2575,6 +2588,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Mechatroniker ,183.10119999999998
 2025-03-01,Fachverband der Mechatroniker ,183.10119999999998
 2025-04-01,Fachverband der Mechatroniker ,183.10119999999998
+2025-05-01,Fachverband der Mechatroniker ,183.10119999999998
 2010-01-01,Fachverband der Fahrzeugtechnik,111.8
 2010-02-01,Fachverband der Fahrzeugtechnik,111.8
 2010-03-01,Fachverband der Fahrzeugtechnik,111.8
@@ -2759,6 +2773,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Fahrzeugtechnik,185.4514
 2025-03-01,Fachverband der Fahrzeugtechnik,185.4514
 2025-04-01,Fachverband der Fahrzeugtechnik,185.4514
+2025-05-01,Fachverband der Fahrzeugtechnik,185.4514
 2010-01-01,Fachverband der Gesundheitsberufe,109.6
 2010-02-01,Fachverband der Gesundheitsberufe,109.6
 2010-03-01,Fachverband der Gesundheitsberufe,109.6
@@ -2943,6 +2958,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Gesundheitsberufe,175.1548
 2025-03-01,Fachverband der Gesundheitsberufe,175.1548
 2025-04-01,Fachverband der Gesundheitsberufe,175.1548
+2025-05-01,Fachverband der Gesundheitsberufe,175.1548
 2010-01-01,Fachverband der Lebensmittelgewerbe,108.9
 2010-02-01,Fachverband der Lebensmittelgewerbe,108.9
 2010-03-01,Fachverband der Lebensmittelgewerbe,108.9
@@ -3127,6 +3143,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Lebensmittelgewerbe,172.36800000000002
 2025-03-01,Fachverband der Lebensmittelgewerbe,172.36800000000002
 2025-04-01,Fachverband der Lebensmittelgewerbe,172.36800000000002
+2025-05-01,Fachverband der Lebensmittelgewerbe,172.49400000000003
 2010-01-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",110.7
 2010-02-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",110.7
 2010-03-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",110.7
@@ -3311,6 +3328,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",182.89700000000002
 2025-03-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",182.89700000000002
 2025-04-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",182.89700000000002
+2025-05-01,"Fachverband der Chemischen Gewerbe und der Denkmal-, Fassaden- und Gebäudereiniger",182.89700000000002
 2010-01-01,Fachverband der Friseure,109.5
 2010-02-01,Fachverband der Friseure,109.5
 2010-03-01,Fachverband der Friseure,110.8
@@ -3495,6 +3513,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Friseure,168.7696
 2025-03-01,Fachverband der Friseure,168.7696
 2025-04-01,Fachverband der Friseure,176.90759999999997
+2025-05-01,Fachverband der Friseure,176.90759999999997
 2010-01-01,Fachverband der gewerblichen Dienstleister,111.1
 2010-02-01,Fachverband der gewerblichen Dienstleister,111.1
 2010-03-01,Fachverband der gewerblichen Dienstleister,111.1
@@ -3679,6 +3698,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der gewerblichen Dienstleister,184.458
 2025-03-01,Fachverband der gewerblichen Dienstleister,184.458
 2025-04-01,Fachverband der gewerblichen Dienstleister,184.458
+2025-05-01,Fachverband der gewerblichen Dienstleister,184.58790000000002
 2010-01-01,INDUSTRIE,110.6
 2010-02-01,INDUSTRIE,110.6
 2010-03-01,INDUSTRIE,110.7
@@ -3862,7 +3882,8 @@ Monat,Sparte,Tariflohnindex
 2025-01-01,INDUSTRIE,179.85223333333334
 2025-02-01,INDUSTRIE,179.98246666666665
 2025-03-01,INDUSTRIE,179.98246666666665
-2025-04-01,INDUSTRIE,179.98246666666665
+2025-04-01,INDUSTRIE,180.11270000000005
+2025-05-01,INDUSTRIE,181.5452666666667
 2010-01-01,Fachverband Bergwerke und Stahl,111.5
 2010-02-01,Fachverband Bergwerke und Stahl,111.5
 2010-03-01,Fachverband Bergwerke und Stahl,111.5
@@ -4047,6 +4068,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband Bergwerke und Stahl,180.18719999999996
 2025-03-01,Fachverband Bergwerke und Stahl,180.18719999999996
 2025-04-01,Fachverband Bergwerke und Stahl,180.18719999999996
+2025-05-01,Fachverband Bergwerke und Stahl,180.18719999999996
 2010-01-01,Fachverband der Mineralölindustrie,110.1
 2010-02-01,Fachverband der Mineralölindustrie,110.1
 2010-03-01,Fachverband der Mineralölindustrie,110.1
@@ -4231,6 +4253,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Mineralölindustrie,184.1125
 2025-03-01,Fachverband der Mineralölindustrie,184.1125
 2025-04-01,Fachverband der Mineralölindustrie,184.1125
+2025-05-01,Fachverband der Mineralölindustrie,184.1125
 2010-01-01,Fachverband der Glasindustrie,108.8
 2010-02-01,Fachverband der Glasindustrie,108.8
 2010-03-01,Fachverband der Glasindustrie,108.8
@@ -4415,6 +4438,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Glasindustrie,177.48775
 2025-03-01,Fachverband der Glasindustrie,177.48775
 2025-04-01,Fachverband der Glasindustrie,177.48775
+2025-05-01,Fachverband der Glasindustrie,177.48775
 2010-01-01,Fachverband der chemischen Industrie,110.6
 2010-02-01,Fachverband der chemischen Industrie,110.6
 2010-03-01,Fachverband der chemischen Industrie,110.6
@@ -4599,6 +4623,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der chemischen Industrie,181.996
 2025-03-01,Fachverband der chemischen Industrie,181.996
 2025-04-01,Fachverband der chemischen Industrie,181.996
+2025-05-01,Fachverband der chemischen Industrie,185.94100000000003
 2010-01-01,Fachverband der Papierindustrie,108.9
 2010-02-01,Fachverband der Papierindustrie,108.9
 2010-03-01,Fachverband der Papierindustrie,108.9
@@ -4783,6 +4808,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Papierindustrie,178.74349999999998
 2025-03-01,Fachverband der Papierindustrie,178.74349999999998
 2025-04-01,Fachverband der Papierindustrie,178.74349999999998
+2025-05-01,Fachverband der Papierindustrie,181.05650000000003
 2010-01-01,Fachverband der Bauindustrie,111.3
 2010-02-01,Fachverband der Bauindustrie,111.3
 2010-03-01,Fachverband der Bauindustrie,111.3
@@ -4967,6 +4993,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Bauindustrie,181.1341333333333
 2025-03-01,Fachverband der Bauindustrie,181.1341333333333
 2025-04-01,Fachverband der Bauindustrie,181.1341333333333
+2025-05-01,Fachverband der Bauindustrie,185.85253333333333
 2010-01-01,Fachverband der Holzindustrie,109.4
 2010-02-01,Fachverband der Holzindustrie,109.4
 2010-03-01,Fachverband der Holzindustrie,109.4
@@ -5151,6 +5178,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Holzindustrie,179.33599999999998
 2025-03-01,Fachverband der Holzindustrie,179.33599999999998
 2025-04-01,Fachverband der Holzindustrie,179.33599999999998
+2025-05-01,Fachverband der Holzindustrie,184.3605
 2010-01-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),109.8
 2010-02-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),109.9
 2010-03-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),109.9
@@ -5335,6 +5363,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),172.49449999999996
 2025-03-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),172.49449999999996
 2025-04-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),172.49449999999996
+2025-05-01,Fachverband der Nahrungs- und Genussmittelindustrie (Lebensmittelindustrie),172.49449999999996
 2010-01-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",108.8
 2010-02-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",108.8
 2010-03-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",108.8
@@ -5518,7 +5547,8 @@ Monat,Sparte,Tariflohnindex
 2025-01-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",179.94719166666667
 2025-02-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",179.94719166666667
 2025-03-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",179.94719166666667
-2025-04-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",179.94719166666667
+2025-04-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",182.36003333333335
+2025-05-01,"Fachverband der Textil-, Bekleidungs-, Schuh- und Lederindustrie",182.36003333333335
 2010-01-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",111.5
 2010-02-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",111.5
 2010-03-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",111.5
@@ -5703,6 +5733,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",180.87883333333335
 2025-03-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",180.87883333333335
 2025-04-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",180.87883333333335
+2025-05-01,"Fachverband der Maschinen-, Metallwaren- und Gießereiindustrie",180.87883333333335
 2010-01-01,Fachverband der Fahrzeugindustrie,111.5
 2010-02-01,Fachverband der Fahrzeugindustrie,111.5
 2010-03-01,Fachverband der Fahrzeugindustrie,111.5
@@ -5887,6 +5918,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Fahrzeugindustrie,179.54435
 2025-03-01,Fachverband der Fahrzeugindustrie,179.54435
 2025-04-01,Fachverband der Fahrzeugindustrie,179.54435
+2025-05-01,Fachverband der Fahrzeugindustrie,179.54435
 2010-01-01,HANDEL,111.3
 2010-02-01,HANDEL,111.3
 2010-03-01,HANDEL,111.3
@@ -6070,7 +6102,8 @@ Monat,Sparte,Tariflohnindex
 2025-01-01,HANDEL,177.5593
 2025-02-01,HANDEL,177.5593
 2025-03-01,HANDEL,177.5593
-2025-04-01,HANDEL,177.5593
+2025-04-01,HANDEL,177.68899999999996
+2025-05-01,HANDEL,177.68899999999996
 2010-01-01,Fachverband des Lebensmittelhandels,111.4
 2010-02-01,Fachverband des Lebensmittelhandels,111.4
 2010-03-01,Fachverband des Lebensmittelhandels,111.4
@@ -6255,6 +6288,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband des Lebensmittelhandels,178.1264
 2025-03-01,Fachverband des Lebensmittelhandels,178.1264
 2025-04-01,Fachverband des Lebensmittelhandels,178.1264
+2025-05-01,Fachverband des Lebensmittelhandels,178.1264
 2010-01-01,Fachverband der Tabaktrafikanten,111.3
 2010-02-01,Fachverband der Tabaktrafikanten,111.3
 2010-03-01,Fachverband der Tabaktrafikanten,111.3
@@ -6439,6 +6473,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Tabaktrafikanten,176.7939
 2025-03-01,Fachverband der Tabaktrafikanten,176.7939
 2025-04-01,Fachverband der Tabaktrafikanten,176.7939
+2025-05-01,Fachverband der Tabaktrafikanten,176.7939
 2010-01-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",111.3
 2010-02-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",111.3
 2010-03-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",111.3
@@ -6623,6 +6658,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",176.7876
 2025-03-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",176.7876
 2025-04-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",177.3068
+2025-05-01,"Fachverband des Handels mit Arzneimitteln, Drogerie- und Parfümeriewaren sowie Chemikalien und Farben",177.3068
 2010-01-01,Fachverband des Agrarhandels,111.2
 2010-02-01,Fachverband des Agrarhandels,111.2
 2010-03-01,Fachverband des Agrarhandels,111.2
@@ -6805,8 +6841,9 @@ Monat,Sparte,Tariflohnindex
 2024-12-01,Fachverband des Agrarhandels,173.118
 2025-01-01,Fachverband des Agrarhandels,178.02
 2025-02-01,Fachverband des Agrarhandels,178.02
-2025-03-01,Fachverband des Agrarhandels,178.02
-2025-04-01,Fachverband des Agrarhandels,178.02
+2025-03-01,Fachverband des Agrarhandels,178.79399999999998
+2025-04-01,Fachverband des Agrarhandels,178.79399999999998
+2025-05-01,Fachverband des Agrarhandels,178.79399999999998
 2010-01-01,Fachverband des Außenhandels,111.1
 2010-02-01,Fachverband des Außenhandels,111.1
 2010-03-01,Fachverband des Außenhandels,111.1
@@ -6991,6 +7028,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband des Außenhandels,175.2894
 2025-03-01,Fachverband des Außenhandels,175.2894
 2025-04-01,Fachverband des Außenhandels,175.2894
+2025-05-01,Fachverband des Außenhandels,175.2894
 2010-01-01,Fachverband des Handels mit Mode und Freizeitartikeln,111.4
 2010-02-01,Fachverband des Handels mit Mode und Freizeitartikeln,111.4
 2010-03-01,Fachverband des Handels mit Mode und Freizeitartikeln,111.4
@@ -7175,6 +7213,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband des Handels mit Mode und Freizeitartikeln,177.72920000000002
 2025-03-01,Fachverband des Handels mit Mode und Freizeitartikeln,177.72920000000002
 2025-04-01,Fachverband des Handels mit Mode und Freizeitartikeln,177.72920000000002
+2025-05-01,Fachverband des Handels mit Mode und Freizeitartikeln,177.72920000000002
 2010-01-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",111.3
 2010-02-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",111.3
 2010-03-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",111.3
@@ -7359,6 +7398,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",177.4296
 2025-03-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",177.4296
 2025-04-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",177.4296
+2025-05-01,"Fachverband des Baustoff-, Eisen-, Hartwaren- und Holzhandels",177.4296
 2010-01-01,Fachverband des Fahrzeughandels,111.4
 2010-02-01,Fachverband des Fahrzeughandels,111.4
 2010-03-01,Fachverband des Fahrzeughandels,111.4
@@ -7543,6 +7583,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband des Fahrzeughandels,180.27359999999996
 2025-03-01,Fachverband des Fahrzeughandels,180.27359999999996
 2025-04-01,Fachverband des Fahrzeughandels,180.27359999999996
+2025-05-01,Fachverband des Fahrzeughandels,180.27359999999996
 2010-01-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",110.7
 2010-02-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",110.7
 2010-03-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",110.7
@@ -7727,6 +7768,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",175.0767
 2025-03-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",175.0767
 2025-04-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",175.0767
+2025-05-01,"Fachverband des Foto-, Optik- und Medizinproduktehandels",175.97060000000002
 2010-01-01,Fachverband des Elektro- und Einrichtungsfachhandels,111.3
 2010-02-01,Fachverband des Elektro- und Einrichtungsfachhandels,111.3
 2010-03-01,Fachverband des Elektro- und Einrichtungsfachhandels,111.3
@@ -7911,6 +7953,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband des Elektro- und Einrichtungsfachhandels,177.29280000000003
 2025-03-01,Fachverband des Elektro- und Einrichtungsfachhandels,177.29280000000003
 2025-04-01,Fachverband des Elektro- und Einrichtungsfachhandels,177.29280000000003
+2025-05-01,Fachverband des Elektro- und Einrichtungsfachhandels,177.29280000000003
 2010-01-01,BANK UND VERSICHERUNG,109.8
 2010-02-01,BANK UND VERSICHERUNG,110.4
 2010-03-01,BANK UND VERSICHERUNG,110.8
@@ -8094,7 +8137,8 @@ Monat,Sparte,Tariflohnindex
 2025-01-01,BANK UND VERSICHERUNG,172.91505
 2025-02-01,BANK UND VERSICHERUNG,172.91505
 2025-03-01,BANK UND VERSICHERUNG,174.31259999999997
-2025-04-01,BANK UND VERSICHERUNG,177.87
+2025-04-01,BANK UND VERSICHERUNG,178.1241
+2025-05-01,BANK UND VERSICHERUNG,178.1241
 2010-01-01,Fachverband der Banken und Bankiers,110
 2010-02-01,Fachverband der Banken und Bankiers,110.8
 2010-03-01,Fachverband der Banken und Bankiers,110.8
@@ -8279,6 +8323,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Banken und Bankiers,170.67375
 2025-03-01,Fachverband der Banken und Bankiers,170.67375
 2025-04-01,Fachverband der Banken und Bankiers,175.73075
+2025-05-01,Fachverband der Banken und Bankiers,175.73075
 2010-01-01,Fachverband der Sparkassen,110
 2010-02-01,Fachverband der Sparkassen,110.8
 2010-03-01,Fachverband der Sparkassen,110.8
@@ -8463,6 +8508,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Sparkassen,171.94747500000003
 2025-03-01,Fachverband der Sparkassen,171.94747500000003
 2025-04-01,Fachverband der Sparkassen,177.008475
+2025-05-01,Fachverband der Sparkassen,177.008475
 2010-01-01,Fachverband der Volksbanken,110
 2010-02-01,Fachverband der Volksbanken,110.9
 2010-03-01,Fachverband der Volksbanken,110.9
@@ -8646,7 +8692,8 @@ Monat,Sparte,Tariflohnindex
 2025-01-01,Fachverband der Volksbanken,172.49995
 2025-02-01,Fachverband der Volksbanken,172.49995
 2025-03-01,Fachverband der Volksbanken,172.49995
-2025-04-01,Fachverband der Volksbanken,172.49995
+2025-04-01,Fachverband der Volksbanken,177.707975
+2025-05-01,Fachverband der Volksbanken,177.707975
 2010-01-01,Fachverband der Raiffeisenbanken,110.1
 2010-02-01,Fachverband der Raiffeisenbanken,110.9
 2010-03-01,Fachverband der Raiffeisenbanken,110.9
@@ -8831,6 +8878,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Raiffeisenbanken,173.49149999999997
 2025-03-01,Fachverband der Raiffeisenbanken,173.49149999999997
 2025-04-01,Fachverband der Raiffeisenbanken,178.3213
+2025-05-01,Fachverband der Raiffeisenbanken,178.3213
 2010-01-01,Fachverband der Versicherungsunternehmen,109
 2010-02-01,Fachverband der Versicherungsunternehmen,109
 2010-03-01,Fachverband der Versicherungsunternehmen,110.5
@@ -9015,6 +9063,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Versicherungsunternehmen,175.54739999999998
 2025-03-01,Fachverband der Versicherungsunternehmen,181.56105
 2025-04-01,Fachverband der Versicherungsunternehmen,181.56105
+2025-05-01,Fachverband der Versicherungsunternehmen,181.56105
 2010-01-01,TRANSPORT UND VERKEHR,110.5
 2010-02-01,TRANSPORT UND VERKEHR,110.5
 2010-03-01,TRANSPORT UND VERKEHR,110.5
@@ -9195,10 +9244,11 @@ Monat,Sparte,Tariflohnindex
 2024-10-01,TRANSPORT UND VERKEHR,172.54600000000002
 2024-11-01,TRANSPORT UND VERKEHR,172.6725
 2024-12-01,TRANSPORT UND VERKEHR,174.1905
-2025-01-01,TRANSPORT UND VERKEHR,178.9975
-2025-02-01,TRANSPORT UND VERKEHR,179.12399999999997
-2025-03-01,TRANSPORT UND VERKEHR,179.12399999999997
-2025-04-01,TRANSPORT UND VERKEHR,179.2505
+2025-01-01,TRANSPORT UND VERKEHR,179.63
+2025-02-01,TRANSPORT UND VERKEHR,179.7565
+2025-03-01,TRANSPORT UND VERKEHR,179.7565
+2025-04-01,TRANSPORT UND VERKEHR,179.88299999999998
+2025-05-01,TRANSPORT UND VERKEHR,179.88299999999998
 2010-01-01,Fachverband der Schienenbahnen,109.5
 2010-02-01,Fachverband der Schienenbahnen,109.5
 2010-03-01,Fachverband der Schienenbahnen,109.5
@@ -9383,6 +9433,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Schienenbahnen,186.87039999999996
 2025-03-01,Fachverband der Schienenbahnen,186.87039999999996
 2025-04-01,Fachverband der Schienenbahnen,186.87039999999996
+2025-05-01,Fachverband der Schienenbahnen,186.87039999999996
 2010-01-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",109.6
 2010-02-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",109.6
 2010-03-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",109.6
@@ -9563,10 +9614,11 @@ Monat,Sparte,Tariflohnindex
 2024-10-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",148.27626666666666
 2024-11-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",148.27626666666666
 2024-12-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",148.27626666666666
-2025-01-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",151.10506666666663
-2025-02-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",151.10506666666663
-2025-03-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",151.10506666666663
-2025-04-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",151.10506666666663
+2025-01-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",155.3482666666667
+2025-02-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",155.3482666666667
+2025-03-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",155.3482666666667
+2025-04-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",155.3482666666667
+2025-05-01,"Fachverband der Autobus-, Luftfahrt- und Schifffahrtunternehmungen",155.3482666666667
 2010-01-01,Fachverband der Seilbahnen,109.1
 2010-02-01,Fachverband der Seilbahnen,109.1
 2010-03-01,Fachverband der Seilbahnen,109.1
@@ -9751,6 +9803,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Seilbahnen,173.30720000000002
 2025-03-01,Fachverband der Seilbahnen,173.30720000000002
 2025-04-01,Fachverband der Seilbahnen,173.30720000000002
+2025-05-01,Fachverband der Seilbahnen,174.31626666666662
 2010-01-01,Fachverband der Spediteure,109.1
 2010-02-01,Fachverband der Spediteure,109.1
 2010-03-01,Fachverband der Spediteure,109.1
@@ -9935,6 +9988,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Spediteure,177.06609999999998
 2025-03-01,Fachverband der Spediteure,177.06609999999998
 2025-04-01,Fachverband der Spediteure,177.06609999999998
+2025-05-01,Fachverband der Spediteure,177.06609999999998
 2010-01-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,113.2
 2010-02-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,113.2
 2010-03-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,113.2
@@ -10119,6 +10173,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,215.18
 2025-03-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,215.18
 2025-04-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,215.18
+2025-05-01,Fachverband für die Beförderungsgewerbe mit Personenkraftwagen,215.18
 2010-01-01,Fachverband für das Güterbeförderungsgewerbe,111.5
 2010-02-01,Fachverband für das Güterbeförderungsgewerbe,111.5
 2010-03-01,Fachverband für das Güterbeförderungsgewerbe,111.5
@@ -10303,6 +10358,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband für das Güterbeförderungsgewerbe,181.9158
 2025-03-01,Fachverband für das Güterbeförderungsgewerbe,181.9158
 2025-04-01,Fachverband für das Güterbeförderungsgewerbe,181.9158
+2025-05-01,Fachverband für das Güterbeförderungsgewerbe,181.9158
 2010-01-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",108.6
 2010-02-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",109.8
 2010-03-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",109.8
@@ -10487,6 +10543,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",191.429
 2025-03-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",191.429
 2025-04-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",191.429
+2025-05-01,"Fachverband der Garagen-, Tankstellen- und Servicestationsunternehmungen",191.429
 2010-01-01,TOURISMUS UND FREIZEIT,109.8
 2010-02-01,TOURISMUS UND FREIZEIT,109.9
 2010-03-01,TOURISMUS UND FREIZEIT,109.9
@@ -10670,7 +10727,8 @@ Monat,Sparte,Tariflohnindex
 2025-01-01,TOURISMUS UND FREIZEIT,178.8204
 2025-02-01,TOURISMUS UND FREIZEIT,178.8204
 2025-03-01,TOURISMUS UND FREIZEIT,178.8204
-2025-04-01,TOURISMUS UND FREIZEIT,179.08183333333335
+2025-04-01,TOURISMUS UND FREIZEIT,179.21255000000002
+2025-05-01,TOURISMUS UND FREIZEIT,184.83336666666665
 2010-01-01,Fachverband Gastronomie,109.4
 2010-02-01,Fachverband Gastronomie,109.4
 2010-03-01,Fachverband Gastronomie,109.4
@@ -10855,6 +10913,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband Gastronomie,177.636
 2025-03-01,Fachverband Gastronomie,177.636
 2025-04-01,Fachverband Gastronomie,177.636
+2025-05-01,Fachverband Gastronomie,184.055
 2010-01-01,Fachverband Hotellerie,109.4
 2010-02-01,Fachverband Hotellerie,109.4
 2010-03-01,Fachverband Hotellerie,109.4
@@ -11039,6 +11098,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband Hotellerie,178.00422500000002
 2025-03-01,Fachverband Hotellerie,178.00422500000002
 2025-04-01,Fachverband Hotellerie,178.00422500000002
+2025-05-01,Fachverband Hotellerie,184.50547500000002
 2010-01-01,Fachverband der Gesundheitsbetriebe,114.5
 2010-02-01,Fachverband der Gesundheitsbetriebe,114.5
 2010-03-01,Fachverband der Gesundheitsbetriebe,114.5
@@ -11223,6 +11283,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Gesundheitsbetriebe,190.53458333333333
 2025-03-01,Fachverband der Gesundheitsbetriebe,190.53458333333333
 2025-04-01,Fachverband der Gesundheitsbetriebe,193.15541666666664
+2025-05-01,Fachverband der Gesundheitsbetriebe,195.12104166666666
 2010-01-01,Fachverband der Reisebüros,108.8
 2010-02-01,Fachverband der Reisebüros,108.8
 2010-03-01,Fachverband der Reisebüros,108.8
@@ -11407,6 +11468,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Reisebüros,172.55719999999997
 2025-03-01,Fachverband der Reisebüros,172.55719999999997
 2025-04-01,Fachverband der Reisebüros,172.55719999999997
+2025-05-01,Fachverband der Reisebüros,172.55719999999997
 2010-01-01,Fachverband der Freizeit- und Sportbetriebe,109.4
 2010-02-01,Fachverband der Freizeit- und Sportbetriebe,109.4
 2010-03-01,Fachverband der Freizeit- und Sportbetriebe,109.4
@@ -11591,6 +11653,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Freizeit- und Sportbetriebe,183.9186666666667
 2025-03-01,Fachverband der Freizeit- und Sportbetriebe,183.9186666666667
 2025-04-01,Fachverband der Freizeit- und Sportbetriebe,183.9186666666667
+2025-05-01,Fachverband der Freizeit- und Sportbetriebe,189.07653333333334
 2010-01-01,INFORMATION UND CONSULTING,109.8
 2010-02-01,INFORMATION UND CONSULTING,109.8
 2010-03-01,INFORMATION UND CONSULTING,109.8
@@ -11775,6 +11838,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,INFORMATION UND CONSULTING,174.45446666666666
 2025-03-01,INFORMATION UND CONSULTING,174.45446666666666
 2025-04-01,INFORMATION UND CONSULTING,174.58070000000004
+2025-05-01,INFORMATION UND CONSULTING,174.58070000000004
 2010-01-01,Fachverband Entsorgungs- u. Ressourcenmanagement,111.7
 2010-02-01,Fachverband Entsorgungs- u. Ressourcenmanagement,111.7
 2010-03-01,Fachverband Entsorgungs- u. Ressourcenmanagement,111.7
@@ -11958,7 +12022,8 @@ Monat,Sparte,Tariflohnindex
 2025-01-01,Fachverband Entsorgungs- u. Ressourcenmanagement,181.248
 2025-02-01,Fachverband Entsorgungs- u. Ressourcenmanagement,181.248
 2025-03-01,Fachverband Entsorgungs- u. Ressourcenmanagement,181.248
-2025-04-01,Fachverband Entsorgungs- u. Ressourcenmanagement,181.50400000000002
+2025-04-01,Fachverband Entsorgungs- u. Ressourcenmanagement,182.016
+2025-05-01,Fachverband Entsorgungs- u. Ressourcenmanagement,182.4
 2010-01-01,Fachverband Werbung und Marktkommunikation,110.1
 2010-02-01,Fachverband Werbung und Marktkommunikation,110.1
 2010-03-01,Fachverband Werbung und Marktkommunikation,110.5
@@ -12143,6 +12208,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband Werbung und Marktkommunikation,175.1268
 2025-03-01,Fachverband Werbung und Marktkommunikation,175.1268
 2025-04-01,Fachverband Werbung und Marktkommunikation,175.1268
+2025-05-01,Fachverband Werbung und Marktkommunikation,175.25481666666667
 2010-01-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",110.7
 2010-02-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",110.7
 2010-03-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",110.7
@@ -12327,6 +12393,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",176.3741
 2025-03-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",176.3741
 2025-04-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",176.3741
+2025-05-01,"Fachverband Unternehmensberatung, Buchhaltung und Informationstechnologie",176.3741
 2010-01-01,Fachverband Ingenieurbüros,110.2
 2010-02-01,Fachverband Ingenieurbüros,110.2
 2010-03-01,Fachverband Ingenieurbüros,110.2
@@ -12511,6 +12578,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband Ingenieurbüros,177.3289
 2025-03-01,Fachverband Ingenieurbüros,177.4562
 2025-04-01,Fachverband Ingenieurbüros,177.4562
+2025-05-01,Fachverband Ingenieurbüros,177.4562
 2010-01-01,Fachverband Druck,106.4
 2010-02-01,Fachverband Druck,106.4
 2010-03-01,Fachverband Druck,106.4
@@ -12694,7 +12762,8 @@ Monat,Sparte,Tariflohnindex
 2025-01-01,Fachverband Druck,170.43030000000002
 2025-02-01,Fachverband Druck,170.43030000000002
 2025-03-01,Fachverband Druck,170.43030000000002
-2025-04-01,Fachverband Druck,170.43030000000002
+2025-04-01,Fachverband Druck,170.9211
+2025-05-01,Fachverband Druck,170.9211
 2010-01-01,Fachverband der Immobilien- und Vermögenstreuhänder,110.2
 2010-02-01,Fachverband der Immobilien- und Vermögenstreuhänder,110.2
 2010-03-01,Fachverband der Immobilien- und Vermögenstreuhänder,110.2
@@ -12879,6 +12948,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Immobilien- und Vermögenstreuhänder,180.5175
 2025-03-01,Fachverband der Immobilien- und Vermögenstreuhänder,180.5175
 2025-04-01,Fachverband der Immobilien- und Vermögenstreuhänder,180.5175
+2025-05-01,Fachverband der Immobilien- und Vermögenstreuhänder,180.5175
 2010-01-01,Fachverband der Buch- und Medienwirtschaft,111
 2010-02-01,Fachverband der Buch- und Medienwirtschaft,111
 2010-03-01,Fachverband der Buch- und Medienwirtschaft,111
@@ -13063,6 +13133,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Buch- und Medienwirtschaft,168.70532500000002
 2025-03-01,Fachverband der Buch- und Medienwirtschaft,168.70532500000002
 2025-04-01,Fachverband der Buch- und Medienwirtschaft,168.70532500000002
+2025-05-01,Fachverband der Buch- und Medienwirtschaft,168.70532500000002
 2010-01-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,108.4
 2010-02-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,108.4
 2010-03-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,108.4
@@ -13247,6 +13318,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,168.66080000000002
 2025-03-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,168.66080000000002
 2025-04-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,168.66080000000002
+2025-05-01,Fachverband der Telekommunikations- und Rundfunkunternehmungen ,168.66080000000002
 2010-01-01,Angestellte bei Architekten und Ingenieurkonsulenten,110.2
 2010-02-01,Angestellte bei Architekten und Ingenieurkonsulenten,110.2
 2010-03-01,Angestellte bei Architekten und Ingenieurkonsulenten,110.2
@@ -13431,6 +13503,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Angestellte bei Architekten und Ingenieurkonsulenten,176.7636
 2025-03-01,Angestellte bei Architekten und Ingenieurkonsulenten,176.7636
 2025-04-01,Angestellte bei Architekten und Ingenieurkonsulenten,176.7636
+2025-05-01,Angestellte bei Architekten und Ingenieurkonsulenten,176.7636
 2010-01-01,Arbeitskräfteüberlasser,111.8
 2010-02-01,Arbeitskräfteüberlasser,111.8
 2010-03-01,Arbeitskräfteüberlasser,111.8
@@ -13615,6 +13688,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Arbeitskräfteüberlasser,188.65290000000002
 2025-03-01,Arbeitskräfteüberlasser,188.65290000000002
 2025-04-01,Arbeitskräfteüberlasser,188.65290000000002
+2025-05-01,Arbeitskräfteüberlasser,188.65290000000002
 2010-01-01,Arbeitsmarktservice Österreich,110.1
 2010-02-01,Arbeitsmarktservice Österreich,110.1
 2010-03-01,Arbeitsmarktservice Österreich,110.1
@@ -13799,6 +13873,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Arbeitsmarktservice Österreich,170.5088
 2025-03-01,Arbeitsmarktservice Österreich,170.5088
 2025-04-01,Arbeitsmarktservice Österreich,170.5088
+2025-05-01,Arbeitsmarktservice Österreich,170.5088
 2010-01-01,BABE Private Bildungseinrichtungen,110.3
 2010-02-01,BABE Private Bildungseinrichtungen,110.3
 2010-03-01,BABE Private Bildungseinrichtungen,110.3
@@ -13983,6 +14058,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,BABE Private Bildungseinrichtungen,177.5412
 2025-03-01,BABE Private Bildungseinrichtungen,177.5412
 2025-04-01,BABE Private Bildungseinrichtungen,177.5412
+2025-05-01,BABE Private Bildungseinrichtungen,183.08533333333332
 2010-01-01,Bäcker,108.7
 2010-02-01,Bäcker,108.7
 2010-03-01,Bäcker,108.7
@@ -14167,6 +14243,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bäcker,174.29034375
 2025-03-01,Bäcker,174.29034375
 2025-04-01,Bäcker,174.29034375
+2025-05-01,Bäcker,174.29034375
 2010-01-01,Banken und Bankiers,110
 2010-02-01,Banken und Bankiers,110.8
 2010-03-01,Banken und Bankiers,110.8
@@ -14351,6 +14428,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Banken und Bankiers,170.80017499999997
 2025-03-01,Banken und Bankiers,170.80017499999997
 2025-04-01,Banken und Bankiers,175.98359999999997
+2025-05-01,Banken und Bankiers,175.98359999999997
 2010-01-01,Bauhilfsgewerbe,110.6
 2010-02-01,Bauhilfsgewerbe,110.6
 2010-03-01,Bauhilfsgewerbe,110.6
@@ -14535,6 +14613,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bauhilfsgewerbe,181.23746666666665
 2025-03-01,Bauhilfsgewerbe,181.23746666666665
 2025-04-01,Bauhilfsgewerbe,181.23746666666665
+2025-05-01,Bauhilfsgewerbe,186.42680000000001
 2010-01-01,Bauindustrie und Baugewerbe,111.25
 2010-02-01,Bauindustrie und Baugewerbe,111.25
 2010-03-01,Bauindustrie und Baugewerbe,111.25
@@ -14719,6 +14798,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bauindustrie und Baugewerbe,181.21173333333337
 2025-03-01,Bauindustrie und Baugewerbe,181.21173333333337
 2025-04-01,Bauindustrie und Baugewerbe,181.21173333333337
+2025-05-01,Bauindustrie und Baugewerbe,186.18719999999996
 2010-01-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,109
 2010-02-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,109
 2010-03-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,109
@@ -14903,6 +14983,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,171.96234999999996
 2025-03-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,171.96234999999996
 2025-04-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,171.96234999999996
+2025-05-01,Bekleidungsindustrie - Österreich ohne Vorarlberg,171.96234999999996
 2010-01-01,Bergwerke und Stahl - Eisenhüttenwerke,111.5
 2010-02-01,Bergwerke und Stahl - Eisenhüttenwerke,111.5
 2010-03-01,Bergwerke und Stahl - Eisenhüttenwerke,111.5
@@ -15087,6 +15168,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bergwerke und Stahl - Eisenhüttenwerke,180.05625
 2025-03-01,Bergwerke und Stahl - Eisenhüttenwerke,180.05625
 2025-04-01,Bergwerke und Stahl - Eisenhüttenwerke,180.05625
+2025-05-01,Bergwerke und Stahl - Eisenhüttenwerke,180.05625
 2010-01-01,Blumenbinder u. -händler,108.7
 2010-02-01,Blumenbinder u. -händler,109.8
 2010-03-01,Blumenbinder u. -händler,109.8
@@ -15271,6 +15353,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Blumenbinder u. -händler,183.14341666666667
 2025-03-01,Blumenbinder u. -händler,188.55962499999998
 2025-04-01,Blumenbinder u. -händler,188.55962499999998
+2025-05-01,Blumenbinder u. -händler,188.55962499999998
 2010-01-01,Bundesforste,110.9
 2010-02-01,Bundesforste,110.9
 2010-03-01,Bundesforste,110.9
@@ -15455,6 +15538,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bundesforste,178.38333333333333
 2025-03-01,Bundesforste,178.38333333333333
 2025-04-01,Bundesforste,178.38333333333333
+2025-05-01,Bundesforste,178.38333333333333
 2010-01-01,Eisen- und metallverarbeitendes Gewerbe,111.8
 2010-02-01,Eisen- und metallverarbeitendes Gewerbe,111.8
 2010-03-01,Eisen- und metallverarbeitendes Gewerbe,111.8
@@ -15639,6 +15723,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Eisen- und metallverarbeitendes Gewerbe,186.31470000000002
 2025-03-01,Eisen- und metallverarbeitendes Gewerbe,186.31470000000002
 2025-04-01,Eisen- und metallverarbeitendes Gewerbe,186.31470000000002
+2025-05-01,Eisen- und metallverarbeitendes Gewerbe,186.31470000000002
 2010-01-01,Metallgewerbe,111.8
 2010-02-01,Metallgewerbe,111.8
 2010-03-01,Metallgewerbe,111.8
@@ -15823,6 +15908,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Metallgewerbe,182.8673
 2025-03-01,Metallgewerbe,182.8673
 2025-04-01,Metallgewerbe,182.8673
+2025-05-01,Metallgewerbe,182.8673
 2010-01-01,Chemische Industrie,110.6
 2010-02-01,Chemische Industrie,110.6
 2010-03-01,Chemische Industrie,110.6
@@ -16007,6 +16093,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Chemische Industrie,182.06175
 2025-03-01,Chemische Industrie,182.06175
 2025-04-01,Chemische Industrie,182.06175
+2025-05-01,Chemische Industrie,186.3355
 2010-01-01,"Denkmal-, Fassaden-, Gebäudereiniger",110.8
 2010-02-01,"Denkmal-, Fassaden-, Gebäudereiniger",110.8
 2010-03-01,"Denkmal-, Fassaden-, Gebäudereiniger",110.8
@@ -16191,6 +16278,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Denkmal-, Fassaden-, Gebäudereiniger",184.5921
 2025-03-01,"Denkmal-, Fassaden-, Gebäudereiniger",184.5921
 2025-04-01,"Denkmal-, Fassaden-, Gebäudereiniger",184.5921
+2025-05-01,"Denkmal-, Fassaden-, Gebäudereiniger",184.5921
 2010-01-01,Elektrizitätsversorgungsunternehmungen,110.6
 2010-02-01,Elektrizitätsversorgungsunternehmungen,112.3
 2010-03-01,Elektrizitätsversorgungsunternehmungen,112.3
@@ -16375,6 +16463,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Elektrizitätsversorgungsunternehmungen,188.083875
 2025-03-01,Elektrizitätsversorgungsunternehmungen,188.083875
 2025-04-01,Elektrizitätsversorgungsunternehmungen,188.083875
+2025-05-01,Elektrizitätsversorgungsunternehmungen,188.083875
 2010-01-01,Elektro- u. Elektronikindustrie,109.6
 2010-02-01,Elektro- u. Elektronikindustrie,109.6
 2010-03-01,Elektro- u. Elektronikindustrie,109.6
@@ -16559,6 +16648,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Elektro- u. Elektronikindustrie,181.9796
 2025-03-01,Elektro- u. Elektronikindustrie,181.9796
 2025-04-01,Elektro- u. Elektronikindustrie,181.9796
+2025-05-01,Elektro- u. Elektronikindustrie,181.9796
 2010-01-01,Fleischergewerbe,108.7
 2010-02-01,Fleischergewerbe,108.7
 2010-03-01,Fleischergewerbe,108.7
@@ -16743,6 +16833,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fleischergewerbe,172.83565000000002
 2025-03-01,Fleischergewerbe,172.83565000000002
 2025-04-01,Fleischergewerbe,172.83565000000002
+2025-05-01,Fleischergewerbe,172.83565000000002
 2010-01-01,Fleischwarenindustrie,108.6
 2010-02-01,Fleischwarenindustrie,108.6
 2010-03-01,Fleischwarenindustrie,108.6
@@ -16927,6 +17018,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Fleischwarenindustrie,168.8948
 2025-03-01,Fleischwarenindustrie,168.8948
 2025-04-01,Fleischwarenindustrie,168.8948
+2025-05-01,Fleischwarenindustrie,168.8948
 2010-01-01,Flughafen,106.4
 2010-02-01,Flughafen,106.4
 2010-03-01,Flughafen,106.4
@@ -17111,6 +17203,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Flughafen,165.5998
 2025-03-01,Flughafen,165.5998
 2025-04-01,Flughafen,165.5998
+2025-05-01,Flughafen,165.5998
 2010-01-01,Forstarbeiter Privatwirtschaft,110.5
 2010-02-01,Forstarbeiter Privatwirtschaft,110.5
 2010-03-01,Forstarbeiter Privatwirtschaft,110.5
@@ -17295,6 +17388,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Forstarbeiter Privatwirtschaft,176.26559999999998
 2025-03-01,Forstarbeiter Privatwirtschaft,176.26559999999998
 2025-04-01,Forstarbeiter Privatwirtschaft,176.26559999999998
+2025-05-01,Forstarbeiter Privatwirtschaft,176.26559999999998
 2010-01-01,FriseurInnen,109.4
 2010-02-01,FriseurInnen,109.4
 2010-03-01,FriseurInnen,110.8
@@ -17479,6 +17573,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,FriseurInnen,168.225875
 2025-03-01,FriseurInnen,168.225875
 2025-04-01,FriseurInnen,176.85604999999998
+2025-05-01,FriseurInnen,176.85604999999998
 2010-01-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",107.7
 2010-02-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",109.3
 2010-03-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",109.3
@@ -17663,6 +17758,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",193.94899999999998
 2025-03-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",193.94899999999998
 2025-04-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",193.94899999999998
+2025-05-01,"Garagen-, Tankstellen- und Servicestationsunternehmungen",193.94899999999998
 2010-01-01,Gas- und Wärmeversorgungsunternehmen,111.5
 2010-02-01,Gas- und Wärmeversorgungsunternehmen,111.5
 2010-03-01,Gas- und Wärmeversorgungsunternehmen,111.5
@@ -17847,6 +17943,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Gas- und Wärmeversorgungsunternehmen,179.30076666666668
 2025-03-01,Gas- und Wärmeversorgungsunternehmen,179.30076666666668
 2025-04-01,Gas- und Wärmeversorgungsunternehmen,179.30076666666668
+2025-05-01,Gas- und Wärmeversorgungsunternehmen,179.30076666666668
 2010-01-01,Gewerbliche Kreditgenossenschaften,110
 2010-02-01,Gewerbliche Kreditgenossenschaften,110.9
 2010-03-01,Gewerbliche Kreditgenossenschaften,110.9
@@ -18030,7 +18127,8 @@ Monat,Sparte,Tariflohnindex
 2025-01-01,Gewerbliche Kreditgenossenschaften,172.49995
 2025-02-01,Gewerbliche Kreditgenossenschaften,172.49995
 2025-03-01,Gewerbliche Kreditgenossenschaften,172.49995
-2025-04-01,Gewerbliche Kreditgenossenschaften,172.49995
+2025-04-01,Gewerbliche Kreditgenossenschaften,177.707975
+2025-05-01,Gewerbliche Kreditgenossenschaften,177.707975
 2010-01-01,Güterbeförderungsgewerbe,111.65
 2010-02-01,Güterbeförderungsgewerbe,111.65
 2010-03-01,Güterbeförderungsgewerbe,111.65
@@ -18215,6 +18313,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Güterbeförderungsgewerbe,185.51895000000002
 2025-03-01,Güterbeförderungsgewerbe,185.51895000000002
 2025-04-01,Güterbeförderungsgewerbe,185.51895000000002
+2025-05-01,Güterbeförderungsgewerbe,185.51895000000002
 2010-01-01,"Hafner, Platten-, Fliesenleger und Keramiker",110.5
 2010-02-01,"Hafner, Platten-, Fliesenleger und Keramiker",110.5
 2010-03-01,"Hafner, Platten-, Fliesenleger und Keramiker",110.5
@@ -18399,6 +18498,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Hafner, Platten-, Fliesenleger und Keramiker",178.1379
 2025-03-01,"Hafner, Platten-, Fliesenleger und Keramiker",178.1379
 2025-04-01,"Hafner, Platten-, Fliesenleger und Keramiker",178.1379
+2025-05-01,"Hafner, Platten-, Fliesenleger und Keramiker",183.1832
 2010-01-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,111.3
 2010-02-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,111.3
 2010-03-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,111.3
@@ -18583,6 +18683,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,176.52169999999998
 2025-03-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,176.52169999999998
 2025-04-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,176.52169999999998
+2025-05-01,Handelsangestellte Allgemeiner Groß- und Kleinhandel,176.52169999999998
 2010-01-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,111.6
 2010-02-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,111.6
 2010-03-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,111.6
@@ -18767,6 +18868,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,180.9115
 2025-03-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,180.9115
 2025-04-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,180.9115
+2025-05-01,HandelsarbeiterInnen Allgemeiner Groß- und Kleinhandel,180.9115
 2010-01-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,110.1
 2010-02-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,110.1
 2010-03-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,110.1
@@ -18951,6 +19053,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,177.4562
 2025-03-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,177.4562
 2025-04-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,177.4562
+2025-05-01,Handwerk und Gewerbe in der Dienstleistung in Information und Consulting,177.4562
 2010-01-01,Hotel- Gastgewerbe Kärnten,109.4
 2010-02-01,Hotel- Gastgewerbe Kärnten,109.4
 2010-03-01,Hotel- Gastgewerbe Kärnten,109.4
@@ -19135,6 +19238,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Hotel- Gastgewerbe Kärnten,179.43040000000002
 2025-03-01,Hotel- Gastgewerbe Kärnten,179.43040000000002
 2025-04-01,Hotel- Gastgewerbe Kärnten,179.43040000000002
+2025-05-01,Hotel- Gastgewerbe Kärnten,185.29840000000002
 2010-01-01,Hotel- Gastgewerbe Niederösterreich,109.4
 2010-02-01,Hotel- Gastgewerbe Niederösterreich,109.4
 2010-03-01,Hotel- Gastgewerbe Niederösterreich,109.4
@@ -19319,6 +19423,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Hotel- Gastgewerbe Niederösterreich,171.75713333333334
 2025-03-01,Hotel- Gastgewerbe Niederösterreich,171.75713333333334
 2025-04-01,Hotel- Gastgewerbe Niederösterreich,171.75713333333334
+2025-05-01,Hotel- Gastgewerbe Niederösterreich,177.60526666666664
 2010-01-01,Hotel- Gastgewerbe Oberösterreich,109.4
 2010-02-01,Hotel- Gastgewerbe Oberösterreich,109.4
 2010-03-01,Hotel- Gastgewerbe Oberösterreich,109.4
@@ -19503,6 +19608,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Hotel- Gastgewerbe Oberösterreich,176.2063
 2025-03-01,Hotel- Gastgewerbe Oberösterreich,176.2063
 2025-04-01,Hotel- Gastgewerbe Oberösterreich,176.2063
+2025-05-01,Hotel- Gastgewerbe Oberösterreich,182.26460000000003
 2010-01-01,Hotel- Gastgewerbe Salzburg,109.35
 2010-02-01,Hotel- Gastgewerbe Salzburg,109.35
 2010-03-01,Hotel- Gastgewerbe Salzburg,109.35
@@ -19687,6 +19793,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Hotel- Gastgewerbe Salzburg,176.46350833333335
 2025-03-01,Hotel- Gastgewerbe Salzburg,176.46350833333335
 2025-04-01,Hotel- Gastgewerbe Salzburg,176.46350833333335
+2025-05-01,Hotel- Gastgewerbe Salzburg,183.29813333333334
 2010-01-01,Hotel- Gastgewerbe Steiermark,109.4
 2010-02-01,Hotel- Gastgewerbe Steiermark,109.4
 2010-03-01,Hotel- Gastgewerbe Steiermark,109.4
@@ -19871,6 +19978,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Hotel- Gastgewerbe Steiermark,182.2689
 2025-03-01,Hotel- Gastgewerbe Steiermark,182.2689
 2025-04-01,Hotel- Gastgewerbe Steiermark,182.2689
+2025-05-01,Hotel- Gastgewerbe Steiermark,188.7548666666667
 2010-01-01,Hotel- Gastgewerbe Tirol,109.4
 2010-02-01,Hotel- Gastgewerbe Tirol,109.4
 2010-03-01,Hotel- Gastgewerbe Tirol,109.4
@@ -20055,6 +20163,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Hotel- Gastgewerbe Tirol,174.60465000000005
 2025-03-01,Hotel- Gastgewerbe Tirol,174.60465000000005
 2025-04-01,Hotel- Gastgewerbe Tirol,174.60465000000005
+2025-05-01,Hotel- Gastgewerbe Tirol,181.05715000000004
 2010-01-01,Hotel- Gastgewerbe Wien,109.4
 2010-02-01,Hotel- Gastgewerbe Wien,109.4
 2010-03-01,Hotel- Gastgewerbe Wien,109.4
@@ -20239,6 +20348,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Hotel- Gastgewerbe Wien,179.35875000000004
 2025-03-01,Hotel- Gastgewerbe Wien,179.35875000000004
 2025-04-01,Hotel- Gastgewerbe Wien,179.35875000000004
+2025-05-01,Hotel- Gastgewerbe Wien,186.44749999999996
 2010-01-01,Immobilienverwalter,109.1
 2010-02-01,Immobilienverwalter,109.1
 2010-03-01,Immobilienverwalter,109.1
@@ -20423,6 +20533,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Immobilienverwalter,177.76760000000002
 2025-03-01,Immobilienverwalter,177.76760000000002
 2025-04-01,Immobilienverwalter,177.76760000000002
+2025-05-01,Immobilienverwalter,177.76760000000002
 2010-01-01,Kunststoffverarbeitendes Gewerbe,108.2
 2010-02-01,Kunststoffverarbeitendes Gewerbe,108.2
 2010-03-01,Kunststoffverarbeitendes Gewerbe,108.2
@@ -20607,6 +20718,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Kunststoffverarbeitendes Gewerbe,172.4112833333333
 2025-03-01,Kunststoffverarbeitendes Gewerbe,172.4112833333333
 2025-04-01,Kunststoffverarbeitendes Gewerbe,172.4112833333333
+2025-05-01,Kunststoffverarbeitendes Gewerbe,178.04646666666667
 2010-01-01,Karitative Einrichtungen der Katholischen Kirche,109.2
 2010-02-01,Karitative Einrichtungen der Katholischen Kirche,110.8
 2010-03-01,Karitative Einrichtungen der Katholischen Kirche,110.8
@@ -20791,6 +20903,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Karitative Einrichtungen der Katholischen Kirche,175.73225
 2025-03-01,Karitative Einrichtungen der Katholischen Kirche,175.73225
 2025-04-01,Karitative Einrichtungen der Katholischen Kirche,175.73225
+2025-05-01,Karitative Einrichtungen der Katholischen Kirche,175.73225
 2010-01-01,Landes-Hypothekenbanken,110.1
 2010-02-01,Landes-Hypothekenbanken,111
 2010-03-01,Landes-Hypothekenbanken,111
@@ -20975,6 +21088,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Landes-Hypothekenbanken,173.2725
 2025-03-01,Landes-Hypothekenbanken,173.2725
 2025-04-01,Landes-Hypothekenbanken,178.5
+2025-05-01,Landes-Hypothekenbanken,178.5
 2010-01-01,Österreichische Bundesbahnen,109.4
 2010-02-01,Österreichische Bundesbahnen,109.4
 2010-03-01,Österreichische Bundesbahnen,109.4
@@ -21159,6 +21273,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Österreichische Bundesbahnen,173.658
 2025-03-01,Österreichische Bundesbahnen,173.658
 2025-04-01,Österreichische Bundesbahnen,173.658
+2025-05-01,Österreichische Bundesbahnen,173.658
 2010-01-01,Maler,108.8
 2010-02-01,Maler,108.8
 2010-03-01,Maler,108.8
@@ -21343,6 +21458,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Maler,179.00226666666666
 2025-03-01,Maler,179.00226666666666
 2025-04-01,Maler,179.00226666666666
+2025-05-01,Maler,184.12759999999997
 2010-01-01,Privatkrankenanstalten / konfessionelle Einrichtungen,113.9
 2010-02-01,Privatkrankenanstalten / konfessionelle Einrichtungen,113.9
 2010-03-01,Privatkrankenanstalten / konfessionelle Einrichtungen,113.9
@@ -21527,6 +21643,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Privatkrankenanstalten / konfessionelle Einrichtungen,199.51199999999997
 2025-03-01,Privatkrankenanstalten / konfessionelle Einrichtungen,199.51199999999997
 2025-04-01,Privatkrankenanstalten / konfessionelle Einrichtungen,204.98879999999994
+2025-05-01,Privatkrankenanstalten / konfessionelle Einrichtungen,204.98879999999994
 2010-01-01,Speditionen,109
 2010-02-01,Speditionen,109
 2010-03-01,Speditionen,109
@@ -21711,6 +21828,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Speditionen,175.33188750000002
 2025-03-01,Speditionen,175.33188750000002
 2025-04-01,Speditionen,175.33188750000002
+2025-05-01,Speditionen,175.33188750000002
 2010-01-01,Zahnarzt,108.8
 2010-02-01,Zahnarzt,108.8
 2010-03-01,Zahnarzt,108.8
@@ -21895,6 +22013,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Zahnarzt,183.125
 2025-03-01,Zahnarzt,183.125
 2025-04-01,Zahnarzt,183.125
+2025-05-01,Zahnarzt,183.125
 2010-01-01,Wirtschaftstreuhänder,109.6
 2010-02-01,Wirtschaftstreuhänder,109.6
 2010-03-01,Wirtschaftstreuhänder,109.6
@@ -22079,6 +22198,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Wirtschaftstreuhänder,178.794
 2025-03-01,Wirtschaftstreuhänder,178.794
 2025-04-01,Wirtschaftstreuhänder,178.794
+2025-05-01,Wirtschaftstreuhänder,178.794
 2010-01-01,Werbung und Marktkommunikation,109.8
 2010-02-01,Werbung und Marktkommunikation,109.8
 2010-03-01,Werbung und Marktkommunikation,109.8
@@ -22263,6 +22383,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Werbung und Marktkommunikation,172.263
 2025-03-01,Werbung und Marktkommunikation,172.263
 2025-04-01,Werbung und Marktkommunikation,172.263
+2025-05-01,Werbung und Marktkommunikation,172.263
 2010-01-01,Wachorgane Bewachungsgewerbe,111.9
 2010-02-01,Wachorgane Bewachungsgewerbe,111.9
 2010-03-01,Wachorgane Bewachungsgewerbe,111.9
@@ -22447,6 +22568,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Wachorgane Bewachungsgewerbe,189.5436
 2025-03-01,Wachorgane Bewachungsgewerbe,189.5436
 2025-04-01,Wachorgane Bewachungsgewerbe,189.5436
+2025-05-01,Wachorgane Bewachungsgewerbe,189.5436
 2010-01-01,Versicherungsunternehmungen/Aussendienst,106.2
 2010-02-01,Versicherungsunternehmungen/Aussendienst,106.2
 2010-03-01,Versicherungsunternehmungen/Aussendienst,107.8
@@ -22631,6 +22753,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Versicherungsunternehmungen/Aussendienst,174.76113333333333
 2025-03-01,Versicherungsunternehmungen/Aussendienst,181.02946666666668
 2025-04-01,Versicherungsunternehmungen/Aussendienst,181.02946666666668
+2025-05-01,Versicherungsunternehmungen/Aussendienst,181.02946666666668
 2010-01-01,Versicherungsunternehmungen/Innendienst,109.7
 2010-02-01,Versicherungsunternehmungen/Innendienst,109.7
 2010-03-01,Versicherungsunternehmungen/Innendienst,111.2
@@ -22815,6 +22938,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Versicherungsunternehmungen/Innendienst,175.11533333333335
 2025-03-01,Versicherungsunternehmungen/Innendienst,180.90533333333337
 2025-04-01,Versicherungsunternehmungen/Innendienst,180.90533333333337
+2025-05-01,Versicherungsunternehmungen/Innendienst,180.90533333333337
 2010-01-01,Religiöse Einrichtungen,108.7
 2010-02-01,Religiöse Einrichtungen,109.9
 2010-03-01,Religiöse Einrichtungen,109.9
@@ -22999,6 +23123,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Religiöse Einrichtungen,171.03423333333333
 2025-03-01,Religiöse Einrichtungen,171.03423333333333
 2025-04-01,Religiöse Einrichtungen,171.03423333333333
+2025-05-01,Religiöse Einrichtungen,171.03423333333333
 2010-01-01,Freie Berufe,110
 2010-02-01,Freie Berufe,110
 2010-03-01,Freie Berufe,110
@@ -23183,6 +23308,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Freie Berufe,178.636
 2025-03-01,Freie Berufe,178.636
 2025-04-01,Freie Berufe,178.636
+2025-05-01,Freie Berufe,178.636
 2010-01-01,"Gesundheits-, Bildungs- und Sozialbereich",110.2
 2010-02-01,"Gesundheits-, Bildungs- und Sozialbereich",111.5
 2010-03-01,"Gesundheits-, Bildungs- und Sozialbereich",111.5
@@ -23367,6 +23493,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,"Gesundheits-, Bildungs- und Sozialbereich",178.99416666666667
 2025-03-01,"Gesundheits-, Bildungs- und Sozialbereich",178.99416666666667
 2025-04-01,"Gesundheits-, Bildungs- und Sozialbereich",178.99416666666667
+2025-05-01,"Gesundheits-, Bildungs- und Sozialbereich",179.38104166666668
 2010-01-01,Öffentliche Dienstleister,110.2
 2010-02-01,Öffentliche Dienstleister,110.2
 2010-03-01,Öffentliche Dienstleister,110.2
@@ -23551,6 +23678,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Öffentliche Dienstleister,170.78560000000002
 2025-03-01,Öffentliche Dienstleister,170.78560000000002
 2025-04-01,Öffentliche Dienstleister,170.78560000000002
+2025-05-01,Öffentliche Dienstleister,170.78560000000002
 2010-01-01,Sozialversicherung,110.4
 2010-02-01,Sozialversicherung,110.4
 2010-03-01,Sozialversicherung,110.4
@@ -23735,6 +23863,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Sozialversicherung,175.45289999999997
 2025-03-01,Sozialversicherung,175.45289999999997
 2025-04-01,Sozialversicherung,175.45289999999997
+2025-05-01,Sozialversicherung,175.45289999999997
 2010-01-01,Zeitungen/Tageszeitungen,111
 2010-02-01,Zeitungen/Tageszeitungen,111
 2010-03-01,Zeitungen/Tageszeitungen,111
@@ -23919,6 +24048,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Zeitungen/Tageszeitungen,141.03715
 2025-03-01,Zeitungen/Tageszeitungen,141.03715
 2025-04-01,Zeitungen/Tageszeitungen,145.68905
+2025-05-01,Zeitungen/Tageszeitungen,145.68905
 2010-01-01,Bund/Länder/Gemeinden,110
 2010-02-01,Bund/Länder/Gemeinden,110
 2010-03-01,Bund/Länder/Gemeinden,110
@@ -24103,6 +24233,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bund/Länder/Gemeinden,169.59579999999997
 2025-03-01,Bund/Länder/Gemeinden,169.59579999999997
 2025-04-01,Bund/Länder/Gemeinden,169.59579999999997
+2025-05-01,Bund/Länder/Gemeinden,169.59579999999997
 2010-01-01,Bund (ohne Ausgliederung),110
 2010-02-01,Bund (ohne Ausgliederung),110
 2010-03-01,Bund (ohne Ausgliederung),110
@@ -24287,6 +24418,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bund (ohne Ausgliederung),166.3568
 2025-03-01,Bund (ohne Ausgliederung),166.3568
 2025-04-01,Bund (ohne Ausgliederung),166.3568
+2025-05-01,Bund (ohne Ausgliederung),166.3568
 2010-01-01,Bund – Bildung,109.9
 2010-02-01,Bund – Bildung,109.9
 2010-03-01,Bund – Bildung,109.9
@@ -24471,6 +24603,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bund – Bildung,164.94660000000005
 2025-03-01,Bund – Bildung,164.94660000000005
 2025-04-01,Bund – Bildung,164.94660000000005
+2025-05-01,Bund – Bildung,164.94660000000005
 2010-01-01,Bund – Verwaltung,110
 2010-02-01,Bund – Verwaltung,110
 2010-03-01,Bund – Verwaltung,110
@@ -24655,6 +24788,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bund – Verwaltung,167.013
 2025-03-01,Bund – Verwaltung,167.013
 2025-04-01,Bund – Verwaltung,167.013
+2025-05-01,Bund – Verwaltung,167.013
 2010-01-01,Bundesländer,110
 2010-02-01,Bundesländer,110
 2010-03-01,Bundesländer,110
@@ -24839,6 +24973,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bundesländer,169.4189
 2025-03-01,Bundesländer,169.4189
 2025-04-01,Bundesländer,169.4189
+2025-05-01,Bundesländer,169.4189
 2010-01-01,Bundesländer – Verwaltung,109.9
 2010-02-01,Bundesländer – Verwaltung,109.9
 2010-03-01,Bundesländer – Verwaltung,109.9
@@ -25023,6 +25158,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bundesländer – Verwaltung,170.2764
 2025-03-01,Bundesländer – Verwaltung,170.2764
 2025-04-01,Bundesländer – Verwaltung,170.2764
+2025-05-01,Bundesländer – Verwaltung,170.2764
 2010-01-01,Bundesländer – Bildung,110
 2010-02-01,Bundesländer – Bildung,110
 2010-03-01,Bundesländer – Bildung,110
@@ -25207,6 +25343,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bundesländer – Bildung,165.44379999999998
 2025-03-01,Bundesländer – Bildung,165.44379999999998
 2025-04-01,Bundesländer – Bildung,165.44379999999998
+2025-05-01,Bundesländer – Bildung,165.44379999999998
 2010-01-01,Bundesländer – Krankenanstalten,110.1
 2010-02-01,Bundesländer – Krankenanstalten,110.1
 2010-03-01,Bundesländer – Krankenanstalten,110.1
@@ -25391,6 +25528,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Bundesländer – Krankenanstalten,175.60399999999998
 2025-03-01,Bundesländer – Krankenanstalten,175.60399999999998
 2025-04-01,Bundesländer – Krankenanstalten,175.60399999999998
+2025-05-01,Bundesländer – Krankenanstalten,175.60399999999998
 2010-01-01,Wien,110.3
 2010-02-01,Wien,110.3
 2010-03-01,Wien,110.3
@@ -25575,6 +25713,7 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Wien,175.5304
 2025-03-01,Wien,175.5304
 2025-04-01,Wien,175.5304
+2025-05-01,Wien,175.5304
 2010-01-01,Gemeinden,110.1
 2010-02-01,Gemeinden,110.1
 2010-03-01,Gemeinden,110.1
@@ -25759,3 +25898,4 @@ Monat,Sparte,Tariflohnindex
 2025-02-01,Gemeinden,173.5442
 2025-03-01,Gemeinden,173.5442
 2025-04-01,Gemeinden,173.5442
+2025-05-01,Gemeinden,173.5442
