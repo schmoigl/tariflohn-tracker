@@ -884,7 +884,7 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2022-04-01,Bau,97.05599354597517,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-04-01,Herstellung von Waren,119.77925012308623,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-04-01,Produzierender Bereich (ÖNACE Abschnitte B-F),115.06220586489961,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
-2022-04-01,Bau,99.1662147123399,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2022-04-01,Bau,99.27412136599858,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-04-01,Herstellung von Waren,119.53657602448556,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-04-01,Produzierender Bereich (ÖNACE Abschnitte B-F),115.16781036968611,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-05-01,Bau,105.4435485437755,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
@@ -896,7 +896,7 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2022-06-01,Bau,112.19716425629004,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-06-01,Herstellung von Waren,133.87092660815517,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-06-01,Produzierender Bereich (ÖNACE Abschnitte B-F),128.35671431350255,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
-2022-06-01,Bau,113.08617303431141,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2022-06-01,Bau,113.19407968797012,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-06-01,Herstellung von Waren,127.59780947507706,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-06-01,Produzierender Bereich (ÖNACE Abschnitte B-F),123.85109765946406,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-07-01,Bau,105.00783140103263,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
@@ -908,9 +908,9 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2022-08-01,Bau,109.69179068551853,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-08-01,Herstellung von Waren,120.37635505889423,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-08-01,Produzierender Bereich (ÖNACE Abschnitte B-F),119.76822655467056,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
-2022-08-01,Bau,101.54016109283114,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
-2022-08-01,Herstellung von Waren,104.56571390195846,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
-2022-08-01,Produzierender Bereich (ÖNACE Abschnitte B-F),106.14176173952224,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2022-08-01,Bau,101.64806774648984,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2022-08-01,Herstellung von Waren,104.68087437982406,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2022-08-01,Produzierender Bereich (ÖNACE Abschnitte B-F),106.25601551965089,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-09-01,Bau,110.56322497100427,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-09-01,Herstellung von Waren,128.49698218588313,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-09-01,Produzierender Bereich (ÖNACE Abschnitte B-F),124.70954827893007,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
@@ -920,20 +920,20 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2022-10-01,Bau,108.71142711434705,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-10-01,Herstellung von Waren,123.83956368658068,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-10-01,Produzierender Bereich (ÖNACE Abschnitte B-F),122.70948948577741,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
-2022-10-01,Bau,114.38105287821575,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2022-10-01,Bau,114.27314622455707,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-10-01,Herstellung von Waren,125.06427896203402,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-10-01,Produzierender Bereich (ÖNACE Abschnitte B-F),124.53662034023598,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-11-01,Bau,120.1490021113475,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-11-01,Herstellung von Waren,127.89987725007511,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-11-01,Produzierender Bereich (ÖNACE Abschnitte B-F),127.53316069279263,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-11-01,Bau,126.0349714733547,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
-2022-11-01,Herstellung von Waren,128.40393282013622,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2022-11-01,Herstellung von Waren,128.5190932980018,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-11-01,Produzierender Bereich (ÖNACE Abschnitte B-F),129.44953288576824,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-12-01,Bau,158.38318138703468,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-12-01,Herstellung von Waren,138.64776609461924,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2022-12-01,Produzierender Bereich (ÖNACE Abschnitte B-F),148.5926032795176,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
-2022-12-01,Bau,133.80425053678067,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
-2022-12-01,Herstellung von Waren,116.42724312211453,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2022-12-01,Bau,133.9121571904394,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2022-12-01,Herstellung von Waren,116.54240359998013,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2022-12-01,Produzierender Bereich (ÖNACE Abschnitte B-F),125.10788924087927,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2023-01-01,Bau,89.75773140503203,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-01-01,Herstellung von Waren,112.85283286771335,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
@@ -950,14 +950,14 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2023-03-01,Bau,100.1060135451753,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-03-01,Herstellung von Waren,126.46682540413592,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-03-01,Produzierender Bereich (ÖNACE Abschnitte B-F),122.70948948577741,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
-2023-03-01,Bau,105.42480062454415,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2023-03-01,Bau,105.53270727820284,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2023-03-01,Herstellung von Waren,130.5919818995825,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2023-03-01,Produzierender Bereich (ÖNACE Abschnitte B-F),127.73572618383837,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2023-04-01,Bau,98.36314497420379,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-04-01,Herstellung von Waren,116.91314643120779,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-04-01,Produzierender Bereich (ÖNACE Abschnitte B-F),115.88575948560954,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-04-01,Bau,100.89272117087899,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
-2023-04-01,Herstellung von Waren,117.80916885650166,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2023-04-01,Herstellung von Waren,117.69400837863607,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2023-04-01,Produzierender Bereich (ÖNACE Abschnitte B-F),116.53885573123002,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2023-05-01,Bau,104.35425568691832,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-05-01,Herstellung von Waren,126.22798342981271,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
@@ -976,7 +976,7 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2023-07-01,Produzierender Bereich (ÖNACE Abschnitte B-F),118.82702241671637,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-07-01,Bau,114.70477283919183,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2023-07-01,Herstellung von Waren,114.81499643199624,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
-2023-07-01,Produzierender Bereich (ÖNACE Abschnitte B-F),117.68139353251658,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2023-07-01,Produzierender Bereich (ÖNACE Abschnitte B-F),117.56713975238793,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2023-08-01,Bau,109.5828613998328,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-08-01,Herstellung von Waren,118.2267772899854,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-08-01,Produzierender Bereich (ÖNACE Abschnitte B-F),120.00352758915912,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
@@ -1004,9 +1004,9 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2023-12-01,Bau,165.3546556709207,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-12-01,Herstellung von Waren,130.88540192911515,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2023-12-01,Produzierender Bereich (ÖNACE Abschnitte B-F),147.7690496588077,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
-2023-12-01,Bau,143.30003605874577,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2023-12-01,Bau,143.4079427124045,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2023-12-01,Herstellung von Waren,112.51178687468439,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
-2023-12-01,Produzierender Bereich (ÖNACE Abschnitte B-F),126.5931883825518,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2023-12-01,Produzierender Bereich (ÖNACE Abschnitte B-F),126.70744216268047,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2024-01-01,Bau,85.94520640603189,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2024-01-01,Herstellung von Waren,108.79251930421889,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2024-01-01,Produzierender Bereich (ÖNACE Abschnitte B-F),110.59148620961722,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
@@ -1047,7 +1047,7 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2024-07-01,Herstellung von Waren,117.39083037985421,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2024-07-01,Produzierender Bereich (ÖNACE Abschnitte B-F),117.41521620978509,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2024-07-01,Bau,114.81267949285053,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
-2024-07-01,Herstellung von Waren,112.051144963222,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2024-07-01,Herstellung von Waren,112.16630544108762,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2024-07-01,Produzierender Bereich (ÖNACE Abschnitte B-F),115.16781036968611,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2024-08-01,Bau,108.9292856857185,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2024-08-01,Herstellung von Waren,113.56935879068295,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
@@ -1058,7 +1058,7 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2024-09-01,Bau,114.8114671127473,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2024-09-01,Herstellung von Waren,121.45114394334865,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
 2024-09-01,Produzierender Bereich (ÖNACE Abschnitte B-F),122.00358638231177,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
-2024-09-01,Bau,118.48150571724612,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2024-09-01,Bau,118.37359906358743,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2024-09-01,Herstellung von Waren,119.30625506875437,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2024-09-01,Produzierender Bereich (ÖNACE Abschnitte B-F),120.99475315624763,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2024-10-01,Bau,114.37574997000442,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
@@ -1097,6 +1097,12 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2025-03-01,Bau,106.39596050747238,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2025-03-01,Herstellung von Waren,128.17361186440502,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2025-03-01,Produzierender Bereich (ÖNACE Abschnitte B-F),125.33639680113659,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2025-04-01,Bau,96.40241783186086,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
+2025-04-01,Herstellung von Waren,119.65982913592462,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
+2025-04-01,Produzierender Bereich (ÖNACE Abschnitte B-F),115.1798563821439,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex 2021
+2025-04-01,Bau,99.70574798063336,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2025-04-01,Herstellung von Waren,117.11820598930811,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
+2025-04-01,Produzierender Bereich (ÖNACE Abschnitte B-F),114.59654146904283,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex 2021
 2010-01-01,Gesamt (VGR-Daten; Alle Sektoren),18261.91723514397,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex VGR
 2010-02-01,Gesamt (VGR-Daten; Alle Sektoren),18261.91723514397,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex VGR
 2010-03-01,Gesamt (VGR-Daten; Alle Sektoren),18261.91723514397,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex VGR
@@ -1280,6 +1286,7 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2025-01-01,Gesamt (VGR-Daten; Alle Sektoren),18695.255871847625,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex VGR
 2025-02-01,Gesamt (VGR-Daten; Alle Sektoren),18695.255871847625,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex VGR
 2025-03-01,Gesamt (VGR-Daten; Alle Sektoren),18695.255871847625,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex VGR
+2025-04-01,Gesamt (VGR-Daten; Alle Sektoren),18695.255871847625,Produktivitätsindex je unselbstständig Beschäftigten,Produktivitätsindex VGR
 2010-01-01,Gesamt (VGR-Daten; Alle Sektoren),45.86313988435415,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex VGR
 2010-02-01,Gesamt (VGR-Daten; Alle Sektoren),45.86313988435415,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex VGR
 2010-03-01,Gesamt (VGR-Daten; Alle Sektoren),45.86313988435415,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex VGR
@@ -1463,3 +1470,4 @@ Monat,Sektor,Produktivitätsindex,Einheit,series
 2025-01-01,Gesamt (VGR-Daten; Alle Sektoren),51.65771789976147,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex VGR
 2025-02-01,Gesamt (VGR-Daten; Alle Sektoren),51.65771789976147,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex VGR
 2025-03-01,Gesamt (VGR-Daten; Alle Sektoren),51.65771789976147,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex VGR
+2025-04-01,Gesamt (VGR-Daten; Alle Sektoren),51.65771789976147,Produktivitätsindex je geleisteter Arbeitsstunde,Produktivitätsindex VGR

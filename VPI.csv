@@ -2419,9 +2419,9 @@ Monat,Verbraucherpreisindex,Produktgruppe
 2025-04-01,122.3,Verschiedene Waren und Dienstleistungen
 2025-04-01,122,Wohnungsmieten
 2025-04-01,139.5,"Wohnung, Wasser, Energie"
-2025-05-01,127.5,Gesamt
+2025-05-01,127.4,Gesamt
 2025-05-01,120.4,Alkoholische Getränke und Tabak
-2025-05-01,110,Bekleidung und Schuhe
+2025-05-01,109.9,Bekleidung und Schuhe
 2025-05-01,120.9,Erziehung und Unterricht
 2025-05-01,119.3,Freizeit und Kultur
 2025-05-01,120.5,Gesundheitspflege
@@ -2429,7 +2429,21 @@ Monat,Verbraucherpreisindex,Produktgruppe
 2025-05-01,84.1,Nachrichtenübermittlung
 2025-05-01,131.4,Nahrungsmittel und alkoholfreie Getränke
 2025-05-01,141.2,Restaurants und Hotels
-2025-05-01,127.3,Verkehr
+2025-05-01,127.1,Verkehr
 2025-05-01,122.1,Verschiedene Waren und Dienstleistungen
 2025-05-01,122.2,Wohnungsmieten
 2025-05-01,139.4,"Wohnung, Wasser, Energie"
+2025-06-01,128.1,Gesamt
+2025-06-01,121.3,Alkoholische Getränke und Tabak
+2025-06-01,106.5,Bekleidung und Schuhe
+2025-06-01,121,Erziehung und Unterricht
+2025-06-01,121.8,Freizeit und Kultur
+2025-06-01,120.5,Gesundheitspflege
+2025-06-01,119.1,Hausrat und laufende Instandhaltung des Hauses
+2025-06-01,83.4,Nachrichtenübermittlung
+2025-06-01,132.4,Nahrungsmittel und alkoholfreie Getränke
+2025-06-01,142.7,Restaurants und Hotels
+2025-06-01,127.8,Verkehr
+2025-06-01,122.2,Verschiedene Waren und Dienstleistungen
+2025-06-01,122.7,Wohnungsmieten
+2025-06-01,139.7,"Wohnung, Wasser, Energie"
