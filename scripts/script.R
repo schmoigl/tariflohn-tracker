@@ -37,12 +37,12 @@ months <- matrix(
     "12", "Dec"
   ),
   ncol = 2,
-  byrow = T
+  byrow = TRUE
 )
 
 # TLWDS ------------------------------------------------------------------------
 
-wds_series <- names |> 
+wds_series <- names |>
   filter(series == "Tariflohnindex 2006")
 TLI <- NULL
 
@@ -67,10 +67,10 @@ temp <- od_table("OGD_tli16kv_TLI_108")
 temp <- temp$tabulate()
 
 months <- as.tibble(months)
-names(months) <- c("Monat","Monat_ch")
+names(months) <- c("Monat", "Monat_ch")
 
 for (i in 1:nrow(od_series)) {
-  temp <- od_table(od_series[i,1] |> pull())
+  temp <- od_table(od_series[i, 1] |> pull())
   temp <- temp$tabulate()
   names(temp)[4] <- "Tariflohnindex"
   names(temp)[1] <- "Kollektivvertrag"
@@ -78,17 +78,27 @@ for (i in 1:nrow(od_series)) {
     filter(nchar(as.character(Zeitreihe))!=4) |>
     mutate(
       Zeitreihe = str_replace(as.character(Zeitreihe), fixed(" (prel.)"), ""),
-      Jahr = paste0("20", substr(Zeitreihe, nchar(as.character(Zeitreihe))-1, nchar(as.character(Zeitreihe)))),
-      Monat_ch = fct_recode(substr(Zeitreihe, 1,3))
+      Jahr = paste0(
+        "20",
+        substr(
+          Zeitreihe,
+          nchar(as.character(Zeitreihe)) - 1,
+          nchar(as.character(Zeitreihe)))
+        ),
+      Monat_ch = fct_recode(substr(Zeitreihe, 1, 3))
     ) |>
     left_join(months) |>
     mutate(
       Monat = paste0(Jahr, "-", Monat, "-01")
     ) |>
-    select(Monat, Kollektivvertrag, `Soziale Stellung`, Tariflohnindex) 
-  temp$series <- od_series[i,3] |> pull()
+    select(Monat, Kollektivvertrag, `Soziale Stellung`, Tariflohnindex)
+  temp$series <- od_series[i, 3] |> pull()
   TLI_KV <- rbind(TLI_KV, temp)
 }
+
+temp |>
+  select(Kollektivvertrag, `Soziale Stellung`, series) |>
+  distinct() -> distincts
 
 distinct_2016 <- TLI_KV |>
   filter(series == "Tariflohnindex nach KV 2016") |>
@@ -106,7 +116,10 @@ FOO2010_2015 <- read_csv("FOO2010-2015.csv")
 TLI_KV <- TLI_KV |>
   filter(Kollektivvertrag %in% KV_names$`Tariflohnindex nach KV 2006` | series == "Tariflohnindex nach KV 2016") |>
   filter(Kollektivvertrag %in% KV_names$`Tariflohnindex nach KV 2016` | series == "Tariflohnindex nach KV 2006") |>
-  left_join(KV_names, by = c("Kollektivvertrag" = "Tariflohnindex nach KV 2006")) |>
+  left_join(
+    KV_names,
+    by = c("Kollektivvertrag" = "Tariflohnindex nach KV 2006")
+    ) |>
   mutate(Kollektivvertrag = ifelse(
     series == "Tariflohnindex nach KV 2006",
     `Tariflohnindex nach KV 2016`,
@@ -142,10 +155,10 @@ od_series <- names |>
 TLI_WKO <- NULL
 
 months <- as.tibble(months)
-names(months) <- c("Monat","Monat_ch")
+names(months) <- c("Monat", "Monat_ch")
 
 for (i in 1:nrow(od_series)) {
-  temp <- od_table(od_series[i,1] |> pull())
+  temp <- od_table(od_series[i, 1] |> pull())
   temp <- temp$tabulate()
   names(temp)[4] <- "Tariflohnindex"
   names(temp)[1] <- "Sparte"
@@ -153,17 +166,41 @@ for (i in 1:nrow(od_series)) {
     filter(nchar(as.character(Zeitreihe))!=4) |>
     mutate(
       Zeitreihe = str_replace(as.character(Zeitreihe), fixed(" (prel.)"), ""),
-      Jahr = paste0("20", substr(Zeitreihe, nchar(as.character(Zeitreihe))-1, nchar(as.character(Zeitreihe)))),
+      Jahr = paste0(
+        "20",
+        substr(
+          Zeitreihe, nchar(as.character(Zeitreihe)) - 1,
+          nchar(as.character(Zeitreihe))
+          )
+        ),
       Monat_ch = fct_recode(substr(Zeitreihe, 1,3))
     ) |>
     left_join(months) |>
     mutate(
       Monat = paste0(Jahr, "-", Monat, "-01")
     ) |>
-    select(Monat, Sparte, `Soziale Stellung`, Tariflohnindex) 
-  temp$series <- od_series[i,3] |> pull()
-  TLI_WKO <- rbind(TLI_WKO, temp |> filter(`Soziale Stellung` == "Insgesamt"))
+    select(Monat, Sparte, `Soziale Stellung`, Tariflohnindex)
+  temp$series <- od_series[i, 3] |> pull()
+  TLI_WKO <- rbind(
+    TLI_WKO,
+    temp |>
+      filter(`Soziale Stellung` == "Insgesamt")
+    )
+    #   filter(
+    #     `Soziale Stellung` == "Insgesamt" | 
+    #     (`Soziale Stellung` %in% c("Insgesamt", "Angestellte", "Arbeiter, Arbeiterinnen", "Öffentlich Bedienstete") & Sparte == "Insgesamt")
+    #   ) |>
+    #   mutate(Sparte = ifelse(
+    #     `Soziale Stellung` %in% c("Angestellte", "Arbeiter, Arbeiterinnen", "Öffentlich Bedienstete"),
+    #     paste(Sparte, `Soziale Stellung`, sep = " - "),
+    #     Sparte
+    #   ))
+    # )
 }
+
+temp |>
+  select(Sparte, `Soziale Stellung`, series) |>
+  distinct() -> distincts
 
 distinct_2016 <- TLI_WKO |>
   filter(series == "Tariflohnindex nach WKO 2016") |>
@@ -221,10 +258,10 @@ od_series <- names |>
 TLI_GRU <- NULL
 
 months <- as.tibble(months)
-names(months) <- c("Monat","Monat_ch")
+names(months) <- c("Monat", "Monat_ch")
 
 for (i in 1:nrow(od_series)) {
-  temp <- od_table(od_series[i,1] |> pull())
+  temp <- od_table(od_series[i, 1] |> pull())
   temp <- temp$tabulate()
   names(temp)[4] <- "Tariflohnindex"
   names(temp)[1] <- "Sparte"
@@ -232,17 +269,27 @@ for (i in 1:nrow(od_series)) {
     filter(nchar(as.character(Zeitreihe))!=4) |>
     mutate(
       Zeitreihe = str_replace(as.character(Zeitreihe), fixed(" (prel.)"), ""),
-      Jahr = paste0("20", substr(Zeitreihe, nchar(as.character(Zeitreihe))-1, nchar(as.character(Zeitreihe)))),
-      Monat_ch = fct_recode(substr(Zeitreihe, 1,3))
+      Jahr = paste0(
+        "20",
+        substr(
+          Zeitreihe,
+          nchar(as.character(Zeitreihe)) - 1,
+          nchar(as.character(Zeitreihe)))
+        ),
+      Monat_ch = fct_recode(substr(Zeitreihe, 1, 3))
     ) |>
     left_join(months) |>
     mutate(
       Monat = paste0(Jahr, "-", Monat, "-01")
     ) |>
     select(Monat, Sparte, `Soziale Stellung`, Tariflohnindex) 
-  temp$series <- od_series[i,3] |> pull()
+  temp$series <- od_series[i, 3] |> pull()
   TLI_GRU <- rbind(TLI_GRU, temp |> filter(`Soziale Stellung` == "Insgesamt"))
 }
+
+temp |>
+  select(Sparte, `Soziale Stellung`, series) |>
+  distinct() -> distincts
 
 distinct_2016 <- TLI_GRU |>
   filter(series == "Tariflohnindex nach Gruppen 2016") |>
@@ -465,7 +512,7 @@ VPI <- VPI |>
   arrange(Monat)
 
 test <- VPI |> filter(Produktgruppe == "Gesamtindex")
- 
+
 temp <- od_table("OGD_vpi20_VPI_2020_1")
 temp <- temp$tabulate()
 
@@ -494,7 +541,6 @@ PROD <- PROD |>
     # "Energieversorgung" = "Energy <E>",
     "Bau" = "Construction <F>",
   ))
-  
 
 VPI <- VPI |>
   filter(Monat > "2009-12-01") |>
@@ -530,56 +576,3 @@ write_csv(TLI, "K:/Github/tariflohnmonitor/TLI.csv")
 
 
 # TEST -------------------------------------------------------------------------
-
-# library(writexl)
-
-# checkPROD <- PROD |> 
-#   select(-series) |>
-#   filter(Einheit == "Produktivitätsindex je geleisteter Arbeitsstunde") |>
-#   spread(key = "Sektor", value = "Produktivitätsindex") 
-  
-# write_xlsx(checkPROD, "check.xlsx")
-
-# LYDIA ------------------------------------------------------------------------
-
-# pathBase <- "//HFUSR/Nabu/Bereiche/FB2/Daten/Einkommen/Tariflohnindex/"
-
-# tableToWifoStyle(
-#   data = TLI |> 
-#     spread(key = "Monat", value = "Tariflohnindex") |> 
-#     data.table(),
-#   filePath = paste0(
-#     pathBase, 
-#     "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_wide.xlsx"
-#     )
-# )
-
-# tableToWifoStyle(
-#   data = TLI_GRU |> 
-#     spread(key = "Monat", value = "Tariflohnindex") |> 
-#     data.table(),
-#   filePath = paste0(
-#     pathBase, 
-#     "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_GRU.xlsx"
-#   )
-# )
-
-# tableToWifoStyle(
-#   data = TLI_KV |> 
-#     spread(key = "Monat", value = "Tariflohnindex") |> 
-#     data.table(),
-#   filePath = paste0(
-#     pathBase, 
-#     "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_KV.xlsx"
-#   )
-# )
-
-# tableToWifoStyle(
-#   data = TLI_WKO |> 
-#     spread(key = "Monat", value = "Tariflohnindex") |> 
-#     data.table(),
-#   filePath = paste0(
-#     pathBase, 
-#     "AKTUELLSTE DATEN TLI Updates/Aktuell_Verkettet/STATcube API/TLI_WKO.xlsx"
-#   )
-# )
