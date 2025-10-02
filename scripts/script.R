@@ -343,18 +343,18 @@ TLI <- TLI_WKO |>
 
 # PROD --------------------------------------------------------------------
 
-l = od_list()
+l <- od_list()
 
 check_new <- l |> filter(str_detect(id ,"OGD_prod")) |> filter(startsWith(label, "Produkt"))
 
-od_series <- names |> 
+od_series <- names |>
   filter(
     series %in% c(
-      "Produktivitätsindex 2010", 
+      "Produktivitätsindex 2010",
       "Produktivitätsindex 2015",
       "Produktivitätsindex 2021"
-      )
     )
+  )
 
 PROD <- NULL
 
@@ -434,26 +434,26 @@ PVGR <- PVGR |>
   ) |>
   select(
     Monat, 
-    `Produktivitätsindex je unselbstständig Beschäftigten`, 
-    `Produktivitätsindex je geleisteter Arbeitsstunde`, 
+    `Produktivitätsindex je unselbstständig Beschäftigten`,
+    `Produktivitätsindex je geleisteter Arbeitsstunde`,
     series
     ) |>
   arrange(Monat) |>
   fill(2:4, .direction = c("down")) |>
   gather(value = "Produktivitätsindex", key = "Einheit", 2:3) |>
-  mutate(Sektor = "Gesamt (VGR-Daten; Alle Sektoren)") 
+  mutate(Sektor = "Gesamt (VGR-Daten; Alle Sektoren)")
 
 PROD <- PROD |>
   select(-adj_factor_2015, -adj_factor_2021) |>
-  add_row(PVGR) 
+  add_row(PVGR)
 
 
 # INFL -------------------------------------------------------------------------
 
-wds_series <- names |> 
+wds_series <- names |>
   filter(series %in% c(
-    "VPI2010 Obergruppen", 
-    "VPI2015 Obergruppen", 
+    "VPI2010 Obergruppen",
+    "VPI2015 Obergruppen",
     "VPI2020 Obergruppen"
     ))
 
