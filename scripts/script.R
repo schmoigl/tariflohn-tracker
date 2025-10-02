@@ -47,8 +47,8 @@ wds_series <- names |>
 TLI <- NULL
 
 for (i in 1:nrow(wds_series)) {
-  temp <- wdGetWdsData(wds_series[i,1], db = "wds")
-  temp$Sparte <- wds_series[i,2]
+  temp <- wdGetWdsData(wds_series[i, 1], db = "wds")
+  temp$Sparte <- wds_series[i, 2]
   names(temp) <- c("Monat", "Tariflohnindex", "Sparte")
   TLI <- rbind(TLI, temp)
 }
@@ -119,15 +119,15 @@ TLI_KV <- TLI_KV |>
   left_join(
     KV_names,
     by = c("Kollektivvertrag" = "Tariflohnindex nach KV 2006")
-    ) |>
+  ) |>
   mutate(Kollektivvertrag = ifelse(
     series == "Tariflohnindex nach KV 2006",
     `Tariflohnindex nach KV 2016`,
     Kollektivvertrag
-    )) |>
+  )) |>
   group_by(Monat, Kollektivvertrag, series) |>
   summarize(Tariflohnindex = mean(Tariflohnindex))
-  
+
 adj_factor <- TLI_KV |>
   filter(startsWith(as.character(Monat), "2016")) |> 
   filter(series == "Tariflohnindex nach KV 2006") |>
@@ -163,7 +163,7 @@ for (i in 1:nrow(od_series)) {
   names(temp)[4] <- "Tariflohnindex"
   names(temp)[1] <- "Sparte"
   temp <- temp |>
-    filter(nchar(as.character(Zeitreihe))!=4) |>
+    filter(nchar(as.character(Zeitreihe)) != 4) |>
     mutate(
       Zeitreihe = str_replace(as.character(Zeitreihe), fixed(" (prel.)"), ""),
       Jahr = paste0(
@@ -171,8 +171,8 @@ for (i in 1:nrow(od_series)) {
         substr(
           Zeitreihe, nchar(as.character(Zeitreihe)) - 1,
           nchar(as.character(Zeitreihe))
-          )
-        ),
+        )
+      ),
       Monat_ch = fct_recode(substr(Zeitreihe, 1,3))
     ) |>
     left_join(months) |>
@@ -185,7 +185,7 @@ for (i in 1:nrow(od_series)) {
     TLI_WKO,
     temp |>
       filter(`Soziale Stellung` == "Insgesamt")
-    )
+  )
     #   filter(
     #     `Soziale Stellung` == "Insgesamt" | 
     #     (`Soziale Stellung` %in% c("Insgesamt", "Angestellte", "Arbeiter, Arbeiterinnen", "Öffentlich Bedienstete") & Sparte == "Insgesamt")
@@ -215,7 +215,7 @@ distinct_2006 <- TLI_WKO |>
 # write_excel_csv(distinct_2006, "WKO_raw_2006.csv")
 # write_excel_csv(distinct_2016, "WKO_raw_2016.csv")
 
-WKO_names <- read_excel("KV_names.xlsx", sheet = "WKO_names", trim_ws = F)
+WKO_names <- read_excel("KV_names.xlsx", sheet = "WKO_names", trim_ws = FALSE)
 
 TLI_WKO <- TLI_WKO |>
   filter(Sparte %in% WKO_names$`Tariflohnindex nach WKO 2006` | series == "Tariflohnindex nach WKO 2016") |>
@@ -247,8 +247,6 @@ TLI_WKO <- TLI_WKO |>
   mutate(Sparte = Sparte) |>
   ungroup() |>
   select(-series, -adj_factor)
-
-# test <- TLI_WKO |> group_by(Sparte) |> count()
 
 
 # TLÖFF ------------------------------------------------------------------------
@@ -337,9 +335,6 @@ TLI <- TLI_WKO |>
   add_row(TLI_KV) |>
   add_row(TLI_GRU)
 
-# test <- TLI |> group_by(Sparte) |> count()
-
-
 
 # PROD --------------------------------------------------------------------
 
@@ -359,12 +354,12 @@ od_series <- names |>
 PROD <- NULL
 
 for (i in 1:nrow(od_series)) {
-  temp <- od_table(od_series[i,1] |> pull())
+  temp <- od_table(od_series[i, 1] |> pull())
   temp <- temp$tabulate()
   temp <- gather(temp, "Sektor", "Produktivitätsindex", 2:ncol(temp))
   names(temp) <- c("Monat", "Sektor", "Produktivitätsindex")
-  temp$Einheit <- od_series[i,2] |> pull()
-  temp$series <- od_series[i,3] |> pull()
+  temp$Einheit <- od_series[i, 2] |> pull()
+  temp$series <- od_series[i, 3] |> pull()
   PROD <- rbind(PROD, temp)
 }
 
@@ -412,12 +407,12 @@ PROD <- PROD |>
 
 # PVGR -------------------------------------------------------------------------
 
-wds_series <- names |> 
+wds_series <- names |>
   filter(series %in% c("Produktivitätsindex VGR"))
 PVGR <- NULL
 
 for (i in 1:nrow(wds_series)) {
-  temp <- wdGetWdsData(wds_series[i,1], db = "wds")
+  temp <- wdGetWdsData(wds_series[i, 1], db = "wds")
   temp$Sparte <- wds_series[i,2]
   names(temp) <- c("Monat", "Produktivitätsindex", "Indikator")
   temp$series <- wds_series[i,3] |> pull()
@@ -433,11 +428,11 @@ PVGR <- PVGR |>
     `Produktivitätsindex je geleisteter Arbeitsstunde` = `Bruttoinlandsprodukt, real - unbereinigt` / `Arbeitszeitvolumen Erwerbstätige Insgesamt - unbereinigt`
   ) |>
   select(
-    Monat, 
+    Monat,
     `Produktivitätsindex je unselbstständig Beschäftigten`,
     `Produktivitätsindex je geleisteter Arbeitsstunde`,
     series
-    ) |>
+  ) |>
   arrange(Monat) |>
   fill(2:4, .direction = c("down")) |>
   gather(value = "Produktivitätsindex", key = "Einheit", 2:3) |>
@@ -460,17 +455,17 @@ wds_series <- names |>
 VPI <- NULL
 
 for (i in 1:nrow(wds_series)) {
-  temp <- wdGetWdsData(wds_series[i,1], db = "wds")
-  temp$Sparte <- wds_series[i,2]
+  temp <- wdGetWdsData(wds_series[i, 1], db = "wds")
+  temp$Sparte <- wds_series[i, 2]
   names(temp) <- c("Monat", "Verbraucherpreisindex", "Produktgruppe")
-  temp$series <- wds_series[i,3] |> pull()
+  temp$series <- wds_series[i, 3] |> pull()
   VPI <- rbind(VPI, temp)
 }
 
-VPI <- VPI |> 
+VPI <- VPI |>
   mutate(Produktgruppe = str_replace(Produktgruppe, "VPI 2010 - ", "")) |>
   mutate(Produktgruppe = str_replace(Produktgruppe, "VPI 2015 - ", "")) |>
-  mutate(Produktgruppe = str_replace(Produktgruppe, "VPI 2020 - ", "")) 
+  mutate(Produktgruppe = str_replace(Produktgruppe, "VPI 2020 - ", ""))
 
 adj_factor <- VPI |>
   filter(startsWith(as.character(Monat), "2021-01-01")) |> # 2016
@@ -494,7 +489,7 @@ VPI <- VPI |>
 adj_factor <- VPI |>
   filter(startsWith(as.character(Monat), "2016-01-01")) |> # 2016
   spread(key = series, value = Verbraucherpreisindex) |>
-  mutate(adj_factor = `VPI2015 Obergruppen`/`VPI2010 Obergruppen`) |>
+  mutate(adj_factor = `VPI2015 Obergruppen` / `VPI2010 Obergruppen`) |>
   group_by(Produktgruppe) |>
   summarize(adj_factor = mean(adj_factor))
 
@@ -547,25 +542,20 @@ VPI <- VPI |>
   mutate(Produktgruppe = fct_recode(
     Produktgruppe,
     "Gesamt" = "Gesamtindex"
-  )) 
-
-# test <- VPI |> group_by(Monat, Produktgruppe) |> count()
-# test <- VPI |> group_by(Monat, Produktgruppe)
+  ))
 
 TLI <- TLI |>
   filter(Monat > "2009-12-01") |>
   mutate(Sparte = factor(
     Sparte,
     levels = unique(c(
-      WKO_names$`Tariflohnindex nach WKO 2016`, 
+      WKO_names$`Tariflohnindex nach WKO 2016`,
       KV_names$`Tariflohnindex nach KV 2016`,
       as.character(TLI_GRU$Sparte)
     ))
   )) |>
   drop_na() |>
   arrange(Sparte)
-
-# test <- TLI |> filter(Sparte == "Gesamt")
 
 
 # SAVE -------------------------------------------------------------------------
