@@ -157,6 +157,13 @@ TLI_WKO <- NULL
 months <- as.tibble(months)
 names(months) <- c("Monat", "Monat_ch")
 
+# checks
+# temp <- od_table(od_series[i, 1] |> pull())
+# temp <- temp$tabulate()
+# names(temp)[4] <- "Tariflohnindex"
+# names(temp)[1] <- "Sparte"
+# check <- temp |> filter(Sparte == "Fachverband Druck")
+
 for (i in 1:nrow(od_series)) {
   temp <- od_table(od_series[i, 1] |> pull())
   temp <- temp$tabulate()
