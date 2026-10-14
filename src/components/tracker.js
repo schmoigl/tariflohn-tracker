@@ -551,7 +551,7 @@ const footnotes = [
   "*** Gleitender Mittelwert über 48 Monate um langfristiges Produktivitätswachstum widerzuspiegeln.",
   "Tariflohnindex: Basis 2006 und 2016 verkettet",
   "Produktivitätsindex: Basis 2010, 2015 und 2020 verkettet",
-  "Verbraucherpreisindex: Basis 2010, 2015 und 2020 verkettet"
+  "Verbraucherpreisindex: Gesamtindex Basis 2010, 2015 und 2020 verkettet, Gruppen VPI 2005 (COICOP 2018)"
 ];
 
 function makeLogo(logoUrl) {
@@ -707,16 +707,23 @@ export function trackerInputs({TLI, VPI, PROD}) {
 export function trackerState({TLI, VPI, PROD, Sparte, checkboxes, Glättung, Methode, Index, Zeit, Einheit, Sektor, Produktgruppe}) {
   const merged = mergeData({VPI, TLI, PROD, Produktgruppe, Sparte, Sektor, Einheit});
   const months = merged.map((d) => d.Monat);
+  // Zeit counts months from the first VPI month of any group (the slider's start, see trackerInputs);
+  // VPI groups cover different periods, so translate the selected months into rows of this group.
+  const allMonths = [...new Set(VPI.map((d) => d.Monat))].sort();
+  const [from, to] = Zeit.map((i) => allMonths[i]);
+  const first = Math.max(0, months.findIndex((m) => m >= from));
+  const last = months.findLastIndex((m) => m <= to);
+  const rows = [first, last];
   const smooth = Glättung.includes("gleitende Mittelwerte");
   return {
-    viz: vizData({merged, smooth, Zeit, Methode}),
+    viz: vizData({merged, smooth, Zeit: rows, Methode}),
     selected: checkboxes,
     Index,
     Methode,
     smooth,
-    startIndexDate: formatDate(parseDate(months[Zeit[0]])),
-    endIndexDate: formatDate(parseDate(months[Zeit[0] + 11])),
-    period: [months[Zeit[0]], months[Zeit[1]]].map((m) => formatDate(parseDate(m))),
+    startIndexDate: formatDate(parseDate(months[first])),
+    endIndexDate: formatDate(parseDate(months[first + 11])),
+    period: [months[first], months[last]].map((m) => formatDate(parseDate(m))),
     maxPROD: d3.max(PROD, (d) => d.Monat),
     selection: {Sparte, Sektor, Einheit, Produktgruppe}
   };

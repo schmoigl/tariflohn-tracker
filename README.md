@@ -27,7 +27,8 @@ The site is an [Observable Framework](https://observablehq.com/framework/) app. 
 | File | Series | Base |
 |---|---|---|
 | `TLI.csv` | Tariflohnindex: total, WKO classification, collective agreements, groups | 2006 = 100 (2006 and 2016 series chained) |
-| `VPI.csv` | Consumer price index, total and main groups | 2020 = 100 (2010, 2015, 2020 chained) |
+| `VPI.csv` | Consumer price index: total | 2020 = 100 (2010, 2015, 2020 chained) |
+| | 13 COICOP 2018 main groups and actual rents (`Wohnungsmieten`) | 2005 = 100 (Statistik Austria's VPI 2005 in COICOP 2018, kept up to date by Statistik Austria) |
 | `PROD.csv` | Productivity per hour worked / per employee, production sectors and total economy | 2010 = 100 (2010, 2015, 2021 chained) |
 
 The VGR-based total-economy rows in `PROD.csv` (`Gesamt (VGR-Daten; Alle Sektoren)`) are GDP per employee/hour levels, not an index. The app rebases every series to the selected base period, so this does not affect the charts.

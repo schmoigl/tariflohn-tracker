@@ -452,12 +452,14 @@ PROD <- PROD |>
 
 # INFL -------------------------------------------------------------------------
 
+# Gesamtindex from WDS (VPI 2010, 2015 and 2020 chained below); the groups follow further down.
 wds_series <- names |>
   filter(series %in% c(
     "VPI2010 Obergruppen",
     "VPI2015 Obergruppen",
     "VPI2020 Obergruppen"
-    ))
+    )) |>
+  filter(str_detect(names, "Gesamtindex"))
 
 VPI <- NULL
 
@@ -517,6 +519,48 @@ test <- VPI |> filter(Produktgruppe == "Gesamtindex")
 
 temp <- od_table("OGD_vpi20_VPI_2020_1")
 temp <- temp$tabulate()
+
+# Groups: since the VPI 2025 (COICOP 2018) the VPI 2020 groups in WDS end in December 2025.
+# Statistik Austria keeps the VPI 2005 in COICOP 2018 up to date, so it serves as one officially
+# chained series (2005 = 100) for the 13 COICOP 2018 main groups and actual rents.
+vpi_groups <- tribble(
+  ~code, ~Produktgruppe,
+  "01",  "Nahrungsmittel und alkoholfreie Getränke",
+  "02",  "Alkoholische Getränke, Tabakwaren und Drogen",
+  "03",  "Bekleidung und Schuhe",
+  "04",  "Wohnung, Wasser, Strom, Gas und andere Brennstoffe",
+  "041", "Wohnungsmieten",
+  "05",  "Einrichtungsgegenstände, Hausrat und deren Instandhaltung",
+  "06",  "Gesundheit",
+  "07",  "Verkehr",
+  "08",  "Information und Kommunikation",
+  "09",  "Freizeit, Sport und Kultur",
+  "10",  "Bildung",
+  "11",  "Gastronomie und Beherbergung",
+  "12",  "Versicherungs- und Finanzdienstleistungen",
+  "13",  "Andere Waren und Dienstleistungen"
+)
+
+temp <- od_table("OGD_vpi05c18_VPI_2005COICOP18_1", language = "de")$tabulate()
+names(temp)[1:3] <- c("Zeitreihe", "Coicop", "Verbraucherpreisindex")
+
+VPI_groups <- temp |>
+  mutate(
+    Zeitreihe = as.character(Zeitreihe), # e.g. "Jän.06", "Aug.26 (vorl.)"
+    code = word(as.character(Coicop), 1),
+    Monat_ch = substr(Zeitreihe, 1, 3),
+    Jahr = paste0("20", substr(Zeitreihe, 5, 6))
+  ) |>
+  filter(Monat_ch != "Jah") |> # annual averages
+  inner_join(vpi_groups, by = "code") |>
+  left_join(months, by = "Monat_ch") |>
+  mutate(Monat = as.Date(paste0(Jahr, "-", Monat, "-01"))) |>
+  arrange(Monat, match(code, vpi_groups$code)) |> # dropdown order as in vpi_groups
+  select(Monat, Verbraucherpreisindex, Produktgruppe)
+
+VPI <- VPI |>
+  bind_rows(VPI_groups) |>
+  arrange(Monat)
 
 
 
