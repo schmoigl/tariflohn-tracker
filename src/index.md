@@ -3,7 +3,7 @@ title: Tariflohn-Tracker
 ---
 
 ```js
-import {trackerInputs, trackerChart, scenarioChart} from "./components/tracker.js";
+import {trackerInputs, trackerState, trackerChart, downloadButton, scenarioChart} from "./components/tracker.js";
 
 const TLI = FileAttachment("data/TLI.csv").csv();
 const VPI = FileAttachment("data/VPI.csv").csv();
@@ -24,12 +24,16 @@ const Sektor = Generators.input(inputs.Sektor);
 const Produktgruppe = Generators.input(inputs.Produktgruppe);
 ```
 
+```js
+const tracker = trackerState({TLI, VPI, PROD, Sparte, checkboxes, Glättung, Methode, Index, Zeit, Einheit, Sektor, Produktgruppe});
+```
+
 <div class="page-header">
   <a class="lang-toggle" href="./en/" aria-label="Switch to English"><span class="active">DE</span><span>EN</span></a>
   <a class="logo" href="https://www.wifo.ac.at/"><img src="./assets/logo-100.svg" alt="WIFO"></a>
 </div>
 
-# Tariflohn-Tracker
+<h1>Tariflohn-Tracker</h1>
 
 Der interaktive Tariflohntracker des WIFO ermöglicht den Vergleich von Produktivität, Tariflöhnen und Verbraucherpreisen. Dabei bietet das explorative Tool eine Vielzahl von Einstellungsmöglichkeiten. Zum einen können neben der Entwicklung der Tariflöhne insgesamt auch Branchen und ausgewählte Kollektivverträge einzeln betrachtet werden.
 
@@ -45,10 +49,11 @@ Darüber hinaus lässt sich unter "Indexbasis" bestimmen, ob die Durchschnittswe
 <div class="inner-div">${inputs.Methode}</div>
 <div class="inner-div">${inputs.Index}</div>
 <div class="inner-div">${inputs.Zeit}</div>
-<div class="inner-div">${trackerChart({TLI, VPI, PROD, Sparte, checkboxes, Glättung, Methode, Index, Zeit, Einheit, Sektor, Produktgruppe, logoUrl})}</div>
+<div class="inner-div">${trackerChart(tracker, logoUrl)}</div>
 <div class="inner-div">${inputs.Einheit}</div>
 <div class="inner-div">${inputs.Sektor}</div>
 <div class="inner-div">${inputs.Produktgruppe}</div>
+<div class="inner-div download">${downloadButton(tracker)}</div>
 
 Das unten abgebildete Szenario "Metaller-Verhandlungen" zeigt beispielhaft die Entwicklung des Tariflohnindex (TLI), des Verbraucherpreisindex (VPI), der laufenden Reallöhne und die Komponenten der Benya-Formel für die beiden letzten Kollektivvertragsabschlüsse jeweils im November der Jahre 2021 und 2022.
 

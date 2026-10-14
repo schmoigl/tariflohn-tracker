@@ -8,6 +8,7 @@ import {Handler} from "npm:vega-tooltip@0.30.0";
 import * as d3 from "npm:d3";
 import * as Inputs from "npm:@observablehq/inputs";
 import {html} from "npm:htl";
+import writeXlsxFile from "npm:write-excel-file@4/browser";
 
 const op = aq.op;
 
@@ -20,7 +21,6 @@ export const vl = vegaLiteApi.register(vega, vegalite, {
   },
   init: (view) => {
     view.tooltip(new Handler().call);
-    if (view.container()) view.container().style["overflow-x"] = "auto";
   },
   view: {renderer: "canvas"}
 });
@@ -74,7 +74,7 @@ export function makeConfig({font = "FFDaxPro", time = germanTime} = {}) {
     facet: {spacing: 5},
     concat: {spacing: 25},
     font,
-    title: {fontSize: 14, subtitleFontSize: 13},
+    title: {fontSize: 14, subtitleFontSize: 13, subtitlePadding: 6},
     axis: {labelFontSize: 12, titleFontSize: 12, titleFontWeight: "normal"},
     legend: {labelFontSize: 12, titleFontSize: 12, titleFontWeight: "normal"},
     mark: {fontSize: 12},
@@ -88,17 +88,20 @@ export function makeConfig({font = "FFDaxPro", time = germanTime} = {}) {
 
 // --- Inputs ------------------------------------------------------------------
 
-// <select> with <optgroup>s (port of @zzzev/grouped-dropdown-input).
-export function groupedSelect({groups, value}) {
-  const select = html`<select name="input">${groups.map(
-    ({label, options, disabled}) => html`<optgroup label=${label} disabled=${!!disabled}>${options.map(
-      (o) => html`<option value=${o} selected=${o === value}>${o}`
-    )}`
-  )}</select>`;
-  const form = html`<form>${select}</form>`;
-  Object.defineProperty(form, "value", {get: () => select.value});
-  form.onsubmit = (e) => e.preventDefault();
-  return form;
+// Inputs.select whose options are grouped into <optgroup>s (replaces @zzzev/grouped-dropdown-input).
+// `groups` are consecutive slices of `options`, so the option order Inputs.select relies on is kept.
+function groupedSelect(options, groups, {label}) {
+  const input = Inputs.select(options, {label});
+  const select = input.querySelector("select");
+  const optionElements = [...select.options];
+  let start = 0;
+  for (const {label, size} of groups) {
+    const optgroup = html`<optgroup label=${label}>`;
+    optgroup.append(...optionElements.slice(start, start + size));
+    select.append(optgroup);
+    start += size;
+  }
+  return input;
 }
 
 // Two-thumb range slider (port of @mootari/range-slider, theme "Flat").
@@ -111,7 +114,7 @@ const themeFlat = `
 }
 :scope .range-track {
   box-sizing: border-box; position: relative; height: 7px; background-color: hsl(0, 0%, 80%);
-  overflow: visible; border-radius: 4px; padding: 0 var(--thumb-radius);
+  overflow: visible; padding: 0 var(--thumb-radius);
 }
 :scope .range-track-zone { box-sizing: border-box; position: relative; }
 :scope .range-select {
@@ -126,7 +129,7 @@ const themeFlat = `
 :scope .range-select:focus, :scope .thumb:focus { outline: none; }
 :scope .thumb {
   box-sizing: border-box; position: absolute; width: var(--thumb-size); height: var(--thumb-size);
-  background: #fcfcfc; top: -4px; border-radius: 100%; border: 1px solid hsl(0,0%,55%);
+  background: #fcfcfc; top: -4px; border: 1px solid hsl(0,0%,55%);
   cursor: default; margin: 0;
 }
 :scope .thumb:active { box-shadow: inset 0 var(--thumb-size) #0002; }
@@ -134,13 +137,13 @@ const themeFlat = `
 :scope .thumb-max { right: calc(-1px - var(--thumb-radius)); }
 `;
 
-export function rangeSlider({min = 0, max = 1, step = "any", value: defaultValue = [min, max], color, format = (v) => v, separator = " … "}) {
+export function rangeSlider({min = 0, max = 1, step = "any", value: defaultValue = [min, max], color, label, format = (v) => v, separator = " … "}) {
   const scope = "scope-" + (performance.now() + Math.random()).toString(32).replace(".", "-");
   const clamp = (a, b, v) => (v < a ? a : v > b ? b : v);
   const sanitizer = html`<input type=range min=${min} max=${max} step=${step}>`;
   const controls = {};
 
-  const slider = html`<div class=${`${scope} range-slider`} style=${{color}}>
+  const slider = html`<div class=${`${scope} range-slider`} style=${{color, flex: "1 1 auto"}}>
   ${(controls.track = html`<div class="range-track">
     ${(controls.zone = html`<div class="range-track-zone">
       ${(controls.range = html`<div class="range-select" tabindex=0>
@@ -151,8 +154,11 @@ export function rangeSlider({min = 0, max = 1, step = "any", value: defaultValue
   `)}
   ${html`<style>${themeFlat.replace(/:scope\b/g, "." + scope)}`}
 </div>`;
-  const output = html`<output style="font: 14px Menlo, Consolas, monospace; margin-left: 0.5em; display: inline-block;">`;
-  const form = html`<form>${slider}${output}</form>`;
+  // Fixed width, so the slider keeps its length whatever month names are shown.
+  const output = html`<output style="flex: none; width: 150px; margin-left: 0.5em; white-space: nowrap;">`;
+  // Same layout as Observable Inputs (label column on the left), using its CSS classes.
+  const ns = Inputs.text().classList[0];
+  const form = html`<form class=${ns}>${label == null ? null : html`<label>${label}</label>`}<div class=${`${ns}-input`}>${slider}${output}</div></form>`;
   form.onsubmit = (e) => e.preventDefault();
 
   let value = [];
@@ -537,6 +543,17 @@ function makeReallohn(input, wide) {
   return vl.layer(area, lines, ruleAt(0).data(lineData));
 }
 
+// Source and footnotes below the main chart (also written to the xlsx download).
+const footnotes = [
+  "Q: Statistik Austria, Eigene Berechnungen",
+  "* Produktivitätsindex wird aufgrund starker Schwankungen immer als gleitender Mittelwert (12 Monate) dargestellt.",
+  "** Gleitender Mittelwert (12 Monate) um 3 Monate zeitverzögert um Stand bei Verhandlungen widerzuspiegeln.",
+  "*** Gleitender Mittelwert über 48 Monate um langfristiges Produktivitätswachstum widerzuspiegeln.",
+  "Tariflohnindex: Basis 2006 und 2016 verkettet",
+  "Produktivitätsindex: Basis 2010, 2015 und 2020 verkettet",
+  "Verbraucherpreisindex: Basis 2010, 2015 und 2020 verkettet"
+];
+
 function makeLogo(logoUrl) {
   const corners = [{y: 0, x: 0}, {y2: 1, x2: 1}];
   return vl.layer(
@@ -552,15 +569,7 @@ function makeLogo(logoUrl) {
       .encode(
         vl.x().fieldQ("x").axis(null),
         vl.y().fieldQ("y").axis(null),
-        vl.text().value([
-          "Q: Statistik Austria, Eigene Berechnungen",
-          "* Produktivitätsindex wird aufgrund starker Schwankungen immer als gleitender Mittelwert (12 Monate) dargestellt.",
-          "** Gleitender Mittelwert (12 Monate) um 3 Monate zeitverzögert um Stand bei Verhandlungen widerzuspiegeln.",
-          "*** Gleitender Mittelwert über 48 Monate um langfristiges Produktivitätswachstum widerzuspiegeln.",
-          "Tariflohnindex: Basis 2006 und 2016 verkettet",
-          "Produktivitätsindex: Basis 2010, 2015 und 2020 verkettet",
-          "Verbraucherpreisindex: Basis 2010, 2015 und 2020 verkettet"
-        ])
+        vl.text().value(footnotes)
       )
       .width(20)
       .height(20)
@@ -572,8 +581,8 @@ export function renderTracker({viz, selected, Index, Methode, startIndexDate, en
   const lines = vl
     .layer(makeLines({axisFormat: ",.0f", tipFormat: ",.1f", gridDash: null, textValue: "value2"}, selected), ruleAt(100))
     .data(indexData(viz, selected, maxPROD))
-    .width(wide ? 600 : 280)
-    .height(wide ? 300 : 220)
+    .width(wide ? 680 : 280)
+    .height(wide ? 320 : 220)
     .title({
       text: "Index",
       subtitle: Methode === "Basisjahr" ? "Durchschnitt " + startIndexDate + " bis " + endIndexDate + " = 100" : startIndexDate + " = 100",
@@ -584,16 +593,16 @@ export function renderTracker({viz, selected, Index, Methode, startIndexDate, en
   const changes = vl
     .layer(ruleAt(0), makeLines({axisFormat: "+,.0%", tipFormat: "+,.1%", gridDash: null, textValue: "value"}, selected))
     .data(changeData(viz, selected, maxPROD))
-    .width(wide ? 600 : 280)
-    .height(wide ? 300 : 220)
+    .width(wide ? 680 : 280)
+    .height(wide ? 320 : 220)
     .title({text: "Veränderung des Index", subtitle: "im Vergleich zum Vorjahresmonat", align: "left", anchor: "start"});
 
   const real = makeReallohn(
     {axisFormat: "+,.0%", variablesLine: ["Reallohnindex"], variablesArea: ["Tariflohnindex", "Verbraucherpreisindex"], inputData: flatIndexData(viz)},
     wide
   )
-    .width(wide ? 290 : 200)
-    .height(wide ? 190 : 120)
+    .width(wide ? 330 : 200)
+    .height(wide ? 200 : 120)
     .title({text: "Reallohnentwicklung", subtitle: "Tariflohn - Inflation", align: "left", anchor: "start"});
 
   const formel = makeFormel(
@@ -605,8 +614,8 @@ export function renderTracker({viz, selected, Index, Methode, startIndexDate, en
     },
     wide
   )
-    .width(wide ? 290 : 200)
-    .height(wide ? 190 : 120)
+    .width(wide ? 330 : 200)
+    .height(wide ? 200 : 120)
     .title({text: "Benya-Formel", subtitle: "Grundlage der Lohnforderungen", align: "left", anchor: "start"});
 
   const panels = (wide ? vl.hconcat(formel, real) : vl.vconcat(formel, real)).resolve({legend: {fill: "independent", color: "independent"}});
@@ -619,6 +628,24 @@ export function renderTracker({viz, selected, Index, Methode, startIndexDate, en
 
 // --- Page helpers --------------------------------------------------------------
 
+// Choice between a few options, shown as a row of buttons with the selected one highlighted
+// (styled via .button-radio in style.css). `options` is a list of [label, value] pairs.
+function buttonRadio(options, {label, value}) {
+  const input = Inputs.radio(new Map(options), {label, value});
+  input.classList.add("button-radio");
+  return input;
+}
+
+// Colors each checkbox like its series in the charts (drawn via CSS variables in style.css);
+// light colors get a dark check mark.
+function colorCheckboxes(input, palette) {
+  input.querySelectorAll("input[type=checkbox]").forEach((box, i) => {
+    box.style.setProperty("--box-color", palette[i]);
+    box.style.setProperty("--mark-color", d3.lab(palette[i]).l > 75 ? "#333" : "#fff");
+  });
+  return input;
+}
+
 // Controls of the main tracker, with the labels and defaults of the notebook.
 export function trackerInputs({TLI, VPI, PROD}) {
   const sparten = [...new Set(TLI.map((d) => d.Sparte))];
@@ -626,27 +653,32 @@ export function trackerInputs({TLI, VPI, PROD}) {
   const start = parseDate(months[0]);
   const end = parseDate(months[months.length - 1]);
   return {
-    Sparte: groupedSelect({
-      groups: [
-        {label: "Insgesamt", options: sparten.slice(0, 1)},
-        {label: "WKO-Systematik", options: sparten.slice(1, 72)},
-        {label: "Kollektivverträge", options: sparten.slice(72, 124)},
-        {label: "Gruppen", options: sparten.slice(124)}
-      ]
-    }),
-    checkboxes: Inputs.checkbox(indices, {label: "Index", value: ["Tariflohnindex", "Produktivitätsindex", "Verbraucherpreisindex"]}),
-    Glättung: Inputs.checkbox(["gleitende Mittelwerte"], {label: "Glättung*", value: ["gleitende Mittelwerte"]}),
-    Methode: Inputs.button(
+    Sparte: groupedSelect(
+      sparten,
       [
-        ["Ausgangsjahr", () => "Basisjahr"],
-        ["Ausgangsmonat", () => "Rollierend"]
+        {label: "Insgesamt", size: 1},
+        {label: "WKO-Systematik", size: 71},
+        {label: "Kollektivverträge", size: 52},
+        {label: "Gruppen", size: sparten.length - 124}
+      ],
+      {label: "Tariflohn"}
+    ),
+    checkboxes: colorCheckboxes(
+      Inputs.checkbox(indices, {label: "Index", value: ["Tariflohnindex", "Produktivitätsindex", "Verbraucherpreisindex"]}),
+      colors
+    ),
+    Glättung: colorCheckboxes(Inputs.checkbox(["gleitende Mittelwerte"], {label: "Glättung*", value: ["gleitende Mittelwerte"]}), ["#2d5b5e"]),
+    Methode: buttonRadio(
+      [
+        ["Ausgangsjahr", "Basisjahr"],
+        ["Ausgangsmonat", "Rollierend"]
       ],
       {label: "Indexbasis", value: "Basisjahr"}
     ),
-    Index: Inputs.button(
+    Index: buttonRadio(
       [
-        ["Indexwert", () => "Index"],
-        ["Veränderung", () => "Veränderung"]
+        ["Indexwert", "Index"],
+        ["Veränderung", "Veränderung"]
       ],
       {label: "Werte", value: "Index"}
     ),
@@ -656,35 +688,43 @@ export function trackerInputs({TLI, VPI, PROD}) {
       step: 1,
       format: (d) => formatDate(d3.timeMonth.offset(start, d)),
       separator: " → ",
-      color: "#2d5b5e"
+      color: "#2d5b5e",
+      label: "Zeitraum"
     }),
-    Einheit: Inputs.button(
+    Einheit: buttonRadio(
       [
-        ["Arbeitsstunde", () => "Produktivitätsindex je geleisteter Arbeitsstunde"],
-        ["ArbeitnehmerIn", () => "Produktivitätsindex je unselbstständig Beschäftigten"]
+        ["Arbeitsstunde", "Produktivitätsindex je geleisteter Arbeitsstunde"],
+        ["ArbeitnehmerIn", "Produktivitätsindex je unselbstständig Beschäftigten"]
       ],
       {label: "Produktivität pro", value: "Produktivitätsindex je geleisteter Arbeitsstunde"}
     ),
-    Sektor: Inputs.select(new Set(PROD.map((d) => d.Sektor)), {label: "Produktivitätsindex:", value: "Gesamt (VGR-Daten; Alle Sektoren)"}),
-    Produktgruppe: Inputs.select(new Set(VPI.map((d) => d.Produktgruppe)), {label: "Verbraucherpreisindex:", value: "Gesamt"})
+    Sektor: Inputs.select(new Set(PROD.map((d) => d.Sektor)), {label: "Produktivitätsindex", value: "Gesamt (VGR-Daten; Alle Sektoren)"}),
+    Produktgruppe: Inputs.select(new Set(VPI.map((d) => d.Produktgruppe)), {label: "Verbraucherpreisindex", value: "Gesamt"})
+  };
+}
+
+// Data and settings of the main tracker for the current selection; shared by the chart and the download.
+export function trackerState({TLI, VPI, PROD, Sparte, checkboxes, Glättung, Methode, Index, Zeit, Einheit, Sektor, Produktgruppe}) {
+  const merged = mergeData({VPI, TLI, PROD, Produktgruppe, Sparte, Sektor, Einheit});
+  const months = merged.map((d) => d.Monat);
+  const smooth = Glättung.includes("gleitende Mittelwerte");
+  return {
+    viz: vizData({merged, smooth, Zeit, Methode}),
+    selected: checkboxes,
+    Index,
+    Methode,
+    smooth,
+    startIndexDate: formatDate(parseDate(months[Zeit[0]])),
+    endIndexDate: formatDate(parseDate(months[Zeit[0] + 11])),
+    period: [months[Zeit[0]], months[Zeit[1]]].map((m) => formatDate(parseDate(m))),
+    maxPROD: d3.max(PROD, (d) => d.Monat),
+    selection: {Sparte, Sektor, Einheit, Produktgruppe}
   };
 }
 
 // Main tracker chart (notebook @wifo-viz/tarifloehne, cell "display").
-export function trackerChart({TLI, VPI, PROD, Sparte, checkboxes, Glättung, Methode, Index, Zeit, Einheit, Sektor, Produktgruppe, logoUrl}) {
-  const merged = mergeData({VPI, TLI, PROD, Produktgruppe, Sparte, Sektor, Einheit});
-  const months = merged.map((d) => d.Monat);
-  return renderTracker({
-    viz: vizData({merged, smooth: Glättung.includes("gleitende Mittelwerte"), Zeit, Methode}),
-    selected: checkboxes,
-    Index,
-    Methode,
-    startIndexDate: formatDate(parseDate(months[Zeit[0]])),
-    endIndexDate: formatDate(parseDate(months[Zeit[0] + 11])),
-    maxPROD: d3.max(PROD, (d) => d.Monat),
-    logoUrl,
-    config: makeConfig()
-  });
+export function trackerChart(state, logoUrl) {
+  return renderTracker({...state, logoUrl, config: makeConfig()});
 }
 
 // "Metaller-Verhandlungen" scenario (notebook d/662b7dbdbc98b5f9). The notebook selects rows 129–200,
@@ -711,4 +751,98 @@ export function scenarioChart({TLI, VPI, PROD, from = "2021-10-01"}) {
     endIndexDate: formatDate(parseDate(months[Zeit[0] + 12])),
     config: makeConfig({font: "Century Gothic", time: null})
   });
+}
+
+// --- Download ------------------------------------------------------------------
+
+const xlsxHeader = (value) => ({value, fontWeight: "bold"});
+const xlsxMonth = (month) => ({value: new Date(month), type: Date, format: "mmm yyyy"});
+const xlsxNumber = (value, format) => (value == null || Number.isNaN(value) ? null : {value, type: Number, format});
+
+// One row per month and one column per series, from folded {Monat, key, value} rows.
+function wideSheet(rows, columns, format, transform = (v) => v) {
+  const byMonth = d3.group(rows, (d) => d.Monat);
+  return [
+    [xlsxHeader("Monat"), ...columns.map(([, label]) => xlsxHeader(label))],
+    ...[...byMonth].map(([month, values]) => [
+      xlsxMonth(month),
+      ...columns.map(([key]) => xlsxNumber(transform(values.find((d) => d.key === key)?.value), format))
+    ])
+  ];
+}
+
+// The values shown in the three panels of the main tracker, plus the settings that produced them.
+function trackerSheets({viz, selected, Index, Methode, smooth, startIndexDate, endIndexDate, period, maxPROD, selection}) {
+  const series = indices.filter((key) => selected.includes(key)).map((key) => [key, key]);
+  const main =
+    Index === "Index"
+      ? {sheet: "Index", data: wideSheet(indexData(viz, selected, maxPROD).objects(), series, "0.0")}
+      : {sheet: "Veränderung ggü. Vorjahr", data: wideSheet(changeData(viz, selected, maxPROD).objects(), series, "0.0%")};
+  const base = Methode === "Basisjahr" ? `Durchschnitt ${startIndexDate} bis ${endIndexDate} = 100` : `${startIndexDate} = 100`;
+  const info = [
+    ["Tariflohn-Tracker", "WIFO, https://data-science.wifo.ac.at/tariflohntracker/"],
+    ["Tariflohnindex", selection.Sparte],
+    ["Verbraucherpreisindex", selection.Produktgruppe],
+    ["Produktivitätsindex", `${selection.Sektor}, ${selection.Einheit}`],
+    ["Zeitraum", `${period[0]} bis ${period[1]}`],
+    ["Indexbasis", base],
+    ["Glättung", smooth ? "gleitender Mittelwert (12 Monate)" : "keine"],
+    ["Blatt Index / Veränderung", Index === "Index" ? "Indexwerte" : "Veränderung gegenüber dem Vorjahresmonat"],
+    ["Blatt Benya-Formel", "Veränderung gegenüber dem Vorjahresmonat"],
+    ["Blatt Reallohnentwicklung", "Veränderung gegenüber der Indexbasis"],
+    ["Heruntergeladen", new Date().toLocaleDateString("de-AT")],
+    [],
+    ...footnotes.map((note) => [note])
+  ];
+  return [
+    {sheet: "Info", data: info.map((row) => (row.length === 2 ? [xlsxHeader(row[0]), row[1]] : row)), columns: [{width: 28}, {width: 60}]},
+    {...main, columns: [{width: 12}, ...series.map(() => ({width: 22}))], stickyRowsCount: 1},
+    {
+      sheet: "Benya-Formel",
+      data: wideSheet(
+        flatChangeData(viz).objects(),
+        [
+          ["Lohnerhöhung", "Lohnerhöhung"],
+          ["rollierendeInflation", "Rollierende Inflation**"],
+          ["langfristigesProduktivitätswachstum", "Produktivitätsgewinne***"]
+        ],
+        "0.0%"
+      ),
+      columns: [{width: 12}, {width: 22}, {width: 22}, {width: 22}],
+      stickyRowsCount: 1
+    },
+    {
+      sheet: "Reallohnentwicklung",
+      data: wideSheet(
+        flatIndexData(viz).objects(),
+        [
+          ["Tariflohnindex", "Tariflohnindex"],
+          ["Verbraucherpreisindex", "Verbraucherpreisindex"],
+          ["Reallohnindex", "Reallohnindex"]
+        ],
+        "0.0%",
+        (v) => (v == null ? v : (v - 100) / 100)
+      ),
+      columns: [{width: 12}, {width: 22}, {width: 22}, {width: 22}],
+      stickyRowsCount: 1
+    }
+  ];
+}
+
+// Button that downloads the currently displayed values of the main tracker as .xlsx.
+export function downloadButton(state, {label = "Ausgewählte Daten herunterladen"} = {}) {
+  const icon = html`<svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+    <path d="M6 1v7M3 5l3 3 3-3M1 10.5h10"/>
+  </svg>`;
+  const button = html`<button type="button" class="download-button" title="Excel-Datei (.xlsx)">${icon}${label}</button>`;
+  button.onclick = async () => {
+    button.disabled = true;
+    try {
+      const name = state.selection.Sparte.replace(/[^\p{L}\p{N}]+/gu, "-").replace(/^-|-$/g, "");
+      await writeXlsxFile(trackerSheets(state)).toFile(`Tariflohn-Tracker_${name}_${new Date().toISOString().slice(0, 10)}.xlsx`);
+    } finally {
+      button.disabled = false;
+    }
+  };
+  return button;
 }

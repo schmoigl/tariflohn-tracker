@@ -24,44 +24,17 @@
   max-width: none;
 }
 
-/* DE/EN toggle switch; the knob sits on the current language and the link leads to the other one. */
+/* DE/EN toggle switch; the current language is filled, the link leads to the other one. */
 .lang-toggle {
-  position: relative;
   display: inline-flex;
   padding: 2px;
   border: 1px solid #2d5b5e;
-  border-radius: 999px;
   font-size: 13px;
   text-decoration: none !important;
   user-select: none;
 }
 
-.lang-toggle::before {
-  content: "";
-  position: absolute;
-  top: 2px;
-  bottom: 2px;
-  left: 2px;
-  width: calc(50% - 2px);
-  border-radius: 999px;
-  background: #2d5b5e;
-  transition: transform 0.2s ease;
-}
-
-.lang-toggle.en::before {
-  transform: translateX(100%);
-}
-
-.lang-toggle:hover::before {
-  transform: translateX(15%);
-}
-
-.lang-toggle.en:hover::before {
-  transform: translateX(85%);
-}
-
 .lang-toggle span {
-  position: relative;
   width: 32px;
   line-height: 20px;
   text-align: center;
@@ -69,6 +42,7 @@
 }
 
 .lang-toggle span.active {
+  background: #2d5b5e;
   color: #fff;
 }
 
@@ -85,11 +59,24 @@
   height: 36px;
 }
 
+/* Controls and charts share one centered column, slightly wider than the Vega charts (795px), so they never scroll. */
 .inner-div {
+  width: 800px;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
-  max-width: 800px;
 }
+
+.inner-div form {
+  width: 100% !important;
+}
+
+/* Vertical spacing between the control rows. */
+#observablehq-main .inner-div form {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
 
 .footer {
   height: 400px;
@@ -124,11 +111,114 @@ button {
   margin: 0px 10px 0px 10px;
   padding: 2px 4px 2px 4px;
   border: 1px solid black;
-  border-radius: 2px;
+  border-radius: 0;
+}
+
+/* xlsx download below the main chart. */
+.download {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+button.download-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+  padding: 4px 10px;
+  border-color: #2d5b5e;
+  color: #2d5b5e;
+}
+
+button.download-button:hover:enabled {
+  background-color: #2d5b5e !important;
+  color: #fff;
+}
+
+button.download-button:disabled {
+  cursor: progress;
+  opacity: 0.6;
+}
+
+/* Dropdowns: white with a thin black box. */
+select {
+  background: #fff;
+  border: 1px solid black;
+  border-radius: 0;
+}
+
+select:focus-visible {
+  outline: 2px solid #559bd5;
+  outline-offset: 1px;
+}
+
+/* Square checkboxes in the series colors (set per box by colorCheckboxes in tracker.js). */
+form input[type=checkbox] {
+  appearance: none;
+  display: inline-grid;
+  place-content: center;
+  flex-shrink: 0;
+  width: 14px !important;
+  height: 14px;
+  margin: 0 6px 0 0;
+  border: 1px solid var(--box-color, #2d5b5e);
+  border-radius: 0;
+  background: #fff;
+  cursor: pointer;
+}
+
+form div > label:has(> input[type=checkbox]) {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2px;
+}
+
+form input[type=checkbox]:checked {
+  background: var(--box-color, #2d5b5e);
+}
+
+form input[type=checkbox]:checked::before {
+  content: "";
+  width: 9px;
+  height: 9px;
+  background: var(--mark-color, #fff);
+  clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+}
+
+form input[type=checkbox]:focus-visible {
+  outline: 2px solid #559bd5;
+  outline-offset: 1px;
+}
+
+/* Option groups rendered as buttons (buttonRadio in tracker.js); the selected one is filled. */
+form.button-radio div > label {
+  display: inline-block;
+  margin: 0 4px 0 0;
+  padding: 2px 4px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+form.button-radio input[type=radio] {
+  position: absolute;
+  width: 0 !important;
+  height: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+form.button-radio div > label:has(input:checked) {
+  background: #2d5b5e;
+  border-color: #2d5b5e;
+  color: #fff;
+}
+
+form.button-radio div > label:has(input:focus-visible) {
+  outline: 2px solid #559bd5;
+  outline-offset: 1px;
 }
 
 form {
-  width: 780px !important;
   --input-width: 900px !important;
   font-size: 13px;
   font-weight: normal !important;

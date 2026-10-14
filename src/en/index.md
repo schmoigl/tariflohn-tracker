@@ -3,7 +3,7 @@ title: Collective Wage Tracker
 ---
 
 ```js
-import {trackerInputs, trackerChart, scenarioChart} from "../components/tracker.js";
+import {trackerInputs, trackerState, trackerChart, downloadButton, scenarioChart} from "../components/tracker.js";
 
 const TLI = FileAttachment("../data/TLI.csv").csv();
 const VPI = FileAttachment("../data/VPI.csv").csv();
@@ -24,14 +24,18 @@ const Sektor = Generators.input(inputs.Sektor);
 const Produktgruppe = Generators.input(inputs.Produktgruppe);
 ```
 
+```js
+const tracker = trackerState({TLI, VPI, PROD, Sparte, checkboxes, Glättung, Methode, Index, Zeit, Einheit, Sektor, Produktgruppe});
+```
+
 <div class="page-header">
   <a class="lang-toggle en" href="../" aria-label="Zur deutschen Version wechseln"><span>DE</span><span class="active">EN</span></a>
   <a class="logo" href="https://www.wifo.ac.at/"><img src="../assets/logo-100.svg" alt="WIFO"></a>
 </div>
 
-# Collective Wage Tracker
+<h1>Collective Wage Tracker</h1>
 
-## The Interactive Tool To Understand Austrias Collective Bargaining
+<h2>The Interactive Tool To Understand Austrias Collective Bargaining</h2>
 
 In the run-up to the autumn wage round, WIFO's interactive wage tracker enables a comparison of productivity, collective wages and consumer prices. The explorative tool offers a variety of setting options. On the one hand, in addition to the development of collective wages as a whole, sectors and selected collective agreements can also be viewed individually.
 
@@ -47,10 +51,11 @@ Furthermore, under "Index base" it can be determined whether the average values 
 <div class="inner-div">${inputs.Methode}</div>
 <div class="inner-div">${inputs.Index}</div>
 <div class="inner-div">${inputs.Zeit}</div>
-<div class="inner-div">${trackerChart({TLI, VPI, PROD, Sparte, checkboxes, Glättung, Methode, Index, Zeit, Einheit, Sektor, Produktgruppe, logoUrl})}</div>
+<div class="inner-div">${trackerChart(tracker, logoUrl)}</div>
 <div class="inner-div">${inputs.Einheit}</div>
 <div class="inner-div">${inputs.Sektor}</div>
 <div class="inner-div">${inputs.Produktgruppe}</div>
+<div class="inner-div download">${downloadButton(tracker, {label: "Download selected data"})}</div>
 
 The "Metalworkers' Negotiations" scenario shows, by way of example, the development of the Collective Wage Index (TLI), the Consumer Price Index (CPI), the current real wages and the components of the Benya formula for the last two collective agreements in November of each of the years 2021 and 2022.
 
