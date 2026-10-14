@@ -1,0 +1,153 @@
+@import url("observablehq:default.css");
+@import url("observablehq:theme-air.css");
+
+/* Layout and typography of the original page (website/de/index.html). */
+:root {
+  --sans-serif: "Century Gothic", sans-serif;
+}
+
+#observablehq-center {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#observablehq-main {
+  font-family: "Century Gothic", sans-serif;
+  font-size: 15px;
+  text-align: justify;
+  line-height: 22px;
+  max-width: none;
+}
+
+#observablehq-main p {
+  max-width: none;
+}
+
+/* DE/EN toggle switch; the knob sits on the current language and the link leads to the other one. */
+.lang-toggle {
+  position: relative;
+  display: inline-flex;
+  padding: 2px;
+  border: 1px solid #2d5b5e;
+  border-radius: 999px;
+  font-size: 13px;
+  text-decoration: none !important;
+  user-select: none;
+}
+
+.lang-toggle::before {
+  content: "";
+  position: absolute;
+  top: 2px;
+  bottom: 2px;
+  left: 2px;
+  width: calc(50% - 2px);
+  border-radius: 999px;
+  background: #2d5b5e;
+  transition: transform 0.2s ease;
+}
+
+.lang-toggle.en::before {
+  transform: translateX(100%);
+}
+
+.lang-toggle:hover::before {
+  transform: translateX(15%);
+}
+
+.lang-toggle.en:hover::before {
+  transform: translateX(85%);
+}
+
+.lang-toggle span {
+  position: relative;
+  width: 32px;
+  line-height: 20px;
+  text-align: center;
+  color: #2d5b5e;
+}
+
+.lang-toggle span.active {
+  color: #fff;
+}
+
+/* Language switch (left) and logo (right) on one row. */
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.logo img {
+  display: block;
+  height: 36px;
+}
+
+.inner-div {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+}
+
+.footer {
+  height: 400px;
+}
+
+/* Inputs and chart styles carried over from the notebook embed. */
+svg text {
+  font-family: "Century Gothic";
+}
+
+label {
+  font-family: "Century Gothic" !important;
+  font-size: 13px;
+  --label-width: 280px !important;
+}
+
+select, button, option, output, form {
+  font-family: "Century Gothic" !important;
+  font-size: 13px !important;
+  font-weight: normal;
+  margin: 2px 0px 2px 0px;
+  padding: 2px 4px 2px 4px;
+}
+
+input, select {
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+  background-color: transparent !important;
+  margin: 0px 10px 0px 10px;
+  padding: 2px 4px 2px 4px;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+form {
+  width: 780px !important;
+  --input-width: 900px !important;
+  font-size: 13px;
+  font-weight: normal !important;
+}
+
+input {
+  width: 80px !important;
+  font-size: 13px;
+}
+
+table {
+  font-family: "Century Gothic";
+  font-size: 13px;
+  margin: 0px 0px 0px 0px;
+}
+
+#vg-tooltip-element {
+  background-color: rgba(255, 255, 255, 1);
+  font-size: 13px;
+  border-radius: 0px;
+  border: 0px solid;
+}

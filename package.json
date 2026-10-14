@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node --import ./poll-watch.js node_modules/@observablehq/framework/dist/bin/observable.js preview",
+    "build": "observable build",
+    "deploy": "observable build && scp -r dist/* lschmoigl@data-science.wifo.ac.at:/home/lschmoigl/datascience/htdocs/tariflohntracker/",
+    "observable": "observable"
+  },
+  "dependencies": {
+    "@observablehq/framework": "^1.13.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -567,9 +567,9 @@ TLI <- TLI |>
 
 # SAVE -------------------------------------------------------------------------
 
-write_csv(PROD, "K:/Github/tariflohnmonitor/PROD.csv")
-write_csv(VPI, "K:/Github/tariflohnmonitor/VPI.csv")
-write_csv(TLI, "K:/Github/tariflohnmonitor/TLI.csv")
+write_csv(PROD, "K:/Github/tariflohnmonitor/src/data/PROD.csv")
+write_csv(VPI, "K:/Github/tariflohnmonitor/src/data/VPI.csv")
+write_csv(TLI, "K:/Github/tariflohnmonitor/src/data/TLI.csv")
 
 
 # TEST -------------------------------------------------------------------------
